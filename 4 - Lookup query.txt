@@ -1,0 +1,11 @@
+SELECT
+     b.[ObjectName]
+    ,FolderName = b.[ObjectValue]
+    ,SQLTable   = s.[ObjectValue]
+    ,Delimiter  = d.[ObjectValue]
+FROM [dbo].[Metadata_ADF] b
+JOIN [dbo].[Metadata_ADF] s ON b.[ObjectName] = s.[ObjectName]
+JOIN [dbo].[Metadata_ADF] d ON b.[ObjectName] = d.[ObjectName]
+WHERE   b.[SourceType] = 'BlobContainer'
+    AND s.[SourceType] = 'SQLTable'
+    AND d.[SourceType] = 'Delimiter';
