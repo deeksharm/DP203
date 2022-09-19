@@ -1,0 +1,34 @@
+semicolon-> part1, part2
+comma -> part3
+
+SQL dataset : @dataset().SQLTable
+adls dataset : Containername / @dataset().FolderName / @dataset().Delimiter
+
+
+for each : @activity('GetMetaData').output.value
+
+copy activity : 
+Source:	
+@{item().FolderName}
+@{item()`.Delimiter}
+
+sink : 	
+@{item().SQLTable}
+
+Lookup: 
+
+SELECT
+     b.[ObjectName]
+    ,FolderName = b.[ObjectValue]
+    ,SQLTable   = s.[ObjectValue]
+    ,Delimiter  = d.[ObjectValue]
+FROM [dbo].[Metadata_ADF] b
+JOIN [dbo].[Metadata_ADF] s ON b.[ObjectName] = s.[ObjectName]
+JOIN [dbo].[Metadata_ADF] d ON b.[ObjectName] = d.[ObjectName]
+WHERE   b.[SourceType] = 'BlobContainer'
+    AND s.[SourceType] = 'SQLTable'
+    AND d.[SourceType] = 'Delimiter';
+	
+	
+	
+	
