@@ -1,0 +1,40 @@
+URL For refrence : 
+azure-docs/create-use-external-tables.md at master · MicrosoftDocs/azure-docs · GitHub
+CREATE  DATABASE mydb 
+    COLLATE Latin1_General_100_BIN2_UTF8;
+
+ 
+CREATE MASTER KEY ENCRYPTION BY PASSWORD ='Admin@123456';
+
+CREATE DATABASE SCOPED CREDENTIAL [sqlondemand]
+WITH IDENTITY='SHARED ACCESS SIGNATURE',  
+SECRET = '?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacupx&se=2021-10-20T22:03:01Z&st=2021-10-20T14:03:01Z&spr=https&sig=exmZUfu1iy%2BeXAwpI6ulEOxPojoCDXGO6aFC0aWMdkE%3D'
+
+CREATE EXTERNAL DATA SOURCE SqlOnDemandDemo WITH (
+    LOCATION = 'https://adlsoct.blob.core.windows.net/',
+    CREDENTIAL = sqlondemand
+);
+GO
+
+
+CREATE EXTERNAL FILE FORMAT Csv
+WITH (  
+    FORMAT_TYPE = DELIMITEDTEXT,
+    FORMAT_OPTIONS ( FIELD_TERMINATOR = ',', STRING_DELIMITER = '"', FIRST_ROW = 2   )
+);
+
+
+drop EXTERNAL TABLE movies
+
+CREATE EXTERNAL TABLE movies
+(
+    [Index] VARCHAR (5) COLLATE Latin1_General_BIN2,
+    [MovieTitle] VARCHAR (100) COLLATE Latin1_General_BIN2
+)
+WITH (
+    LOCATION = '/raw/TopMovies_Part3.csv',
+    DATA_SOURCE = SqlOnDemandDemo,
+    FILE_FORMAT = Csv
+);
+
+SELECT * from movies
