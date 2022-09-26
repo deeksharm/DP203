@@ -1,0 +1,40 @@
+---------------reading frile from adls location in spark pool using dataframe--------------------------
+%%pyspark
+df = spark.read.load('abfss://dynamicdata@adlsaug.dfs.core.windows.net/comma/TopMovies_Part3.csv', format='CSV')
+print(df)
+
+--------------create a db for table--------------------
+
+%%pyspark
+spark.sql("CREATE DATABASE IF NOT EXISTS nyctaxi")
+df.write.mode("overwrite").saveAsTable("nyctaxi.trip")
+
+----------------preview data from table--------------------
+%%pyspark
+df = spark.sql("SELECT * FROM nyctaxi.trip").show(3)
+display(df)
+
+
+-------create & preview file--------
+
+%%pyspark
+df = spark.read.load('abfss://adf@adlsaug.dfs.core.windows.net/Person.csv', format='csv'
+## If header exists uncomment line below
+, header=True
+)
+df.write.mode("overwrite").saveAsTable("default.person")
+spark.sql("SELECT * FROM default.person").show(3)
+
+
+
+-------------create table in dedicated pool-----------
+
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+INSERT INTO Persons VALUES (1,'Zoe','kl','USA','USA')
