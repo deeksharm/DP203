@@ -1,0 +1,11 @@
+Connect-AzAccount
+
+$resourceGroup = "powershell_resourcegroup"
+$location = "eastus"
+New-AzResourceGroup -Name $resourceGroup -Location $location
+
+New-AzStorageAccount -ResourceGroupName $resourceGroup `
+  -Name powershellstorage1404 `
+  -Location $location `
+  -SkuName Standard_RAGRS `
+  -Kind StorageV2
