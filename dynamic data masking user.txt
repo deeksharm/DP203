@@ -1,0 +1,9 @@
+CREATE USER testlogin WITHOUT LOGIN; 
+
+GRANT SELECT ON SalesLT.Customer TO testlogin;
+
+EXECUTE AS USER = 'testlogin';  
+SELECT * FROM SalesLT.Customer;
+REVERT;  
+
+CREATE LOGIN readonlylogin WITH password='1231!#ASDF!a';
