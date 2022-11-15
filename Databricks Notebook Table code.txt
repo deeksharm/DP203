@@ -1,0 +1,3 @@
+spark.sql("CREATE TABLE cities  (name STRING, population INT) USING PARQUET")
+spark.sql("INSERT INTO cities VALUES (\'Seattle\', 730400), (\'San Francisco\', 881549), (\'Beijing\', 21540000), (\'Bangalore\', 10540000)")
+display(spark.sql("SELECT * FROM cities ORDER BY name"))
