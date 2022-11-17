@@ -1,0 +1,11 @@
+CREATE TABLE Persons_Details (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+select * from Persons_Details
+
+truncate table dbo.persons
