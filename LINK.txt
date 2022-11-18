@@ -2,3 +2,6 @@ https://microsoftlearning.github.io/DP-203-Data-Engineer/Instructions/Labs/LAB_0
 
 Exercise import :
  https://github.com/MicrosoftLearning/DP-203-Data-Engineer/raw/master/Allfiles/microsoft-learning-paths-databricks-notebooks/data-engineering/DBC/07-Dataframe-Advanced-Methods.dbc
+
+
+ https://www.microsoftazurepass.com/
