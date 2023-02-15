@@ -5,3 +5,11 @@ Exercise import :
 
 
  https://www.microsoftazurepass.com/
+
+
+Server details:
+Server:sqlserverdemo2023.database.windows.net
+User : Adminlogin
+Password: India@123
+
+
