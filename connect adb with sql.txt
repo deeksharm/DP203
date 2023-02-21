@@ -1,0 +1,15 @@
+%sql
+CREATE TEMPORARY VIEW employees_table_vw
+USING JDBC
+OPTIONS (
+  url "jdbc:sqlserver://batchcsqlserver.database.windows.net:1433;database=batchcsqldb",
+  dbtable "[SalesLT].[Address]",
+  user 'adminlogin',
+  password 'India@123'
+)
+
+%sql
+DESCRIBE employees_table_vw
+
+%sql
+SELECT * from employees_table_vw
