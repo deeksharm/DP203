@@ -19,3 +19,7 @@ https://github.com/MicrosoftLearning/DP-203-Data-Engineer/raw/master/Allfiles/mi
 
 Azure functions setup:
 https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python?pivots=python-mode-configuration
+
+
+azure devops 
+https://azuredevopsdemogenerator.azurewebsites.net/
