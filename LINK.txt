@@ -23,3 +23,6 @@ https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs
 
 azure devops 
 https://azuredevopsdemogenerator.azurewebsites.net/
+
+blob triggers
+https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function
