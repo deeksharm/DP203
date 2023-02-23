@@ -29,3 +29,6 @@ https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage
 
 ML model Data
 https://aka.ms/diabetes-data
+
+MLpredictive data model
+ git clone https://github.com/MicrosoftLearning/mslearn-dp100 mslearn-dp100
