@@ -26,3 +26,6 @@ https://azuredevopsdemogenerator.azurewebsites.net/
 
 blob triggers
 https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function
+
+ML model Data
+https://aka.ms/diabetes-data
