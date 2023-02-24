@@ -1,0 +1,20 @@
+npm install @azure/storage-blob
+ 
+ 
+ 
+module.exports = async function (context, myBlob) {
+ if(myBlob.length>7000){
+ const options = {
+   deleteSnapshots: 'include' // or 'only'
+ }
+   const { BlobServiceClient } = require('@azure/storage-blob');
+   const connString = '+RnaJMq8Uzek1mowAmkeucFVq3BBJCeE/utAli3Kd7Ga/q4x+pbmpAlWxOxpZa7mH38t8G1CVv45+AStaCj7QA==';
+   const blobServiceClient = BlobServiceClient.fromConnectionString(connString);
+   const containerClient = await blobServiceClient.getContainerClient(context.bindingData.blobTrigger.split('/')[0]);
+   const blockBlobClient = await containerClient.getBlockBlobClient(context.bindingData.blobTrigger.split('/')[1]);
+   await blockBlobClient.deleteIfExists(options);
+   context.log("blob deleted")
+ }else{
+   context.log("JavaScript blob trigger function processed blob \n Blob:", context.bindingData.blobTrigger, "\n Blob Size:", myBlob.length, "Bytes");
+ }
+};
