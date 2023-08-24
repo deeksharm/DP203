@@ -1,0 +1,6 @@
+write down a sql query to display 
+ProductID with productname, product description, 
+product model, productcategory,product no & 
+list price
+
+Display product model with standard cost
