@@ -1,0 +1,4 @@
+25/08/2023
+Apply masking on table
+create new user in sql & view masked data in sql table.
+
