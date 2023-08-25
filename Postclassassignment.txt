@@ -2,3 +2,5 @@
 Apply masking on table
 create new user in sql & view masked data in sql table.
 
+https://www.programiz.com/
+https://regex101.com/
