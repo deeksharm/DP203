@@ -4,3 +4,10 @@ create new user in sql & view masked data in sql table.
 
 https://www.programiz.com/
 https://regex101.com/
+
+SQL:
+write query for customer full name address, phone, email, compony.
+Write query to show how many customer are in same compony 
+Write query to show how many customer are in same country 
+
+
