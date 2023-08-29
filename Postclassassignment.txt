@@ -33,3 +33,7 @@ Refrence:
 select * from [SalesLT].[Address]
 select * from [SalesLT].[Product]
 select * from [SalesLT].[SalesOrderDetail]
+
+Python : 
+Take input of country & display acronym with respect to that
+https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/country-acronyms.html
