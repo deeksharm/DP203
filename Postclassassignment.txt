@@ -28,6 +28,8 @@ ADLS(person.csv or CustomerSource.csv) -> ADF -> SQL Table(dbo.person or dbo.Cus
 SQL->
 1.Write SQL query to display top 10 sold product with product name, productid, quantitiy
 2. Replace Product size s-> 30, M-> 32, L-> 34, XL-> 36, XXL-> 38 to display availble product group by size.
+
+Refrence:
 select * from [SalesLT].[Address]
 select * from [SalesLT].[Product]
 select * from [SalesLT].[SalesOrderDetail]
