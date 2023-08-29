@@ -11,3 +11,11 @@ Write query to show how many customer are in same compony
 Write query to show how many customer are in same country 
 
 
+28/08/2023
+SELECT *   FROM [SalesLT].[SalesOrderHeader]
+select * from [SalesLT].[SalesOrderDetail]
+select * from [SalesLT].[Product]
+
+write a sql query as per product id & product name to identify diffrence between Due date & ship date
+
+
