@@ -21,6 +21,9 @@ write a sql query as per product id & product name to identify diffrence between
 
 29/08/2023
 ADF -> PUT ZIP FILE IN BLOB
+
+31/08/2023
+https://www.microsoft.com/en-us/download/details.aspx?id=39717
 zip -> unzip(3csv - ADLS/Raw/YourName)-> 1Parquet(1 - ADLS/refined/YourName)
 
 ADLS(person.csv or CustomerSource.csv) -> ADF -> SQL Table(dbo.person or dbo.CustomerSource)
