@@ -40,3 +40,7 @@ select * from [SalesLT].[SalesOrderDetail]
 Python : 
 Take input of country & display acronym with respect to that
 https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/country-acronyms.html
+
+
+05/09/2023
+Tranform customersource data with new column of salesperson, timestamp, Gender.
