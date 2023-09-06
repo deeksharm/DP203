@@ -44,3 +44,8 @@ https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/f
 
 05/09/2023
 Tranform customersource data with new column of salesperson, timestamp, Gender.
+
+06/09/2023
+remove underscore, columnname camel case, diffrent column for date & time
+df = spark.sql("SELECT * FROM `samples`.`nyctaxi`.`trips`")
+display(df)
