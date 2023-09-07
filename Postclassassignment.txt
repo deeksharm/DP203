@@ -49,3 +49,16 @@ Tranform customersource data with new column of salesperson, timestamp, Gender.
 remove underscore, columnname camel case, diffrent column for date & time
 df = spark.sql("SELECT * FROM `samples`.`nyctaxi`.`trips`")
 display(df)
+
+07/09/2023
+df = (spark                    # Our SparkSession & Entry Point
+  .read                        # Our DataFrameReader
+  <<FILL_IN>>                  # Read in the parquet files
+  <<FILL_IN>>                  # Reduce the columns to just the one
+  <<FILL_IN>>                  # Produce a unique set of values
+)
+totalArticles = df.<<FILL_IN>> 
+
+Timestamp -> InsertTime, Dataype-> timestmao
+remove underscore from phone column
+firstname-> uppercase
