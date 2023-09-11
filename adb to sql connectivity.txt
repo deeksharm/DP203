@@ -1,0 +1,23 @@
+# Details about connection string
+logicalServername = "sqlservera2023.database.windows.net"
+databaseName = "sqldb"
+tableName = "CustomerSource"
+userName = "Adminlogin"
+password = "Welcome@123" # Please specify password here
+jdbcUrl = "jdbc:sqlserver://{0}:{1};database={2}".format(logicalServername, 1433, databaseName)
+connectionProperties = {
+  "user" : userName,
+  "password" : password,
+  "driver" : "com.microsoft.sqlserver.jdbc.SQLServerDriver"
+}
+
+
+df.write.jdbc(jdbcUrl,  
+                   mode ="append", 
+                   table=tableName, 
+                   properties=connectionProperties)
+
+
+jdf= spark.read.jdbc(jdbcUrl,  
+                   table=tableName, 
+                   properties=connectionProperties)
