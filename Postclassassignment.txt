@@ -62,3 +62,6 @@ totalArticles = df.<<FILL_IN>>
 Timestamp -> InsertTime, Dataype-> timestmao
 remove underscore from phone column
 firstname-> uppercase
+
+--> 11/09/2023
+load data from dataframe to adls delta table under refined container with below column -> fullname, gender, phone, emailaddress
