@@ -1,0 +1,27 @@
+logic app
+
+{
+    "properties": {
+        "dataFactoryName": {
+            "type": "string"
+        },
+        "message": {
+            "type": "string"
+        },
+        "pipelineName": {
+            "type": "string"
+        },
+        "receiver": {
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
+
+adf:
+{
+    "message" : "This is a custom dynamic message from your pipeline with run ID @{pipeline().RunId}.",
+    "dataFactoryName" : "@{pipeline().DataFactory}", 
+    "pipelineName" : "@{pipeline().Pipeline}", 
+    "receiver" : "@{pipeline().parameters.receiver}"
+   }
