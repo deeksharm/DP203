@@ -1,0 +1,7 @@
+27/09/2023
+Create SQL User to query mask data & validate masking
+
+SQL:
+write query for customer full name, phone, email, compony.
+Write query to show how many customer are in same compony .
+Write query to show how many customer are in same country ->[SalesLT].[Address],[SalesLT].[Customer]
