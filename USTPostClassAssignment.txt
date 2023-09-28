@@ -5,3 +5,8 @@ SQL:
 write query for customer full name, phone, email, compony.
 Write query to show how many customer are in same compony .
 Write query to show how many customer are in same country ->[SalesLT].[Address],[SalesLT].[Customer]
+
+
+28/09/2023
+ADF: 
+Design a pipeline to unzip file from Blob raw to datalake refined.
