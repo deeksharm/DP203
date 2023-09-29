@@ -10,3 +10,10 @@ Write query to show how many customer are in same country ->[SalesLT].[Address],
 28/09/2023
 ADF: 
 Design a pipeline to unzip file from Blob raw to datalake refined.
+
+29/09/2023
+Explore Hadoop & big data
+https://data-flair.training/blogs/hadoop-tutorial/
+assement of 1st week on cloud needs to complete.
+
+
