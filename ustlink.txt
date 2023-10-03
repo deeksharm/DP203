@@ -22,3 +22,8 @@ AccountProperties account = await client.ReadAccountAsync();
 
 Console.WriteLine($"Account Name:\t{account.Id}");
 Console.WriteLine($"Primary Region:\t{account.WritableRegions.FirstOrDefault()?.Name}");
+
+
+open terminal run below comman
+ dotnet add package Microsoft.Azure.Cosmos --version 3.22.1
+ dotnet run
