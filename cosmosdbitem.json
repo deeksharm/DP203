@@ -6,3 +6,7 @@
      "description": "The product called \"Road Helmet,45\" ",
      "price": 48.74
  }
+---------------------------
+ SELECT *
+ FROM c
+ WHERE CONTAINS(c.name,"Helmet")
