@@ -1,0 +1,24 @@
+VS Code : https://code.visualstudio.com/docs/?dv=win
+
+https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+Downlod sdk & runtime in system
+
+clone git
+https://github.com/microsoftlearning/dp-420-cosmos-db-dev
+
+put below code in script.cs
+
+using System;
+using System.Linq;
+
+using Microsoft.Azure.Cosmos;
+
+string endpoint = "<cosmos-endpoint>";
+string key = "<cosmos-key>";
+
+CosmosClient client = new (endpoint, key);
+
+AccountProperties account = await client.ReadAccountAsync();
+
+Console.WriteLine($"Account Name:\t{account.Id}");
+Console.WriteLine($"Primary Region:\t{account.WritableRegions.FirstOrDefault()?.Name}");
