@@ -23,6 +23,70 @@ AccountProperties account = await client.ReadAccountAsync();
 Console.WriteLine($"Account Name:\t{account.Id}");
 Console.WriteLine($"Primary Region:\t{account.WritableRegions.FirstOrDefault()?.Name}");
 
+------------------------------------------------------------------------------------------------
+For CRUD
+
+ using System;
+ using Microsoft.Azure.Cosmos;
+
+ string endpoint = "https://madhangicosmosdb.documents.azure.com:443/";
+
+ string key = "QCh8V9HVHkDiePiYVRrgezRlK04yFb2N6eX3yLmEAO0jr9m3S23yZi98ProAmwLykbxXxLRzAnbLACDbfS3KFA==";
+
+
+ CosmosClient client = new CosmosClient(endpoint, key);
+    
+ Database database = await client.CreateDatabaseIfNotExistsAsync("SampleDB");
+    
+ Container container = await database.CreateContainerIfNotExistsAsync("products", "/categoryId", 400);
+
+ Product saddle = new()
+ {
+     id = "706cd7c6-db8b-41f9-aea2-0e0c7e8eb009",
+     categoryId = "9603ca6c-9e28-4a02-9194-51cdb7fea816",
+     name = "Road Saddle",
+     price = 45.99d,
+     tags = new string[]
+     {
+         "tan",
+         "new",
+         "crisp"
+     }
+ };
+
+ await container.CreateItemAsync<Product>(saddle);
+
+--------------------------------------------------------------------
+Paginate sql query
+ using System;
+ using Microsoft.Azure.Cosmos;
+
+ string endpoint = "https://madhangicosmosdb.documents.azure.com:443/";
+
+ string key = "QCh8V9HVHkDiePiYVRrgezRlK04yFb2N6eX3yLmEAO0jr9m3S23yZi98ProAmwLykbxXxLRzAnbLACDbfS3KFA==";
+
+ CosmosClient client = new CosmosClient(endpoint, key);
+
+ Database database = await client.CreateDatabaseIfNotExistsAsync("SampleDB");
+
+ Container container = await database.CreateContainerIfNotExistsAsync("products", "/categoryId");
+
+using FeedIterator<Product> feed = container.GetItemQueryIterator<Product>(
+    queryText: "SELECT * FROM products"
+);
+
+// Iterate query result pages
+while (feed.HasMoreResults)
+{
+    FeedResponse<Product> response = await feed.ReadNextAsync();
+
+    // Iterate query results
+    foreach (Product item in response)
+    {
+        Console.WriteLine($"Found item:\t{item.name}");
+    }
+}
+
 
 open terminal run below comman
  dotnet add package Microsoft.Azure.Cosmos --version 3.22.1
