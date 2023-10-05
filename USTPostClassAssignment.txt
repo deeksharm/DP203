@@ -16,4 +16,12 @@ Explore Hadoop & big data
 https://data-flair.training/blogs/hadoop-tutorial/
 assement of 1st week on cloud needs to complete.
 
-
+05/10/2023
+Firstname + middle name + Last Name  = Full Name
+Gender column F= Female & M = Male
+CustomerID: integer (nullable = true)
+FulltName: string (nullable = true)
+CompanyName: string (nullable = true)
+SalesPerson: string (nullable = true)
+EmailAddres
+Phone
