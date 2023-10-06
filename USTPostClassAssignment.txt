@@ -27,3 +27,16 @@ SalesPerson: string (nullable = true)
 EmailAddres
 Phone
 Gneder
+
+06/10/2023
+
+# TODO
+# Replace <<FILL_IN>> with your code. 
+
+pdf = (df.read                    # Our SparkSession & Entry Point
+  <<FILL_IN>>                  # Reduce the columns to just the one
+  <<FILL_IN>>                  # Produce a unique set of values
+)
+totalArticles = df.<<FILL_IN>> # Identify the total number of records remaining.
+
+print("Distinct Articles: ".format(totalArticles))
