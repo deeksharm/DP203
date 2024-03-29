@@ -10,7 +10,7 @@ load data local infile 'ratings.data' into table irate field terminated by '/t' 
 
 
 sqoop import --connect jdbc:mysql://localhost:3306/importedata --username root --password password --table irate --target-dir /newimported --m 1
-
+sqoop export --connect jdbc:mysql://localhost:3306/importedata --table erated --username root --password password --export-dir hdfs:///ratings.data --input-fields-terminated-by '/t' --input-lines-terminated-by '/n' 
 
 Employee performance analytics: build a platform to analyze employee performance data, identify key performance indicator using spark dataframe
 
