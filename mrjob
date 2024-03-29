@@ -1,3 +1,17 @@
+python MovieRatings.py -r hadoop hdfs:///ratings.data
+
+create table irate(uid int, mid int, rating int, ts int);
+create table exrate(uid int, mid int, rating int, ts int) ROW FORMAT DELIMITED FIELDS TERMINATED BY '/t' LINES TERMINATED BY '\n;
+
+
+load data local infile 'ratings.data' into table irate field terminated by '/t' line terminated by '/n';
+
+/ratings.data
+
+
+sqoop import --connect jdbc:mysql://localhost:3306/importedata --username root --password password --table irate --target-dir /newimported --m 1
+
+
 Employee performance analytics: build a platform to analyze employee performance data, identify key performance indicator using spark dataframe
 
 yum-config-manager --save --setopt=HDP-SOLR-2.6-100.skip_if_unavailable=true
