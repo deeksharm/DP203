@@ -1,0 +1,18 @@
+Employee performance analytics: build a platform to analyze employee performance data, identify key performance indicator using spark dataframe
+
+yum-config-manager --save --setopt=HDP-SOLR-2.6-100.skip_if_unavailable=true
+yum install https://repo.ius.io/ius-release-el7.rpm https://dl.fedoraproject.org/pub/epel...
+yum install python-pip
+pip install pathlib
+pip install mrjob==0.7.4
+pip install PyYAML==5.4.1
+yum install nano
+yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-mapreduce-examples.jar pi 10 100
+
+https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html
+
+Running locally:
+python MovieRatings.py ratings.data
+Running on Hadoop cluster:
+python MovieRatings.py –r hadoop --hadoop-streaming-jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar ratings.data
+
