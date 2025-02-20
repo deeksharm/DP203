@@ -1,0 +1,22 @@
+trigger:
+- main
+
+pool:
+  name: 'self-hosted'   # Replace with your agent pool name
+  demands:
+  - Agent.Name -equals MyWindowsAgent
+
+steps:
+- script: echo "Hello, Azure DevOps!"
+  displayName: 'Print Welcome Message'
+
+- script: echo "Starting build process..."
+  displayName: 'Start Build'
+
+- script: |
+    echo "Compiling code..."
+    echo "Build successful!"
+  displayName: 'Compile and Build'
+
+- script: echo "Pipeline execution complete."
+  displayName: 'Build Complete'
