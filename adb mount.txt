@@ -1,3 +1,12 @@
+go to github -> Create adb mount.txt
+azure -> microsift entra id -> app registration -> create new app
+once app created -> certificate & secret -> create new secret(store in notepad)
+copy service principle name -> databricks (IAM) -> Grant contributor access
+copy service principle name -> Datalake (IAM) -> Grant storage blob data contributor
+Datalake (IAM) -> Grant storage blob data contributor -> Asearch for AzureDatabricks
+go to code in nb -> update app-id, secret, directory, path of mounting & storage
+---------------------------------------------------------------------------------------------
+
 configs = {"fs.azure.account.auth.type": "OAuth",
           "fs.azure.account.oauth.provider.type": "org.apache.hadoop.fs.azurebfs.oauth2.ClientCredsTokenProvider",
           "fs.azure.account.oauth2.client.id": "<app-id>",
