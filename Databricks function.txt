@@ -1,0 +1,16 @@
+from pyspark.sql import functions as F
+# df.show()  #-> spark core, top 20 rows, raw data
+# display(df.limit(5)) #-> databricks function, up to 1000 rows, enriched format
+# df.printSchema()
+# fdf = df.select('CustomerID','FirstName','LastName')
+# kdf = (df.drop('CustomerID','FirstName','LastName'))
+# display(df)
+# display(kdf)
+# display(df.filter(df.Suffix.isNotNull()))
+# display(df.withColumnRenamed('FirstName','Name'))
+ddf=df.withColumn('InsertDate', F.current_timestamp())
+df.createOrReplaceTempView('dfview')
+sdf = spark.sql("select * from dfview where CompanyName = 'A Bike Store'")
+display(sdf)
+display(ddf)
+df.select()
