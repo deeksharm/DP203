@@ -1,4 +1,15 @@
 %python
+# Read the features and target from CSV files
+iris_features = pd.read_csv("/dbfs/FileStore/iris_features.csv")
+iris_target = pd.read_csv("/dbfs/FileStore/iris_target.csv")
+
+# Display the data
+display(iris_features)
+display(iris_target)
+
+----------------------------------------------------
+
+%python
 # Import necessary libraries
 import numpy as np
 import pandas as pd
