@@ -1,3 +1,23 @@
+CREATE TABLE dbo.config(
+    ID INT NOT NULL,
+    SourceType VARCHAR(50) NOT NULL,   ---optional
+    Foldername VARCHAR(500) NOT NULL,
+    Tablename VARCHAR(1000) NOT NULL
+);
+
+INSERT INTO dbo.[config]
+(   ID
+    ,[SourceType]
+   ,[Foldername]
+   ,Tablename
+)
+VALUES  (1,'semicolondata','semicolon','topmovies_semicolon')
+        ,(2,'commadata','comma','topmovies_comma');
+ 
+ ---------------
+ select * from dbo.[config]
+------------------------------------------------------------------------------------------
+
 CREATE TABLE dbo.Metadata_ADF(
     ID INT IDENTITY(1,1) NOT NULL,
     SourceType VARCHAR(50) NOT NULL,
