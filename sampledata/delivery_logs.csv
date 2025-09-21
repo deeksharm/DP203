@@ -1,0 +1,1001 @@
+delivery_id,shipment_id,carrier,status,delivery_duration_days,damage_flag,proof_of_delivery_status
+D00000,S00001,Wallace-Bell,Delayed,7,0,Signed
+D00001,S00002,"Williams, Hunt and Rogers",In Transit,10,1,Pending
+D00002,S00003,Mcdonald-Ortiz,Lost,10,0,Missing
+D00003,S00004,Stewart-Reyes,In Transit,7,1,Signed
+D00004,S00005,Alexander LLC,Lost,5,0,Signed
+D00005,S00006,"Jones, Valenzuela and Phillips",Delayed,5,0,Signed
+D00006,S00007,"Hunt, Schneider and Hartman",Delayed,5,1,Signed
+D00007,S00008,Garcia Inc,In Transit,8,0,Missing
+D00008,S00009,Johnson-Gonzalez,In Transit,4,0,Pending
+D00009,S00010,Leonard LLC,Delayed,7,0,Missing
+D00010,S00011,Mcgee-Mack,Delivered,2,1,Pending
+D00011,S00012,Lee-Munoz,In Transit,9,1,Signed
+D00012,S00013,Murillo Ltd,Delayed,6,1,Pending
+D00013,S00014,"Daniels, Green and Carrillo",Delayed,4,1,Pending
+D00014,S00015,Short-Logan,Lost,8,0,Missing
+D00015,S00016,Bautista-Underwood,In Transit,9,1,Signed
+D00016,S00017,"Smith, Valdez and Hays",Lost,5,1,Signed
+D00017,S00018,Grimes and Sons,Delayed,4,0,Signed
+D00018,S00019,Cummings and Sons,Lost,2,0,Missing
+D00019,S00020,Hall-Matthews,Delayed,8,0,Missing
+D00020,S00021,"Todd, Sharp and Murray",In Transit,9,0,Missing
+D00021,S00022,Edwards and Sons,In Transit,8,1,Pending
+D00022,S00023,Carrillo-Wolfe,Delivered,3,0,Missing
+D00023,S00024,Gonzales PLC,In Transit,9,0,Missing
+D00024,S00025,Brooks PLC,Delivered,9,1,Signed
+D00025,S00026,Torres Ltd,Delayed,4,0,Pending
+D00026,S00027,Porter Ltd,Delayed,3,1,Missing
+D00027,S00028,Morgan-Barnes,Lost,6,1,Pending
+D00028,S00029,"Goodwin, Farmer and Vaughn",Lost,10,0,Pending
+D00029,S00030,Nguyen-Johnson,Lost,7,1,Missing
+D00030,S00031,Weeks and Sons,Delayed,2,0,Missing
+D00031,S00032,Carroll-Lloyd,Delivered,2,0,Signed
+D00032,S00033,"Berry, Myers and James",Delivered,3,0,Pending
+D00033,S00034,Brown-Hughes,Delivered,7,1,Pending
+D00034,S00035,Rodriguez-Hudson,Lost,5,0,Signed
+D00035,S00036,Fowler-Torres,Delivered,7,1,Signed
+D00036,S00037,Garcia PLC,Delayed,2,1,Missing
+D00037,S00038,Johnson Ltd,In Transit,10,0,Pending
+D00038,S00039,"Burns, Lopez and Jones",Lost,10,0,Pending
+D00039,S00040,Campbell-Hall,Delivered,5,0,Pending
+D00040,S00041,"Warren, Gibson and Wood",Delayed,6,1,Pending
+D00041,S00042,Jackson Group,Delayed,4,0,Missing
+D00042,S00043,Moore-Rodriguez,Delivered,2,1,Signed
+D00043,S00044,"Barnes, Paul and Price",Delivered,4,0,Signed
+D00044,S00045,Anderson and Sons,Delayed,6,1,Missing
+D00045,S00046,Reynolds-Mckinney,In Transit,10,1,Signed
+D00046,S00047,Moore-Andrews,Lost,7,0,Missing
+D00047,S00048,Matthews-Shaw,Delayed,10,0,Signed
+D00048,S00049,"Stevens, Harris and Ritter",Lost,6,1,Signed
+D00049,S00050,Brown-Ross,Delivered,6,1,Pending
+D00050,S00051,Fox PLC,Lost,9,1,Signed
+D00051,S00052,Stevens-Johnston,Delivered,6,0,Missing
+D00052,S00053,"Davis, Lucas and Ellison",Delivered,4,1,Missing
+D00053,S00054,Graves-Dawson,In Transit,4,1,Signed
+D00054,S00055,Myers-Colon,In Transit,10,0,Missing
+D00055,S00056,Perry and Sons,In Transit,4,0,Signed
+D00056,S00057,"Quinn, Ellis and Bartlett",Lost,10,0,Missing
+D00057,S00058,Hale Inc,Delivered,9,1,Missing
+D00058,S00059,Hale-Williams,Lost,4,0,Missing
+D00059,S00060,Hill Ltd,Delivered,7,1,Pending
+D00060,S00061,"Carter, Hendricks and Wolfe",Delivered,4,1,Pending
+D00061,S00062,"Barrera, Kerr and Jenkins",Lost,7,0,Pending
+D00062,S00063,"Martinez, Wood and Campos",In Transit,4,0,Pending
+D00063,S00064,"Miranda, Nguyen and Hayes",In Transit,8,1,Signed
+D00064,S00065,Clark-Williams,Lost,7,1,Pending
+D00065,S00066,Jones Ltd,In Transit,10,1,Signed
+D00066,S00067,"Brady, James and Reese",Lost,10,1,Pending
+D00067,S00068,Sanders Inc,Lost,10,0,Missing
+D00068,S00069,Wilson-Stark,In Transit,10,0,Pending
+D00069,S00070,Santiago-Marshall,In Transit,8,1,Pending
+D00070,S00071,Jones-Kelley,Delayed,7,0,Pending
+D00071,S00072,Reeves Group,Delayed,3,1,Missing
+D00072,S00073,Ruiz LLC,Delayed,9,0,Signed
+D00073,S00074,Jackson Inc,Lost,8,0,Pending
+D00074,S00075,"Garcia, Phillips and Nichols",Delivered,5,0,Missing
+D00075,S00076,Jackson-Powers,Delivered,7,0,Pending
+D00076,S00077,Byrd and Sons,Delayed,2,0,Missing
+D00077,S00078,Howard-Robinson,In Transit,4,1,Signed
+D00078,S00079,Stafford PLC,In Transit,5,1,Missing
+D00079,S00080,Ramos Inc,Lost,2,1,Signed
+D00080,S00081,"Cain, Davidson and Moran",In Transit,9,1,Missing
+D00081,S00082,Myers LLC,Delivered,6,0,Missing
+D00082,S00083,Williams-Smith,Lost,3,0,Missing
+D00083,S00084,Wang-Mcfarland,Delayed,4,0,Missing
+D00084,S00085,Kerr-Gonzalez,Delivered,3,1,Signed
+D00085,S00086,Fisher Inc,Delivered,7,1,Signed
+D00086,S00087,Hoover-Frazier,Lost,9,1,Signed
+D00087,S00088,Walker Inc,Delivered,2,0,Signed
+D00088,S00089,"Jackson, Jackson and Perry",Delivered,7,0,Pending
+D00089,S00090,Ochoa LLC,Delivered,2,0,Signed
+D00090,S00091,"Sims, Weber and Villa",Delivered,2,0,Pending
+D00091,S00092,Mcmillan-Martinez,Lost,10,0,Pending
+D00092,S00093,Rodriguez LLC,In Transit,4,1,Signed
+D00093,S00094,Smith Ltd,In Transit,6,1,Pending
+D00094,S00095,Smith-Lewis,In Transit,10,0,Pending
+D00095,S00096,Jones LLC,Lost,4,1,Missing
+D00096,S00097,"Hanson, Williams and Mcclure",Delivered,8,1,Signed
+D00097,S00098,Turner-George,Lost,10,1,Pending
+D00098,S00099,Marquez PLC,Delivered,10,1,Missing
+D00099,S00100,King Inc,Lost,8,1,Missing
+D00100,S00101,"Nguyen, Mccoy and Price",Delivered,2,1,Missing
+D00101,S00102,"Anderson, Thompson and Gill",In Transit,4,1,Signed
+D00102,S00103,"Stewart, York and Olson",Lost,4,0,Pending
+D00103,S00104,Smith-Barr,Delivered,5,1,Pending
+D00104,S00105,Reyes-Davidson,Delivered,6,0,Signed
+D00105,S00106,Gordon Ltd,Delivered,8,1,Pending
+D00106,S00107,Hall PLC,In Transit,8,0,Missing
+D00107,S00108,Parker Ltd,Lost,2,0,Pending
+D00108,S00109,Todd-Harvey,In Transit,3,1,Signed
+D00109,S00110,Taylor Group,Lost,3,0,Signed
+D00110,S00111,Harris-Bennett,Delayed,4,0,Missing
+D00111,S00112,"Johnson, Mclean and George",Lost,6,0,Missing
+D00112,S00113,Stevenson-Murphy,Delayed,5,1,Pending
+D00113,S00114,Stewart-Buchanan,Lost,2,0,Pending
+D00114,S00115,Meyer Group,Delivered,4,1,Signed
+D00115,S00116,"Hess, Christensen and Perez",Lost,5,1,Signed
+D00116,S00117,"Rivera, Allen and Ryan",Delivered,4,1,Missing
+D00117,S00118,"Mcneil, Solis and Horton",In Transit,7,1,Signed
+D00118,S00119,Franklin Group,Delayed,8,0,Signed
+D00119,S00120,"Morris, Ramos and Smith",Lost,10,1,Signed
+D00120,S00121,Jones-Lee,Delivered,10,1,Missing
+D00121,S00122,"Braun, Mays and Martinez",Delayed,3,1,Signed
+D00122,S00123,Watkins and Sons,In Transit,9,0,Signed
+D00123,S00124,Romero Group,In Transit,5,1,Signed
+D00124,S00125,"Mcdonald, Martin and Gonzalez",Lost,4,0,Signed
+D00125,S00126,Thompson-Wright,Delayed,8,0,Signed
+D00126,S00127,Ray-Faulkner,Delivered,3,1,Pending
+D00127,S00128,Nelson Group,In Transit,3,1,Signed
+D00128,S00129,Tapia LLC,In Transit,7,0,Pending
+D00129,S00130,Gray-Ruiz,Lost,3,0,Pending
+D00130,S00131,Wagner-Moss,Lost,6,1,Signed
+D00131,S00132,Weiss Group,Delivered,9,0,Pending
+D00132,S00133,Gill Group,In Transit,10,1,Pending
+D00133,S00134,Blake LLC,Delayed,3,0,Signed
+D00134,S00135,"Medina, Tran and Thompson",Delivered,2,0,Signed
+D00135,S00136,Ford-Chavez,Delayed,9,0,Pending
+D00136,S00137,Hart-Castillo,In Transit,7,1,Pending
+D00137,S00138,Taylor-Harrison,Delivered,3,0,Missing
+D00138,S00139,Hendricks Inc,Lost,5,0,Missing
+D00139,S00140,Hensley Ltd,Delivered,6,0,Signed
+D00140,S00141,"Brooks, Sullivan and Perry",Delayed,10,1,Signed
+D00141,S00142,Waller-Brooks,Lost,8,0,Pending
+D00142,S00143,Parker-Archer,Delivered,9,0,Signed
+D00143,S00144,Ortiz Inc,In Transit,4,0,Pending
+D00144,S00145,Cruz PLC,Delayed,9,1,Signed
+D00145,S00146,Lee Group,Lost,10,0,Signed
+D00146,S00147,Wise-Walton,Lost,10,1,Pending
+D00147,S00148,Hicks-Burns,Delayed,9,0,Signed
+D00148,S00149,"Richardson, Brown and Cruz",Lost,6,0,Signed
+D00149,S00150,Fitzgerald-Allen,Delayed,4,0,Signed
+D00150,S00151,Dorsey LLC,Lost,2,0,Missing
+D00151,S00152,"Mann, Johnson and Wade",Delayed,8,0,Missing
+D00152,S00153,Green Group,Lost,5,1,Signed
+D00153,S00154,"Hernandez, Wright and Lane",In Transit,3,1,Signed
+D00154,S00155,"Skinner, Smith and Wise",Lost,7,0,Pending
+D00155,S00156,"Dawson, Cruz and Mccarthy",Lost,9,0,Signed
+D00156,S00157,Stone and Sons,In Transit,6,1,Pending
+D00157,S00158,Martin-Simmons,Delayed,7,0,Pending
+D00158,S00159,"Turner, Ponce and Barrett",Lost,3,0,Signed
+D00159,S00160,Willis-Gross,In Transit,7,1,Signed
+D00160,S00161,"Booth, Rodriguez and Armstrong",Lost,4,0,Pending
+D00161,S00162,Olsen-Adams,Delivered,5,0,Missing
+D00162,S00163,Conrad Group,Delayed,10,0,Pending
+D00163,S00164,"Parker, Benitez and Velasquez",In Transit,8,1,Pending
+D00164,S00165,Davis Ltd,Lost,3,1,Pending
+D00165,S00166,Warren-Pena,In Transit,10,1,Pending
+D00166,S00167,"Jordan, Thompson and Lopez",Lost,6,1,Missing
+D00167,S00168,Gonzalez and Sons,Delayed,7,1,Pending
+D00168,S00169,"Fry, Hayes and Olsen",Delivered,10,1,Pending
+D00169,S00170,Harris Ltd,Delivered,2,1,Missing
+D00170,S00171,Lamb and Sons,In Transit,9,1,Pending
+D00171,S00172,Bird-Savage,Delayed,6,1,Pending
+D00172,S00173,Sims-Weber,Delayed,2,0,Pending
+D00173,S00174,"Martin, Carter and Gray",In Transit,5,0,Pending
+D00174,S00175,Brown-Johnson,Lost,8,1,Pending
+D00175,S00176,Woods Ltd,Lost,6,0,Missing
+D00176,S00177,Smith LLC,Delayed,5,1,Signed
+D00177,S00178,Ortega Inc,In Transit,2,1,Signed
+D00178,S00179,Clark Inc,Lost,8,0,Signed
+D00179,S00180,Morrison-Hatfield,In Transit,4,0,Signed
+D00180,S00181,Frederick-Kennedy,In Transit,10,0,Missing
+D00181,S00182,Munoz-Rogers,Lost,2,1,Signed
+D00182,S00183,"Wu, Key and Montoya",Lost,3,1,Missing
+D00183,S00184,Ortega-Gray,In Transit,8,1,Missing
+D00184,S00185,Hester LLC,In Transit,10,0,Pending
+D00185,S00186,Smith Ltd,Delivered,10,1,Signed
+D00186,S00187,Hardy-Barron,Lost,3,1,Signed
+D00187,S00188,Johnson Inc,Delivered,8,0,Pending
+D00188,S00189,"Ramirez, Lyons and Briggs",Lost,5,1,Missing
+D00189,S00190,Hayes-Parks,In Transit,9,1,Signed
+D00190,S00191,Robertson-Keller,In Transit,9,0,Pending
+D00191,S00192,Andersen LLC,Lost,7,0,Pending
+D00192,S00193,Schultz Inc,Lost,6,1,Pending
+D00193,S00194,"Nguyen, Wallace and Lawson",Delivered,6,0,Signed
+D00194,S00195,Stevenson-Bauer,Delivered,2,1,Signed
+D00195,S00196,Patterson-Huynh,Delivered,5,0,Pending
+D00196,S00197,Hatfield-Vincent,Delivered,3,1,Signed
+D00197,S00198,Navarro LLC,Delivered,2,1,Signed
+D00198,S00199,"Lee, Thomas and Meyer",Delivered,6,0,Signed
+D00199,S00200,"Glover, Moran and Johnson",Delivered,8,1,Missing
+D00200,S00201,Robles-Turner,In Transit,9,1,Pending
+D00201,S00202,"Davies, Archer and Owens",Delayed,8,0,Signed
+D00202,S00203,Friedman-Olson,In Transit,3,1,Signed
+D00203,S00204,"Allen, Lewis and Mullins",Delayed,7,0,Missing
+D00204,S00205,"Graves, Garcia and Holder",In Transit,4,0,Signed
+D00205,S00206,Martin LLC,Lost,2,0,Missing
+D00206,S00207,Miranda-Robinson,Delivered,3,0,Signed
+D00207,S00208,Wade-Lynn,In Transit,8,1,Signed
+D00208,S00209,"Martinez, Taylor and Nichols",Delivered,6,0,Pending
+D00209,S00210,"Vasquez, Pope and Cook",Delayed,6,0,Pending
+D00210,S00211,Huynh PLC,Delayed,8,0,Signed
+D00211,S00212,Schneider Group,In Transit,10,0,Signed
+D00212,S00213,"Paul, Hardy and Valdez",Delayed,9,1,Pending
+D00213,S00214,"Burch, Kim and Hall",Lost,2,1,Signed
+D00214,S00215,Wilson-Miller,Delayed,4,0,Signed
+D00215,S00216,Peterson PLC,Lost,3,1,Pending
+D00216,S00217,Garner Inc,Delayed,9,1,Missing
+D00217,S00218,"Richardson, Castaneda and Finley",Lost,6,0,Missing
+D00218,S00219,"Mclaughlin, Collins and Lawrence",In Transit,5,0,Missing
+D00219,S00220,Boone Group,Lost,5,1,Missing
+D00220,S00221,Wise-Salinas,In Transit,2,1,Signed
+D00221,S00222,Meyer PLC,Lost,5,1,Pending
+D00222,S00223,"Walker, Foster and Medina",Delayed,3,1,Signed
+D00223,S00224,Stewart-Cabrera,Delivered,8,1,Signed
+D00224,S00225,Hood-Porter,Lost,6,0,Signed
+D00225,S00226,Hernandez-Campbell,In Transit,7,1,Pending
+D00226,S00227,"Ortega, Solis and Warner",In Transit,2,0,Missing
+D00227,S00228,"Flores, Shaw and Barker",In Transit,6,0,Pending
+D00228,S00229,Shea-Mccarthy,Lost,2,0,Missing
+D00229,S00230,Welch-Lewis,Delayed,9,0,Pending
+D00230,S00231,Padilla-Bennett,Delivered,10,1,Missing
+D00231,S00232,Hernandez-Moran,In Transit,2,1,Pending
+D00232,S00233,"Michael, Walker and Fitzgerald",Delivered,7,1,Pending
+D00233,S00234,Gates Ltd,Lost,6,1,Signed
+D00234,S00235,Evans-Briggs,Lost,7,1,Pending
+D00235,S00236,Ritter PLC,Delayed,10,1,Pending
+D00236,S00237,Rogers-Gregory,In Transit,5,1,Signed
+D00237,S00238,Todd-Myers,Delayed,9,0,Missing
+D00238,S00239,"Acosta, Campbell and Leblanc",Delayed,3,0,Pending
+D00239,S00240,"Chase, Long and Anderson",In Transit,9,0,Signed
+D00240,S00241,"Glenn, Brown and Michael",Delivered,3,0,Signed
+D00241,S00242,Ellis-Martin,Delivered,4,1,Signed
+D00242,S00243,Ramos Group,In Transit,5,1,Signed
+D00243,S00244,Merritt-Clark,In Transit,4,0,Pending
+D00244,S00245,"Gonzalez, Curtis and Cox",In Transit,3,0,Signed
+D00245,S00246,"Garcia, Floyd and Garrison",Lost,8,1,Signed
+D00246,S00247,Clements-Simmons,Delivered,7,0,Signed
+D00247,S00248,Howe Inc,Delivered,9,0,Pending
+D00248,S00249,Mccann-White,Lost,7,1,Signed
+D00249,S00250,Wilson PLC,Delayed,7,0,Signed
+D00250,S00251,"Morgan, Hamilton and Hernandez",Delivered,4,0,Signed
+D00251,S00252,"Powell, Johnson and Allen",In Transit,7,0,Missing
+D00252,S00253,Turner-Carlson,Delivered,8,1,Missing
+D00253,S00254,Delgado Group,In Transit,8,0,Signed
+D00254,S00255,"Esparza, Lambert and Davis",Delayed,8,0,Signed
+D00255,S00256,Hancock-Santos,In Transit,3,0,Pending
+D00256,S00257,Chen-Wallace,Delivered,4,0,Pending
+D00257,S00258,Wilson Inc,Delayed,10,0,Signed
+D00258,S00259,Burns Ltd,Lost,9,0,Signed
+D00259,S00260,"Walker, Matthews and Archer",Delayed,8,1,Missing
+D00260,S00261,Hill-Mcgee,In Transit,3,1,Signed
+D00261,S00262,"White, Washington and Newman",Lost,5,0,Missing
+D00262,S00263,Evans-Martinez,Delivered,10,0,Signed
+D00263,S00264,Brown-Stout,Delivered,9,0,Pending
+D00264,S00265,"Lopez, Hess and Smith",Delayed,6,0,Pending
+D00265,S00266,"Roth, Logan and Moreno",Lost,5,1,Missing
+D00266,S00267,Stone PLC,Lost,10,1,Missing
+D00267,S00268,"Reeves, Tyler and Martinez",Lost,8,1,Missing
+D00268,S00269,Sheppard Inc,Lost,6,1,Missing
+D00269,S00270,Atkins Ltd,Lost,2,0,Missing
+D00270,S00271,Smith Group,Lost,4,0,Signed
+D00271,S00272,Martinez-Anderson,Delayed,7,0,Missing
+D00272,S00273,Delgado Inc,In Transit,6,1,Signed
+D00273,S00274,"Scott, Mullins and Miller",Lost,6,1,Pending
+D00274,S00275,Hunter LLC,In Transit,2,1,Signed
+D00275,S00276,"Jackson, Rowland and Barrett",In Transit,9,1,Signed
+D00276,S00277,Turner PLC,Delivered,9,0,Pending
+D00277,S00278,Hopkins-Wallace,Delayed,7,1,Missing
+D00278,S00279,"Henry, Edwards and Bartlett",Delayed,6,1,Pending
+D00279,S00280,Obrien-Dixon,Delayed,3,0,Signed
+D00280,S00281,"Garcia, Weiss and Young",Delayed,5,1,Pending
+D00281,S00282,Thomas and Sons,Lost,8,1,Pending
+D00282,S00283,Guzman and Sons,Lost,9,1,Signed
+D00283,S00284,"Howard, Anderson and Dean",Lost,4,0,Pending
+D00284,S00285,Pierce LLC,Delivered,9,0,Signed
+D00285,S00286,Santos-Martin,Delivered,6,1,Pending
+D00286,S00287,Miller-King,Delivered,3,1,Pending
+D00287,S00288,Bentley-Thomas,Lost,9,1,Signed
+D00288,S00289,Jones Ltd,In Transit,6,1,Missing
+D00289,S00290,Cowan-Terry,Lost,9,0,Pending
+D00290,S00291,Klein PLC,Delivered,8,1,Pending
+D00291,S00292,"Holland, Dixon and Martin",Delayed,8,1,Missing
+D00292,S00293,Stewart Group,Delayed,9,0,Signed
+D00293,S00294,Johnson-Munoz,Delayed,5,1,Signed
+D00294,S00295,Nelson PLC,Delivered,5,0,Missing
+D00295,S00296,Sutton Group,In Transit,9,0,Pending
+D00296,S00297,Murphy Inc,Lost,8,1,Missing
+D00297,S00298,Blankenship-Strickland,Lost,4,1,Missing
+D00298,S00299,Melton and Sons,In Transit,9,1,Pending
+D00299,S00300,Smith-Bennett,Delivered,9,0,Pending
+D00300,S00301,Gray Inc,Lost,6,1,Missing
+D00301,S00302,Thompson Ltd,Delivered,7,0,Signed
+D00302,S00303,Chapman-Roman,Lost,10,1,Missing
+D00303,S00304,Rice Ltd,Lost,5,1,Signed
+D00304,S00305,"Grimes, Arnold and Lawson",Delayed,7,0,Signed
+D00305,S00306,Jackson Group,Lost,6,1,Pending
+D00306,S00307,Reed Ltd,Delayed,3,0,Signed
+D00307,S00308,"Faulkner, Schmidt and Wheeler",In Transit,9,0,Signed
+D00308,S00309,Woods-Anderson,Delayed,3,1,Missing
+D00309,S00310,Parks Ltd,Delayed,3,1,Signed
+D00310,S00311,Sandoval and Sons,Lost,9,1,Signed
+D00311,S00312,Bradley-Adams,Delivered,4,0,Signed
+D00312,S00313,"Fowler, Wood and Waters",Delivered,3,1,Missing
+D00313,S00314,"Franklin, Mann and White",Lost,5,0,Signed
+D00314,S00315,Lindsey-Shaw,Lost,3,0,Missing
+D00315,S00316,Cisneros-Meyer,Lost,7,0,Signed
+D00316,S00317,"Keith, Cervantes and Torres",Lost,8,1,Missing
+D00317,S00318,Meza Group,In Transit,8,1,Pending
+D00318,S00319,Bruce-Walters,In Transit,2,1,Missing
+D00319,S00320,Blair Inc,Delayed,3,1,Missing
+D00320,S00321,Johnston Inc,Delayed,8,0,Signed
+D00321,S00322,"Mitchell, Noble and Stokes",Lost,2,1,Pending
+D00322,S00323,Hayden Group,In Transit,6,1,Pending
+D00323,S00324,"Romero, Cross and Castillo",Lost,6,0,Missing
+D00324,S00325,"Jennings, Rhodes and Patel",In Transit,2,1,Signed
+D00325,S00326,Sullivan PLC,Delayed,8,0,Signed
+D00326,S00327,Bartlett Ltd,Delayed,9,1,Signed
+D00327,S00328,Klein Ltd,Delivered,5,1,Pending
+D00328,S00329,"Brady, Sanchez and Stevenson",Lost,8,1,Missing
+D00329,S00330,"Sutton, Williams and West",In Transit,10,1,Signed
+D00330,S00331,Craig PLC,Delayed,10,0,Missing
+D00331,S00332,Thompson LLC,Lost,2,0,Pending
+D00332,S00333,Palmer Inc,Delivered,6,1,Pending
+D00333,S00334,Simpson-Jackson,Lost,2,0,Pending
+D00334,S00335,Morgan Ltd,Lost,3,0,Pending
+D00335,S00336,Decker Inc,In Transit,6,0,Pending
+D00336,S00337,Evans-Carter,Delayed,5,1,Pending
+D00337,S00338,Smith Ltd,Lost,5,0,Pending
+D00338,S00339,"Long, Leblanc and Hickman",Lost,4,0,Pending
+D00339,S00340,"Robertson, Barry and Walls",Delayed,3,0,Pending
+D00340,S00341,"Charles, Brown and Smith",Delayed,9,1,Missing
+D00341,S00342,Murphy-Gomez,Lost,3,0,Signed
+D00342,S00343,Bailey Ltd,Delivered,9,0,Missing
+D00343,S00344,Morales Inc,Delivered,8,0,Missing
+D00344,S00345,Jordan and Sons,Lost,6,1,Signed
+D00345,S00346,Rice and Sons,Delayed,9,0,Signed
+D00346,S00347,Martinez-Freeman,Lost,10,0,Signed
+D00347,S00348,Hammond LLC,Delayed,10,1,Pending
+D00348,S00349,Ruiz LLC,In Transit,9,0,Signed
+D00349,S00350,Diaz-Mcclain,Delayed,3,1,Pending
+D00350,S00351,"Cain, Rodriguez and Gonzales",Delivered,6,0,Missing
+D00351,S00352,Martin-Gomez,Delivered,6,0,Missing
+D00352,S00353,Smith-Stephenson,Delivered,4,0,Signed
+D00353,S00354,"Gonzalez, Lopez and Williams",Lost,6,1,Signed
+D00354,S00355,Fisher-Rivera,In Transit,2,1,Missing
+D00355,S00356,Martin and Sons,Delivered,8,1,Signed
+D00356,S00357,Moyer-Bird,Delivered,7,1,Missing
+D00357,S00358,Fisher PLC,In Transit,4,0,Missing
+D00358,S00359,Marsh-Klein,Delivered,9,1,Missing
+D00359,S00360,Potter-Deleon,Delayed,3,1,Signed
+D00360,S00361,Shaw-Mclean,Lost,5,1,Missing
+D00361,S00362,Anderson-Rosario,Delayed,6,1,Pending
+D00362,S00363,Martinez LLC,In Transit,6,1,Pending
+D00363,S00364,"Smith, Cohen and Williams",Lost,3,1,Signed
+D00364,S00365,Jordan-Harper,In Transit,10,1,Signed
+D00365,S00366,Hamilton LLC,Delayed,3,1,Signed
+D00366,S00367,Tucker-Hodges,Delayed,6,0,Signed
+D00367,S00368,Williamson Ltd,Delivered,9,0,Signed
+D00368,S00369,"Lopez, Campbell and Wilson",Delivered,2,1,Signed
+D00369,S00370,Gamble-Wright,Delayed,8,0,Pending
+D00370,S00371,Gonzalez-Mccarthy,In Transit,3,1,Missing
+D00371,S00372,Haynes PLC,Delayed,4,1,Pending
+D00372,S00373,"White, Riddle and Garza",Lost,6,0,Missing
+D00373,S00374,"Hernandez, Martinez and Morales",In Transit,7,0,Pending
+D00374,S00375,Mooney-Hickman,Delivered,8,1,Signed
+D00375,S00376,Smith-Gonzalez,Lost,6,0,Pending
+D00376,S00377,James PLC,Delivered,5,0,Signed
+D00377,S00378,Graves-Baird,In Transit,3,1,Signed
+D00378,S00379,Rogers Group,Lost,8,1,Missing
+D00379,S00380,Hicks Ltd,Lost,2,1,Pending
+D00380,S00381,Torres LLC,Delayed,5,1,Missing
+D00381,S00382,Ramirez-Bell,Lost,6,1,Missing
+D00382,S00383,Wright-Jacobson,Delayed,5,0,Signed
+D00383,S00384,Williams Inc,In Transit,5,1,Signed
+D00384,S00385,"Garner, Lewis and Kennedy",Lost,9,1,Signed
+D00385,S00386,"Garcia, Lopez and Vaughan",Delivered,6,0,Signed
+D00386,S00387,Cook-Rodriguez,Lost,6,1,Signed
+D00387,S00388,"Smith, Arnold and Atkins",Delayed,7,1,Signed
+D00388,S00389,Ward-Patrick,Delivered,6,1,Missing
+D00389,S00390,"Maxwell, Rice and Watson",In Transit,3,1,Pending
+D00390,S00391,"Hill, Silva and Miller",Delivered,4,0,Pending
+D00391,S00392,Anderson Ltd,Delayed,5,0,Signed
+D00392,S00393,"Martinez, Willis and Barr",In Transit,7,1,Missing
+D00393,S00394,"Roth, Lee and Griffin",Lost,6,0,Pending
+D00394,S00395,Jones PLC,Delivered,5,1,Missing
+D00395,S00396,"Cooper, Swanson and Mayo",In Transit,2,1,Signed
+D00396,S00397,Ferguson and Sons,In Transit,4,1,Signed
+D00397,S00398,Anderson Group,Lost,8,0,Pending
+D00398,S00399,"Dawson, Snow and Malone",Lost,10,1,Missing
+D00399,S00400,"Hester, Jacobson and West",Delayed,7,1,Missing
+D00400,S00401,"Wilson, Graham and Webb",Delayed,2,1,Pending
+D00401,S00402,"Velazquez, Gordon and Johnson",In Transit,9,0,Signed
+D00402,S00403,"Hill, Ponce and Roberts",In Transit,7,1,Pending
+D00403,S00404,"Brown, Compton and Lee",Delivered,5,0,Signed
+D00404,S00405,Simpson-Patel,Delayed,6,1,Signed
+D00405,S00406,"Mata, Martin and Christensen",Lost,2,0,Pending
+D00406,S00407,Hart-Myers,Delivered,10,0,Pending
+D00407,S00408,"Nelson, White and Moore",Lost,4,0,Missing
+D00408,S00409,Vargas Inc,In Transit,4,0,Pending
+D00409,S00410,"Gibson, Zimmerman and Warren",Delayed,6,1,Signed
+D00410,S00411,Phelps-Phillips,Delayed,6,1,Missing
+D00411,S00412,Arnold-Jackson,In Transit,8,0,Missing
+D00412,S00413,Ferguson LLC,Delayed,7,0,Missing
+D00413,S00414,Bowman LLC,Lost,9,0,Pending
+D00414,S00415,Nelson Inc,Delayed,5,1,Signed
+D00415,S00416,"Whitney, Mayo and Clark",Delivered,9,0,Missing
+D00416,S00417,Smith LLC,In Transit,3,0,Missing
+D00417,S00418,"Jacobs, Wood and Miller",In Transit,8,1,Pending
+D00418,S00419,"Henson, Baker and Anderson",Delayed,6,1,Signed
+D00419,S00420,"Phillips, Galloway and Garrett",Delayed,9,1,Signed
+D00420,S00421,Holloway and Sons,In Transit,6,1,Missing
+D00421,S00422,"Sanford, Thompson and Bonilla",Delivered,2,0,Signed
+D00422,S00423,"Sandoval, Parrish and Crosby",Delivered,9,0,Signed
+D00423,S00424,"Rodriguez, Reese and Reyes",Delivered,3,1,Signed
+D00424,S00425,"Scott, Sims and Munoz",Delivered,7,1,Pending
+D00425,S00426,Montoya and Sons,Delivered,9,1,Missing
+D00426,S00427,Adams-Perkins,Delivered,3,1,Missing
+D00427,S00428,Moore-Hall,In Transit,6,0,Pending
+D00428,S00429,"Hamilton, Hernandez and Mendoza",Delivered,5,1,Signed
+D00429,S00430,White-Lopez,Lost,8,0,Missing
+D00430,S00431,Lopez Group,In Transit,3,0,Missing
+D00431,S00432,"White, Campbell and Collins",Delivered,9,0,Signed
+D00432,S00433,Roth Ltd,Delayed,3,1,Signed
+D00433,S00434,"Lopez, Thomas and Simmons",Delayed,5,1,Missing
+D00434,S00435,Stout-Waller,In Transit,7,0,Pending
+D00435,S00436,Ramsey and Sons,Lost,4,1,Signed
+D00436,S00437,"Christensen, Smith and Garcia",Lost,4,0,Signed
+D00437,S00438,Smith-Serrano,Delayed,6,1,Missing
+D00438,S00439,"Michael, Anderson and Carrillo",Delivered,9,0,Missing
+D00439,S00440,Thomas-Burton,Lost,2,1,Pending
+D00440,S00441,Sparks Inc,In Transit,2,1,Signed
+D00441,S00442,Daniels LLC,Delivered,2,0,Pending
+D00442,S00443,"Miller, Taylor and Malone",Delayed,5,0,Missing
+D00443,S00444,Ochoa-Parker,In Transit,9,0,Missing
+D00444,S00445,Moore-Brown,In Transit,7,1,Pending
+D00445,S00446,"Adams, Stephens and Smith",Delivered,3,1,Pending
+D00446,S00447,Garcia LLC,Delivered,5,0,Signed
+D00447,S00448,Hunt Group,Delivered,5,0,Pending
+D00448,S00449,Smith and Sons,Lost,8,1,Signed
+D00449,S00450,Perez Group,Delivered,7,1,Signed
+D00450,S00451,Gomez LLC,In Transit,3,1,Pending
+D00451,S00452,Dorsey Ltd,Delivered,7,0,Signed
+D00452,S00453,Mcdaniel-Espinoza,In Transit,4,0,Missing
+D00453,S00454,Vasquez Inc,In Transit,10,1,Signed
+D00454,S00455,Garcia LLC,In Transit,6,1,Pending
+D00455,S00456,Jones-Cook,Delivered,8,1,Signed
+D00456,S00457,Mclean-Gillespie,Lost,6,1,Missing
+D00457,S00458,Munoz and Sons,In Transit,4,1,Signed
+D00458,S00459,Moreno-Greene,Delivered,3,1,Pending
+D00459,S00460,"Coleman, Barry and Mcdaniel",Delayed,10,0,Signed
+D00460,S00461,"Roth, Bailey and Garcia",Delivered,8,1,Signed
+D00461,S00462,Stanley-Cantu,Delivered,5,1,Pending
+D00462,S00463,"Lindsey, Mccormick and Hensley",In Transit,5,0,Signed
+D00463,S00464,Strickland and Sons,Delayed,10,0,Signed
+D00464,S00465,Hernandez-Griffin,Delivered,9,1,Pending
+D00465,S00466,Briggs-Wilson,Delivered,8,1,Missing
+D00466,S00467,Moyer-Ramirez,In Transit,9,0,Pending
+D00467,S00468,Morris and Sons,Delivered,10,1,Pending
+D00468,S00469,Saunders LLC,Delivered,9,1,Pending
+D00469,S00470,Snyder-Olson,Delivered,2,0,Signed
+D00470,S00471,Guzman-Fields,Delivered,5,0,Signed
+D00471,S00472,Pham Ltd,Lost,4,0,Pending
+D00472,S00473,Reyes PLC,In Transit,3,1,Missing
+D00473,S00474,Ryan-Vasquez,Delivered,2,1,Signed
+D00474,S00475,"Underwood, Cruz and Carpenter",Delayed,9,0,Pending
+D00475,S00476,Rose-Frank,Delayed,7,0,Missing
+D00476,S00477,"Robinson, Miller and Ward",Delivered,5,0,Pending
+D00477,S00478,Mcknight Inc,Delayed,6,0,Signed
+D00478,S00479,Grant-Rosario,Delayed,6,1,Signed
+D00479,S00480,Brown LLC,In Transit,2,0,Pending
+D00480,S00481,Allison-Delacruz,Delayed,6,0,Pending
+D00481,S00482,Phillips and Sons,Delayed,5,1,Signed
+D00482,S00483,"Bonilla, Durham and Sanchez",In Transit,6,1,Signed
+D00483,S00484,Brown and Sons,Lost,8,1,Missing
+D00484,S00485,Hayden Ltd,In Transit,9,1,Signed
+D00485,S00486,Bennett Inc,Delivered,8,1,Pending
+D00486,S00487,"Hanna, Watson and Miles",Lost,9,0,Signed
+D00487,S00488,"Perkins, Woods and Wheeler",Lost,9,0,Missing
+D00488,S00489,Johnson LLC,In Transit,7,0,Missing
+D00489,S00490,Miller Inc,Delayed,5,0,Missing
+D00490,S00491,Carroll Group,Delayed,7,0,Missing
+D00491,S00492,Cannon Group,Delivered,2,0,Signed
+D00492,S00493,"Taylor, Rose and Rush",Delivered,5,0,Missing
+D00493,S00494,Jenkins-Rogers,Lost,10,0,Signed
+D00494,S00495,"Dominguez, Mitchell and Moore",In Transit,2,0,Missing
+D00495,S00496,"Johnson, Potter and Gordon",Delivered,8,0,Missing
+D00496,S00497,Sanders Group,Delivered,10,0,Pending
+D00497,S00498,"Vaughan, Gibson and Dawson",Delivered,9,1,Signed
+D00498,S00499,Ellison-Shaw,Lost,10,0,Signed
+D00499,S00500,"Perez, Huynh and Nelson",Delivered,9,1,Pending
+D00500,S00501,Boyd and Sons,Lost,6,1,Missing
+D00501,S00502,"Lewis, Montgomery and Robinson",In Transit,3,1,Missing
+D00502,S00503,Carson PLC,Delayed,4,0,Signed
+D00503,S00504,"Skinner, Velasquez and Mcdonald",Lost,4,1,Signed
+D00504,S00505,Delgado-Sullivan,Delayed,8,1,Pending
+D00505,S00506,Martin-Pratt,In Transit,8,1,Signed
+D00506,S00507,"Coleman, Nelson and Garcia",In Transit,6,0,Pending
+D00507,S00508,Morrison-Bradford,Lost,6,0,Signed
+D00508,S00509,Allen and Sons,Delivered,3,1,Missing
+D00509,S00510,"Rodriguez, Lewis and Smith",In Transit,7,0,Pending
+D00510,S00511,Lopez-Harris,Delivered,2,1,Signed
+D00511,S00512,Allen Inc,In Transit,7,1,Signed
+D00512,S00513,"Cunningham, Elliott and Tyler",Lost,4,0,Pending
+D00513,S00514,Williams Inc,Delivered,8,1,Pending
+D00514,S00515,Smith-Kelly,In Transit,3,0,Pending
+D00515,S00516,Benjamin-Porter,Delayed,4,1,Pending
+D00516,S00517,Walton-Swanson,Lost,5,1,Signed
+D00517,S00518,Park Inc,Lost,3,0,Pending
+D00518,S00519,Russell-Figueroa,Delayed,7,0,Signed
+D00519,S00520,Shaw and Sons,Lost,10,1,Signed
+D00520,S00521,Matthews Group,Delayed,8,0,Pending
+D00521,S00522,Willis-Christian,In Transit,8,1,Missing
+D00522,S00523,Martin-Fleming,Delivered,7,1,Missing
+D00523,S00524,Mcclure Inc,In Transit,3,1,Signed
+D00524,S00525,"Hall, Lewis and Maldonado",Delivered,4,0,Signed
+D00525,S00526,Mack and Sons,In Transit,2,1,Signed
+D00526,S00527,"Black, Chandler and Curtis",Delayed,10,1,Missing
+D00527,S00528,West-Anderson,Delivered,6,0,Signed
+D00528,S00529,Ward-Chase,In Transit,2,1,Missing
+D00529,S00530,Williams-Marquez,In Transit,10,0,Pending
+D00530,S00531,"Hughes, Clark and Bishop",Delayed,8,0,Signed
+D00531,S00532,Rubio PLC,In Transit,2,1,Pending
+D00532,S00533,"Gamble, Davis and Smith",In Transit,7,0,Missing
+D00533,S00534,Payne-Novak,Lost,2,1,Signed
+D00534,S00535,Porter Group,Lost,5,1,Missing
+D00535,S00536,Jackson-Phillips,Delayed,2,0,Pending
+D00536,S00537,Ramirez LLC,Delivered,7,1,Pending
+D00537,S00538,Davis-White,Lost,10,0,Missing
+D00538,S00539,Scott-Kennedy,In Transit,3,1,Signed
+D00539,S00540,Hines-Ramos,Lost,7,0,Missing
+D00540,S00541,Case PLC,Delivered,3,0,Missing
+D00541,S00542,Williams-Trevino,Delayed,2,0,Pending
+D00542,S00543,Ortiz-Harvey,Delivered,9,0,Pending
+D00543,S00544,"Anderson, Richardson and Kirk",Lost,4,0,Signed
+D00544,S00545,Brooks-Fleming,Lost,4,0,Signed
+D00545,S00546,"Cole, Rich and Esparza",Delayed,9,0,Pending
+D00546,S00547,Oliver Ltd,Delivered,9,0,Pending
+D00547,S00548,Figueroa and Sons,Delivered,10,1,Signed
+D00548,S00549,"Nicholson, Smith and Farrell",In Transit,2,1,Signed
+D00549,S00550,Bennett-Hudson,Delivered,5,1,Signed
+D00550,S00551,Walker Group,Delivered,9,0,Pending
+D00551,S00552,"Davis, Owens and Day",Delayed,2,0,Pending
+D00552,S00553,Rodriguez-White,In Transit,7,0,Missing
+D00553,S00554,Lowery Group,Delivered,10,1,Signed
+D00554,S00555,Gonzalez-Murphy,Lost,5,1,Signed
+D00555,S00556,Peterson-Munoz,Delivered,10,0,Missing
+D00556,S00557,Park Group,In Transit,8,0,Pending
+D00557,S00558,Ramirez Inc,In Transit,3,1,Pending
+D00558,S00559,"Moore, Harrison and Bowman",Delayed,4,0,Missing
+D00559,S00560,Carroll-Huerta,Delivered,10,0,Missing
+D00560,S00561,Brown-Stokes,In Transit,9,0,Signed
+D00561,S00562,Irwin-Lewis,Delayed,8,0,Missing
+D00562,S00563,Parrish Ltd,Delivered,9,0,Signed
+D00563,S00564,Nelson-Reid,Delayed,3,0,Signed
+D00564,S00565,Thomas LLC,In Transit,9,1,Signed
+D00565,S00566,Miller-Russo,Lost,4,0,Missing
+D00566,S00567,Savage-Warren,Delayed,3,0,Signed
+D00567,S00568,"Orozco, White and Brown",Delayed,10,1,Missing
+D00568,S00569,Peterson-Mullins,In Transit,6,1,Signed
+D00569,S00570,Gonzalez Group,Delivered,9,0,Pending
+D00570,S00571,Alvarez-Barker,Lost,5,0,Signed
+D00571,S00572,Sheppard Group,In Transit,7,0,Missing
+D00572,S00573,Gaines-Hudson,Delayed,7,1,Signed
+D00573,S00574,Hoffman PLC,Delivered,3,0,Signed
+D00574,S00575,Miller Ltd,Delivered,8,0,Pending
+D00575,S00576,"Jensen, Morris and Downs",Delivered,6,1,Signed
+D00576,S00577,"Newton, Doyle and Stewart",Delayed,7,1,Missing
+D00577,S00578,Mosley and Sons,In Transit,5,1,Signed
+D00578,S00579,Lin-Wilson,Delayed,2,1,Pending
+D00579,S00580,"Russell, Meyer and Smith",Delayed,9,1,Pending
+D00580,S00581,Harding-Mathews,In Transit,4,1,Missing
+D00581,S00582,"Cole, Montes and Davis",Delayed,8,0,Signed
+D00582,S00583,Reese and Sons,Lost,10,1,Pending
+D00583,S00584,Horton-Schroeder,Lost,6,0,Missing
+D00584,S00585,"Gray, Bailey and Farley",Delivered,8,0,Signed
+D00585,S00586,"Ray, Smith and Cervantes",Delayed,3,0,Missing
+D00586,S00587,Turner LLC,Lost,4,1,Missing
+D00587,S00588,"Fuentes, Martinez and Porter",Delayed,6,0,Missing
+D00588,S00589,Gutierrez-Bell,Delayed,3,0,Signed
+D00589,S00590,"Simmons, Dickson and Rogers",Delayed,6,0,Missing
+D00590,S00591,Ellis LLC,Delivered,4,0,Missing
+D00591,S00592,Tran and Sons,Delivered,10,1,Missing
+D00592,S00593,"Graham, Mitchell and Keller",Delivered,4,1,Pending
+D00593,S00594,"Kim, Campbell and Oliver",In Transit,6,0,Signed
+D00594,S00595,Cowan Inc,Delivered,3,1,Pending
+D00595,S00596,Banks PLC,Delayed,8,0,Signed
+D00596,S00597,Garcia-Brady,Delivered,5,0,Missing
+D00597,S00598,"Ho, Garcia and Wallace",Lost,2,0,Pending
+D00598,S00599,"Shaffer, Contreras and Christian",Delivered,2,1,Pending
+D00599,S00600,Walker Group,Delayed,8,1,Pending
+D00600,S00601,"James, Gonzalez and Harrison",Delivered,9,0,Signed
+D00601,S00602,Bell Group,Delivered,7,0,Missing
+D00602,S00603,Odonnell-Newman,Delivered,7,0,Pending
+D00603,S00604,"Foster, Ayers and Casey",Delayed,7,0,Signed
+D00604,S00605,"Campbell, Hobbs and Baker",Delayed,4,1,Signed
+D00605,S00606,Nunez-Smith,Lost,6,1,Signed
+D00606,S00607,Johnson-Johnson,Delivered,9,0,Pending
+D00607,S00608,Randall-Stone,In Transit,7,1,Missing
+D00608,S00609,"Greene, Rogers and Haley",Delivered,7,1,Pending
+D00609,S00610,Allen-Beltran,In Transit,8,0,Signed
+D00610,S00611,Jensen Group,Delayed,8,1,Pending
+D00611,S00612,Solis PLC,Lost,8,0,Signed
+D00612,S00613,Anderson-Fields,Delayed,10,1,Missing
+D00613,S00614,"Thompson, Strong and Holmes",Delivered,9,1,Pending
+D00614,S00615,Hall-Mckinney,Lost,9,0,Missing
+D00615,S00616,Gordon Ltd,Lost,10,1,Signed
+D00616,S00617,"Mueller, Cameron and Burton",Delivered,3,0,Signed
+D00617,S00618,Hood-Moore,In Transit,8,0,Pending
+D00618,S00619,Harris-Davis,In Transit,9,1,Signed
+D00619,S00620,Smith-Carrillo,In Transit,9,1,Missing
+D00620,S00621,Johnson Ltd,Delayed,3,1,Pending
+D00621,S00622,"Knapp, Miller and Reyes",Delivered,10,0,Pending
+D00622,S00623,"Gross, Lucero and Walters",Delayed,6,1,Missing
+D00623,S00624,Lopez-Delgado,Delayed,5,1,Pending
+D00624,S00625,Phillips PLC,Delivered,7,1,Pending
+D00625,S00626,Barber Group,Delayed,2,1,Missing
+D00626,S00627,Hopkins-Hill,Delivered,8,0,Missing
+D00627,S00628,Burton Ltd,Lost,10,0,Pending
+D00628,S00629,"Camacho, Rodriguez and Ho",Delayed,8,0,Pending
+D00629,S00630,Rodriguez LLC,Lost,4,1,Signed
+D00630,S00631,Kline-Davis,Delayed,4,0,Signed
+D00631,S00632,Kirk-Durham,Delivered,7,1,Signed
+D00632,S00633,Myers Group,Delivered,6,1,Pending
+D00633,S00634,Gutierrez Group,Delivered,9,0,Pending
+D00634,S00635,"Jones, Mcdaniel and Brooks",In Transit,7,0,Missing
+D00635,S00636,Schultz-Hayes,Lost,2,1,Signed
+D00636,S00637,White Inc,Delayed,6,1,Missing
+D00637,S00638,Keller Ltd,Delayed,8,0,Pending
+D00638,S00639,"Bond, Wilson and Cooper",In Transit,8,0,Signed
+D00639,S00640,Webb-Mendez,Delivered,6,0,Missing
+D00640,S00641,"Smith, Boyd and Scott",Lost,8,1,Missing
+D00641,S00642,Lee Inc,Delayed,2,1,Pending
+D00642,S00643,"Johnson, Hunt and Hernandez",In Transit,4,0,Signed
+D00643,S00644,Wilson-Robinson,Delayed,5,1,Missing
+D00644,S00645,Taylor-Miller,Delayed,7,1,Missing
+D00645,S00646,"Case, Adams and Olson",Lost,8,0,Signed
+D00646,S00647,Bailey PLC,In Transit,3,1,Signed
+D00647,S00648,"Phillips, Mcgee and Simpson",Lost,3,0,Pending
+D00648,S00649,"Potts, Nielsen and Wright",In Transit,4,1,Signed
+D00649,S00650,Mcdaniel Ltd,In Transit,3,1,Pending
+D00650,S00651,Hayden-Garcia,Delivered,4,0,Pending
+D00651,S00652,"Collins, Bauer and Mckay",Delayed,9,1,Pending
+D00652,S00653,Hamilton-Griffin,Delayed,7,1,Signed
+D00653,S00654,"Burgess, Cabrera and Dean",Delivered,9,0,Pending
+D00654,S00655,"Reyes, Gonzalez and Gomez",Lost,2,1,Pending
+D00655,S00656,"Weiss, Cole and Preston",In Transit,6,1,Missing
+D00656,S00657,"King, Ortiz and Munoz",Delivered,4,0,Missing
+D00657,S00658,"Clements, Moreno and Sanders",Delivered,6,1,Signed
+D00658,S00659,White LLC,Delayed,10,1,Pending
+D00659,S00660,Gibbs-Howard,Delayed,8,1,Missing
+D00660,S00661,Lewis LLC,Delivered,9,1,Signed
+D00661,S00662,Thomas-Edwards,In Transit,3,0,Pending
+D00662,S00663,Flores Inc,Delayed,4,0,Signed
+D00663,S00664,"Murphy, Marshall and Pope",Delayed,9,1,Signed
+D00664,S00665,Hoffman Group,In Transit,5,1,Missing
+D00665,S00666,Guzman-Rose,Delivered,2,1,Missing
+D00666,S00667,Hoffman Ltd,Delayed,10,0,Signed
+D00667,S00668,"Shah, Aguirre and Powers",Delivered,5,0,Missing
+D00668,S00669,"Stafford, Fisher and Avila",Lost,6,1,Missing
+D00669,S00670,Li-Gonzalez,Delivered,9,0,Missing
+D00670,S00671,Lang Group,Delayed,10,0,Missing
+D00671,S00672,Mooney Group,Delivered,5,0,Pending
+D00672,S00673,Martinez and Sons,Delayed,4,0,Pending
+D00673,S00674,"Murphy, Reyes and Ray",In Transit,6,0,Signed
+D00674,S00675,Smith-Logan,Lost,10,0,Missing
+D00675,S00676,"Travis, Buck and Mitchell",Delivered,8,0,Missing
+D00676,S00677,Johnson-Ferguson,Lost,4,1,Pending
+D00677,S00678,"Williams, Newman and Jones",Delivered,5,1,Missing
+D00678,S00679,Gallegos Group,Lost,4,0,Signed
+D00679,S00680,"Turner, Stewart and Reed",Delayed,8,0,Signed
+D00680,S00681,Hawkins LLC,Delivered,3,0,Pending
+D00681,S00682,Salazar-Long,Lost,3,0,Missing
+D00682,S00683,"Riggs, Snyder and Davidson",Delayed,6,0,Signed
+D00683,S00684,Cameron PLC,Lost,8,1,Pending
+D00684,S00685,Johnson Inc,Lost,4,1,Missing
+D00685,S00686,Taylor LLC,In Transit,9,0,Missing
+D00686,S00687,"Ramsey, Perez and Miller",Lost,6,0,Missing
+D00687,S00688,"Barrera, Wood and Leach",Delayed,4,1,Pending
+D00688,S00689,Villa Inc,In Transit,10,0,Signed
+D00689,S00690,Ware-Williams,Delivered,6,1,Missing
+D00690,S00691,Valentine Inc,Delivered,4,0,Missing
+D00691,S00692,Murphy-Salazar,In Transit,2,0,Missing
+D00692,S00693,Nelson-Jackson,In Transit,8,0,Signed
+D00693,S00694,Silva Inc,Lost,9,1,Pending
+D00694,S00695,Flores and Sons,Delivered,10,0,Pending
+D00695,S00696,"Barron, Church and Gutierrez",Delayed,6,0,Missing
+D00696,S00697,Barnett-Boyd,Delayed,3,0,Missing
+D00697,S00698,Lane Ltd,Delayed,2,0,Signed
+D00698,S00699,Bray-Morris,Lost,2,1,Pending
+D00699,S00700,"Webb, Davis and Miranda",In Transit,9,1,Signed
+D00700,S00701,"Miller, Hansen and Salas",Delivered,3,1,Signed
+D00701,S00702,"Holland, Foley and Neal",In Transit,8,0,Missing
+D00702,S00703,Bonilla Inc,Lost,10,0,Pending
+D00703,S00704,Smith and Sons,Delivered,4,1,Signed
+D00704,S00705,Cardenas-Lopez,Lost,3,1,Pending
+D00705,S00706,Peterson PLC,Lost,8,0,Missing
+D00706,S00707,"Palmer, Edwards and Blackburn",Delivered,7,0,Missing
+D00707,S00708,"Gibson, Moore and Wagner",Delayed,6,1,Signed
+D00708,S00709,Robinson LLC,Delivered,2,0,Signed
+D00709,S00710,Hester-Parrish,Delayed,6,1,Pending
+D00710,S00711,"Harris, Ross and Jones",Lost,9,0,Signed
+D00711,S00712,Martin-Parker,Lost,9,0,Missing
+D00712,S00713,"Wong, Thomas and Walter",Lost,7,0,Pending
+D00713,S00714,"Rodriguez, Smith and Murray",Delayed,3,0,Signed
+D00714,S00715,Johnson-Stanley,Delayed,10,1,Pending
+D00715,S00716,Bell-Wilson,In Transit,2,0,Pending
+D00716,S00717,"Miller, Reynolds and Hernandez",Delayed,8,1,Missing
+D00717,S00718,"Jordan, Cook and Alexander",Delivered,10,1,Missing
+D00718,S00719,Davis-Wong,Lost,4,1,Missing
+D00719,S00720,"Reilly, Lee and Lopez",Delayed,7,0,Missing
+D00720,S00721,Wheeler PLC,In Transit,2,1,Missing
+D00721,S00722,"Snyder, Hamilton and Maldonado",Delivered,2,0,Signed
+D00722,S00723,"Wright, Rodriguez and Wilson",In Transit,6,0,Missing
+D00723,S00724,Johnston and Sons,Lost,4,0,Pending
+D00724,S00725,Patel LLC,In Transit,4,0,Pending
+D00725,S00726,Andrade Ltd,Delayed,4,1,Signed
+D00726,S00727,"Sullivan, Long and Robinson",Delayed,2,0,Missing
+D00727,S00728,"Adams, Harris and Floyd",In Transit,2,0,Signed
+D00728,S00729,Walsh-Mccarthy,Delivered,3,1,Pending
+D00729,S00730,Gross-Davis,Delivered,10,0,Missing
+D00730,S00731,"Velez, Howell and Stevenson",In Transit,6,0,Pending
+D00731,S00732,"Allen, Edwards and Jones",In Transit,5,0,Signed
+D00732,S00733,Cook Group,Lost,10,1,Missing
+D00733,S00734,Rivers Ltd,Delayed,4,1,Missing
+D00734,S00735,Patterson-Smith,Lost,6,1,Missing
+D00735,S00736,Ibarra-Jackson,In Transit,5,1,Signed
+D00736,S00737,Wheeler Group,In Transit,6,0,Missing
+D00737,S00738,"Smith, Marks and Kennedy",In Transit,7,1,Missing
+D00738,S00739,Fuentes PLC,Delayed,2,0,Pending
+D00739,S00740,"Mooney, Conley and Fox",Delivered,7,1,Signed
+D00740,S00741,Fischer Inc,In Transit,4,0,Signed
+D00741,S00742,Torres Ltd,Delayed,5,0,Signed
+D00742,S00743,Chavez-Navarro,Delayed,3,1,Signed
+D00743,S00744,"Scott, Tucker and Diaz",Lost,7,1,Missing
+D00744,S00745,Carey LLC,Delivered,10,1,Missing
+D00745,S00746,"Cook, Holmes and Beck",Delivered,10,1,Signed
+D00746,S00747,"Washington, Nelson and Stone",Lost,5,0,Pending
+D00747,S00748,"Smith, Irwin and Chase",Lost,4,0,Missing
+D00748,S00749,"Mcknight, Howard and Johnson",Lost,5,0,Missing
+D00749,S00750,"Figueroa, Mcpherson and Howard",Delayed,3,1,Missing
+D00750,S00751,"Davis, Knapp and Gray",Delayed,5,0,Pending
+D00751,S00752,Sheppard Ltd,In Transit,5,0,Missing
+D00752,S00753,"Gardner, Gaines and Archer",Delayed,7,0,Pending
+D00753,S00754,"Thompson, Lozano and Bailey",Delivered,8,1,Pending
+D00754,S00755,Myers-Butler,Delivered,2,0,Missing
+D00755,S00756,Parker-Williams,Lost,6,1,Signed
+D00756,S00757,"Miles, Flowers and Martinez",Delayed,8,1,Missing
+D00757,S00758,Knight-Sparks,In Transit,3,0,Pending
+D00758,S00759,Roberts-Montes,In Transit,10,0,Missing
+D00759,S00760,Ho-Thomas,Lost,5,1,Pending
+D00760,S00761,"Hernandez, Levy and Hanson",Lost,2,0,Signed
+D00761,S00762,"Martin, Tucker and Brown",Delivered,6,1,Pending
+D00762,S00763,Smith-Williams,Delivered,10,0,Signed
+D00763,S00764,Petersen-Martinez,In Transit,5,1,Signed
+D00764,S00765,Torres-Jordan,In Transit,4,0,Pending
+D00765,S00766,"Flowers, Williams and Taylor",Lost,5,0,Signed
+D00766,S00767,Glover-Shaw,In Transit,7,1,Missing
+D00767,S00768,"Moore, Miller and Nelson",Delivered,6,0,Signed
+D00768,S00769,"Gonzalez, Richards and Miller",Lost,6,0,Signed
+D00769,S00770,Johnson LLC,Delivered,7,1,Missing
+D00770,S00771,Cain Ltd,Lost,6,1,Signed
+D00771,S00772,Henderson-Rasmussen,Delivered,3,0,Pending
+D00772,S00773,Orozco LLC,Delayed,10,0,Signed
+D00773,S00774,"Collins, Elliott and Shelton",Delayed,5,1,Signed
+D00774,S00775,Brock-Taylor,Delivered,4,0,Pending
+D00775,S00776,Wright Group,Delivered,7,1,Signed
+D00776,S00777,"Gonzalez, Torres and Evans",In Transit,9,0,Missing
+D00777,S00778,"Murray, White and Patton",In Transit,4,0,Pending
+D00778,S00779,Davis-Rose,Lost,4,0,Missing
+D00779,S00780,"Edwards, Donovan and Marquez",Delayed,4,1,Missing
+D00780,S00781,Gomez-Owens,Lost,3,0,Signed
+D00781,S00782,Murray-Gaines,In Transit,3,0,Missing
+D00782,S00783,Bernard Group,In Transit,2,1,Signed
+D00783,S00784,Campos PLC,Lost,4,1,Pending
+D00784,S00785,Buchanan-Carpenter,In Transit,3,1,Signed
+D00785,S00786,Martinez-Daniels,Delivered,5,1,Signed
+D00786,S00787,"Rich, Brown and Bruce",Lost,4,1,Missing
+D00787,S00788,Powell Inc,Delayed,2,0,Pending
+D00788,S00789,Aguirre-Golden,Delivered,3,0,Missing
+D00789,S00790,Combs-Miller,Lost,3,1,Pending
+D00790,S00791,Gallegos-Santos,Delivered,2,0,Missing
+D00791,S00792,Wheeler-Short,Delivered,6,1,Signed
+D00792,S00793,"Olson, Rivera and Brown",Lost,9,1,Signed
+D00793,S00794,"Richards, Dixon and Love",Delayed,7,0,Signed
+D00794,S00795,"Harris, Thomas and Yang",Lost,3,0,Signed
+D00795,S00796,Taylor-Jacobson,Delayed,10,1,Pending
+D00796,S00797,"Phelps, Turner and Collins",Delayed,4,0,Pending
+D00797,S00798,Shaffer PLC,Lost,7,0,Pending
+D00798,S00799,"Gonzalez, Jones and Hernandez",Delivered,6,1,Signed
+D00799,S00800,Meyer and Sons,Delayed,4,0,Missing
+D00800,S00801,Garcia Inc,Delivered,3,0,Missing
+D00801,S00802,"Wallace, Brown and Martinez",Delayed,4,0,Pending
+D00802,S00803,Webb-White,Delivered,8,0,Pending
+D00803,S00804,Skinner PLC,Delayed,8,1,Signed
+D00804,S00805,Underwood-Maldonado,Lost,8,1,Missing
+D00805,S00806,"Williamson, Reynolds and Fields",In Transit,9,1,Signed
+D00806,S00807,Thomas Ltd,Delayed,3,0,Pending
+D00807,S00808,"Allen, Hunt and Lyons",Delivered,5,1,Pending
+D00808,S00809,Alvarez LLC,In Transit,5,0,Missing
+D00809,S00810,Contreras-Haley,Delayed,3,1,Signed
+D00810,S00811,Richardson-Hill,Delayed,6,1,Pending
+D00811,S00812,Wolfe-Rodriguez,Delivered,8,0,Pending
+D00812,S00813,Li-Hernandez,In Transit,4,1,Signed
+D00813,S00814,Bryant-Elliott,Delayed,2,1,Signed
+D00814,S00815,Carpenter Inc,In Transit,3,0,Pending
+D00815,S00816,"Santos, Sandoval and Wallace",Lost,4,0,Signed
+D00816,S00817,Estes-Mcdonald,Lost,2,1,Missing
+D00817,S00818,"Ellis, Smith and Moore",Delayed,9,0,Signed
+D00818,S00819,"Foley, Gordon and Bailey",Delivered,9,0,Missing
+D00819,S00820,"Warren, Palmer and Thompson",Delivered,6,1,Missing
+D00820,S00821,Bell Ltd,Delayed,4,0,Missing
+D00821,S00822,"Morgan, Espinoza and Buchanan",Delayed,9,1,Missing
+D00822,S00823,Glover-Barrett,Lost,10,0,Missing
+D00823,S00824,Jones-Franco,In Transit,6,1,Missing
+D00824,S00825,Bennett-Ruiz,Lost,5,0,Pending
+D00825,S00826,"White, Erickson and Hunter",Delayed,4,0,Signed
+D00826,S00827,"Fox, Anderson and Nguyen",Delayed,9,1,Pending
+D00827,S00828,"Bailey, Williamson and Powell",Delivered,8,1,Signed
+D00828,S00829,Johnson Ltd,Lost,5,0,Pending
+D00829,S00830,Hall Ltd,Lost,7,1,Missing
+D00830,S00831,Porter Ltd,Delivered,3,1,Pending
+D00831,S00832,Morris-Hall,Delivered,5,1,Pending
+D00832,S00833,"Flynn, Garcia and Gilmore",Delayed,5,1,Missing
+D00833,S00834,"Stafford, Campos and Fisher",Delayed,2,0,Pending
+D00834,S00835,Brown LLC,Delivered,3,1,Missing
+D00835,S00836,Johnson Ltd,Delayed,8,0,Missing
+D00836,S00837,Alexander LLC,Delayed,7,0,Signed
+D00837,S00838,"Welch, Johnson and Thompson",In Transit,8,1,Missing
+D00838,S00839,Hale Group,Delayed,2,0,Pending
+D00839,S00840,Zhang PLC,In Transit,6,0,Pending
+D00840,S00841,"Gonzalez, King and Kim",Lost,3,0,Missing
+D00841,S00842,Perez-Harmon,In Transit,4,1,Missing
+D00842,S00843,Cervantes-Stokes,Delayed,10,0,Missing
+D00843,S00844,Miller Inc,Delayed,7,0,Missing
+D00844,S00845,"Moyer, Davis and Johnson",Delayed,2,1,Missing
+D00845,S00846,Barry LLC,Lost,3,1,Missing
+D00846,S00847,Carroll-Lin,Delivered,3,1,Signed
+D00847,S00848,Lopez-Blair,Lost,10,1,Missing
+D00848,S00849,"May, Crawford and Collier",Delivered,4,0,Signed
+D00849,S00850,"Carey, Mason and Kelly",Delivered,7,1,Signed
+D00850,S00851,"Castaneda, Solis and Gonzales",Delayed,6,1,Missing
+D00851,S00852,"Bennett, Jones and Miller",In Transit,4,1,Missing
+D00852,S00853,"Evans, Wilson and Hall",Delayed,6,1,Missing
+D00853,S00854,"Fernandez, Johnson and Nicholson",In Transit,9,0,Missing
+D00854,S00855,Nielsen-King,Delivered,7,1,Pending
+D00855,S00856,"Howard, Brennan and Moore",Lost,6,1,Signed
+D00856,S00857,Jones-Johnston,Lost,5,0,Pending
+D00857,S00858,"Frederick, Porter and Ross",Delayed,6,0,Missing
+D00858,S00859,Gardner Inc,Lost,5,1,Pending
+D00859,S00860,"Ruiz, Lowery and Baker",Lost,9,0,Missing
+D00860,S00861,Johnson Group,Delayed,3,0,Missing
+D00861,S00862,Gonzalez-Barron,Lost,8,1,Pending
+D00862,S00863,Taylor PLC,Delivered,7,0,Missing
+D00863,S00864,"Rivera, Todd and Gaines",Lost,3,1,Missing
+D00864,S00865,Young Inc,Lost,9,1,Missing
+D00865,S00866,"Strong, Warner and Cannon",Delayed,2,1,Missing
+D00866,S00867,Reed Inc,Lost,8,0,Signed
+D00867,S00868,George-Salazar,In Transit,8,0,Pending
+D00868,S00869,Clay Group,Delivered,4,1,Missing
+D00869,S00870,Nelson Inc,Delivered,9,1,Missing
+D00870,S00871,Johnson PLC,Delayed,4,0,Pending
+D00871,S00872,Santos Group,Delivered,7,1,Signed
+D00872,S00873,Turner-Horn,In Transit,8,1,Pending
+D00873,S00874,Smith Inc,In Transit,8,1,Missing
+D00874,S00875,Ayala and Sons,Delivered,10,0,Missing
+D00875,S00876,"Franklin, Gray and Sutton",Delivered,4,0,Pending
+D00876,S00877,Tran Inc,Delayed,2,1,Pending
+D00877,S00878,Cannon-Dominguez,In Transit,7,1,Signed
+D00878,S00879,Miles-Dunn,Lost,2,1,Missing
+D00879,S00880,Kim PLC,Lost,3,0,Signed
+D00880,S00881,Bell-Cooper,In Transit,8,1,Signed
+D00881,S00882,Allen Inc,Delayed,8,0,Missing
+D00882,S00883,"Smith, Gutierrez and Goodwin",In Transit,2,1,Signed
+D00883,S00884,"Bradley, Ritter and Smith",Delayed,10,0,Pending
+D00884,S00885,"Wright, Brown and Brown",Lost,8,0,Pending
+D00885,S00886,White-Williams,Delivered,8,1,Signed
+D00886,S00887,Morrison-Zamora,In Transit,9,1,Signed
+D00887,S00888,Anderson-Sanders,In Transit,4,1,Signed
+D00888,S00889,"Martinez, Jones and Wright",Delayed,6,1,Missing
+D00889,S00890,"Harris, Thornton and Li",Delayed,3,0,Pending
+D00890,S00891,Wallace LLC,In Transit,8,0,Signed
+D00891,S00892,Deleon-Carter,Delivered,10,1,Pending
+D00892,S00893,"Sanchez, Orozco and Flores",In Transit,2,0,Missing
+D00893,S00894,"Gordon, Brown and Mccullough",Lost,5,1,Pending
+D00894,S00895,"Sampson, Tucker and Miller",In Transit,5,0,Missing
+D00895,S00896,Skinner PLC,In Transit,8,1,Missing
+D00896,S00897,Torres PLC,In Transit,2,1,Signed
+D00897,S00898,Martinez Ltd,Delivered,6,0,Pending
+D00898,S00899,Johnson and Sons,Delivered,8,0,Signed
+D00899,S00900,"Alexander, Duran and Benton",Lost,10,1,Signed
+D00900,S00901,Porter Inc,Delivered,8,0,Missing
+D00901,S00902,Ramirez-Cruz,In Transit,8,0,Pending
+D00902,S00903,Brown PLC,Delivered,4,0,Pending
+D00903,S00904,Simpson-Roy,Delayed,5,1,Pending
+D00904,S00905,Wallace-Walker,Delivered,3,1,Pending
+D00905,S00906,Lopez-Jordan,Lost,10,0,Pending
+D00906,S00907,Guerrero Inc,In Transit,2,0,Signed
+D00907,S00908,"Hines, Pineda and Kent",Delayed,4,0,Pending
+D00908,S00909,Livingston-Solomon,Delayed,8,1,Pending
+D00909,S00910,"Robinson, Johnson and Swanson",Delivered,7,0,Pending
+D00910,S00911,"Hamilton, Patterson and Daniel",Lost,6,1,Signed
+D00911,S00912,"Goodwin, Aguirre and Tran",Delivered,6,1,Signed
+D00912,S00913,"Randolph, Mitchell and Ritter",Delivered,2,1,Signed
+D00913,S00914,"Ford, Armstrong and Carroll",Delivered,9,1,Signed
+D00914,S00915,"Green, Horne and Mcdonald",Lost,6,1,Missing
+D00915,S00916,Anderson Inc,Delivered,5,1,Missing
+D00916,S00917,Marsh-Tapia,Delivered,8,0,Pending
+D00917,S00918,Lutz PLC,Delivered,5,1,Pending
+D00918,S00919,Morgan-Foster,Delayed,9,0,Missing
+D00919,S00920,"Hill, Adams and King",In Transit,2,1,Signed
+D00920,S00921,"Patrick, Franklin and Martinez",Delayed,10,1,Missing
+D00921,S00922,"Guerrero, Huff and Abbott",Lost,3,1,Signed
+D00922,S00923,Ford-Gonzales,In Transit,10,1,Pending
+D00923,S00924,Johnson-Howard,Lost,3,1,Pending
+D00924,S00925,"Richard, Robinson and Brown",Delayed,3,0,Pending
+D00925,S00926,Hill PLC,In Transit,6,1,Missing
+D00926,S00927,"Edwards, Brown and White",In Transit,10,1,Missing
+D00927,S00928,Green-Simpson,Lost,8,1,Pending
+D00928,S00929,Mccoy and Sons,In Transit,4,0,Missing
+D00929,S00930,"Douglas, Hall and Pena",Delayed,8,1,Missing
+D00930,S00931,Cohen Group,Delivered,6,0,Missing
+D00931,S00932,"Stewart, Tran and Perez",Lost,8,1,Signed
+D00932,S00933,"Braun, Hester and Smith",Delayed,7,0,Signed
+D00933,S00934,Fernandez-Williams,Delivered,5,0,Pending
+D00934,S00935,Bailey Inc,In Transit,9,0,Missing
+D00935,S00936,"Wallace, Dixon and Young",Delayed,8,0,Signed
+D00936,S00937,Hudson-Calderon,Delayed,7,0,Pending
+D00937,S00938,"Perry, May and Liu",In Transit,8,0,Signed
+D00938,S00939,Johnson PLC,Delivered,7,1,Pending
+D00939,S00940,Rogers-Russell,Lost,2,0,Missing
+D00940,S00941,"Brooks, Dunlap and Carter",Delayed,5,1,Missing
+D00941,S00942,Martin Inc,Delayed,10,0,Pending
+D00942,S00943,Conrad-Buck,In Transit,10,1,Missing
+D00943,S00944,Rodriguez and Sons,Lost,3,1,Missing
+D00944,S00945,Dixon-Norman,Lost,7,0,Pending
+D00945,S00946,"Logan, Marquez and Case",Delayed,9,1,Pending
+D00946,S00947,Rivas-Johnson,Lost,9,1,Missing
+D00947,S00948,"Hernandez, Farmer and Banks",Lost,5,0,Missing
+D00948,S00949,Benjamin and Sons,Delivered,2,0,Pending
+D00949,S00950,"Gordon, Andrews and Kelley",Delayed,2,1,Pending
+D00950,S00951,Ryan-Martinez,Delayed,3,0,Missing
+D00951,S00952,"Yates, Lawson and Hopkins",Delayed,6,0,Missing
+D00952,S00953,"Alexander, Adams and Huff",Delivered,3,0,Signed
+D00953,S00954,Bartlett-Murphy,Delivered,8,0,Signed
+D00954,S00955,Hall-Edwards,Delayed,3,0,Missing
+D00955,S00956,Steele Group,In Transit,2,0,Signed
+D00956,S00957,"Rosario, Ortiz and Miller",Lost,8,0,Signed
+D00957,S00958,"Wagner, Melendez and Valdez",Delayed,10,1,Pending
+D00958,S00959,"Hall, Hartman and Hall",Lost,2,0,Signed
+D00959,S00960,Frost and Sons,Lost,6,1,Signed
+D00960,S00961,Craig-Wade,Delayed,6,1,Pending
+D00961,S00962,"Green, Mitchell and Edwards",Delivered,9,1,Signed
+D00962,S00963,Ortiz PLC,Delayed,8,1,Pending
+D00963,S00964,Johnston Ltd,Lost,10,1,Pending
+D00964,S00965,Yoder Group,In Transit,6,1,Pending
+D00965,S00966,Jackson Group,Delayed,6,1,Signed
+D00966,S00967,Cannon-Dawson,Delivered,10,1,Signed
+D00967,S00968,Newton-Martinez,Delivered,3,1,Pending
+D00968,S00969,Bass Inc,Delayed,5,0,Pending
+D00969,S00970,"Jackson, Jones and Robertson",Delivered,7,0,Missing
+D00970,S00971,"Sellers, Strong and Gomez",Lost,7,0,Missing
+D00971,S00972,Terry-Allen,Lost,10,0,Signed
+D00972,S00973,Wilson-Merritt,Lost,8,0,Signed
+D00973,S00974,Vargas-Jensen,Lost,5,0,Missing
+D00974,S00975,"Williams, Rodgers and Kelly",Delayed,3,0,Pending
+D00975,S00976,Lozano-Mccoy,Delayed,5,0,Signed
+D00976,S00977,"Davenport, Roberts and Woods",Delayed,9,1,Signed
+D00977,S00978,Quinn Ltd,Delivered,3,1,Pending
+D00978,S00979,"Hendricks, Zuniga and Miller",Delivered,4,1,Signed
+D00979,S00980,Watkins LLC,Delayed,2,0,Signed
+D00980,S00981,"Banks, Gray and Gonzales",In Transit,8,1,Missing
+D00981,S00982,"Sharp, Ramirez and Mejia",Delayed,8,0,Pending
+D00982,S00983,Evans LLC,In Transit,9,1,Pending
+D00983,S00984,Elliott PLC,Delivered,5,1,Missing
+D00984,S00985,"Romero, Reilly and Mitchell",Lost,6,1,Signed
+D00985,S00986,Flores-White,Delayed,5,1,Pending
+D00986,S00987,Williams Ltd,Delayed,8,0,Missing
+D00987,S00988,"Clark, Stone and Andrews",In Transit,9,1,Pending
+D00988,S00989,"Edwards, Reed and Martin",Lost,6,0,Signed
+D00989,S00990,Hill-Gonzales,Lost,3,1,Signed
+D00990,S00991,Roberts LLC,Delayed,9,0,Pending
+D00991,S00992,"Molina, Middleton and Estrada",Delivered,4,0,Signed
+D00992,S00993,Davis PLC,In Transit,7,0,Missing
+D00993,S00994,"Fischer, Johnson and Orr",Lost,8,1,Missing
+D00994,S00995,"Medina, Lee and Freeman",Delivered,3,0,Pending
+D00995,S00996,Wood LLC,In Transit,7,0,Missing
+D00996,S00997,"Simmons, Wallace and Martinez",Delayed,9,0,Signed
+D00997,S00998,Phillips-Rodriguez,Delivered,6,0,Signed
+D00998,S00999,"Calhoun, Wilson and Oneal",In Transit,3,1,Missing
+D00999,S01000,Baker-Lin,Delivered,9,0,Signed

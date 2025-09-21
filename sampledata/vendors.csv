@@ -1,0 +1,51 @@
+vendor_id,vendor_name,product_id,contract_start,contract_end,vendor_rating,country
+V001,"Harper, Jones and Hawkins",P0070,2023-09-30,2024-09-29,3.1,Grenada
+V002,Ruiz LLC,P0063,2024-05-02,2025-05-02,3.1,Wallis and Futuna
+V003,"Coffey, George and Goodman",P0059,2023-09-27,2024-09-26,2.5,Albania
+V004,Wagner-James,P0046,2024-02-10,2025-02-09,3.3,Paraguay
+V005,Anderson-Mcclain,P0043,2023-09-25,2024-09-24,4.7,Morocco
+V006,Green PLC,P0100,2024-03-19,2025-03-19,4.2,Venezuela
+V007,Humphrey-Anderson,P0077,2024-01-11,2025-01-10,3.7,Russian Federation
+V008,"Hamilton, Green and Edwards",P0035,2023-10-29,2024-10-28,4.2,Luxembourg
+V009,Adkins-Howe,P0094,2023-12-28,2024-12-27,4.1,United Kingdom
+V010,Austin-Juarez,P0019,2023-12-21,2024-12-20,4.9,Malaysia
+V011,Graham-Martin,P0029,2024-06-22,2025-06-22,4.1,Liechtenstein
+V012,Peters Ltd,P0019,2024-05-14,2025-05-14,3.4,South Georgia and the South Sandwich Islands
+V013,Brown-Hernandez,P0004,2023-12-08,2024-12-07,3.1,Cocos (Keeling) Islands
+V014,Harrison and Sons,P0095,2024-06-10,2025-06-10,4.2,Lao People's Democratic Republic
+V015,Wilson-Woodard,P0056,2024-03-20,2025-03-20,3.4,Armenia
+V016,Kelly-Fletcher,P0096,2024-03-16,2025-03-16,2.7,Kuwait
+V017,Rodriguez-Cortez,P0049,2023-11-06,2024-11-05,4.1,British Virgin Islands
+V018,Davis-Oneill,P0036,2023-11-19,2024-11-18,4.7,Syrian Arab Republic
+V019,Brady LLC,P0087,2024-04-15,2025-04-15,3.9,Uganda
+V020,"Willis, Silva and Bonilla",P0058,2024-04-01,2025-04-01,5.0,Seychelles
+V021,"White, Knapp and Sanchez",P0068,2024-03-21,2025-03-21,2.9,Philippines
+V022,Clay Inc,P0087,2023-12-29,2024-12-28,3.4,Pitcairn Islands
+V023,"Martinez, Brooks and Hickman",P0043,2023-10-21,2024-10-20,3.5,Taiwan
+V024,Hernandez-Miller,P0054,2024-07-28,2025-07-28,4.9,Russian Federation
+V025,"Castillo, Fuller and Adams",P0036,2024-05-22,2025-05-22,3.3,Albania
+V026,Booker-Douglas,P0006,2024-03-03,2025-03-03,3.9,Greece
+V027,"Cooke, Meadows and Robles",P0090,2023-10-30,2024-10-29,3.4,Croatia
+V028,Solis LLC,P0079,2024-01-13,2025-01-12,2.8,South Georgia and the South Sandwich Islands
+V029,Manning PLC,P0059,2024-04-30,2025-04-30,3.9,Hong Kong
+V030,Ross and Sons,P0045,2023-12-12,2024-12-11,3.2,Sierra Leone
+V031,Davis-Phelps,P0002,2023-11-12,2024-11-11,3.7,Iceland
+V032,Mitchell-Goodwin,P0088,2024-05-21,2025-05-21,2.9,Cape Verde
+V033,Evans Group,P0088,2024-06-21,2025-06-21,2.9,Sri Lanka
+V034,Mckee-Munoz,P0038,2024-01-27,2025-01-26,4.1,Papua New Guinea
+V035,Collier PLC,P0086,2023-11-26,2024-11-25,2.9,Liechtenstein
+V036,Mcclure-Alvarez,P0063,2024-04-15,2025-04-15,3.2,Nepal
+V037,Davis-Henderson,P0038,2024-01-31,2025-01-30,2.5,New Zealand
+V038,Hamilton Group,P0006,2023-10-16,2024-10-15,3.0,Armenia
+V039,"Peterson, Ford and Walker",P0076,2024-06-02,2025-06-02,2.8,Rwanda
+V040,Arias PLC,P0063,2024-05-11,2025-05-11,3.3,Oman
+V041,"Miller, Mcdonald and Miller",P0056,2024-07-17,2025-07-17,3.4,Lesotho
+V042,Hernandez-Anderson,P0001,2024-08-25,2025-08-25,2.6,French Southern Territories
+V043,Mills LLC,P0018,2024-04-17,2025-04-17,3.4,Australia
+V044,"Jones, Williams and Rodriguez",P0037,2024-02-22,2025-02-21,4.5,Isle of Man
+V045,Marshall Ltd,P0065,2024-04-17,2025-04-17,4.2,Suriname
+V046,Kelly-Richards,P0099,2024-07-04,2025-07-04,3.9,Macao
+V047,Wilson Ltd,P0012,2024-03-07,2025-03-07,4.3,Christmas Island
+V048,Cameron Inc,P0019,2023-10-12,2024-10-11,5.0,Israel
+V049,"Evans, Matthews and Gibson",P0026,2024-05-27,2025-05-27,3.6,Korea
+V050,"Morton, Peterson and Hull",P0011,2024-07-20,2025-07-20,3.2,Colombia
