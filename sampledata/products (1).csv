@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,price,stock_level
+P1000,Purpose Pro,Electronics,Headphones,BrandE,7370,115
+P1001,Brother Pro,Apparel,Shoes,BrandC,960,101
+P1002,Ago Lite,Sports,Outdoor,BrandE,5490,296
+P1003,Site X,Electronics,Mobiles,BrandA,5291,387
+P1004,Face X,Electronics,Mobiles,BrandD,5834,402
+P1005,Election X,Home & Kitchen,Decor,BrandE,6365,60
+P1006,Dog Pro,Apparel,Shoes,BrandB,566,38
+P1007,Chair Pro,Apparel,Shoes,BrandD,4526,471
+P1008,Since Max,Sports,Fitness,BrandA,5678,305
+P1009,Blue Pro,Apparel,T-Shirts,BrandB,8422,306
+P1010,Require Pro,Electronics,Mobiles,BrandC,1785,223
+P1011,Sit Pro,Sports,Cycling,BrandA,869,276
+P1012,Wait X,Apparel,Shoes,BrandD,7049,416
+P1013,Offer X,Sports,Fitness,BrandC,2533,266
+P1014,Begin Pro,Apparel,Shoes,BrandC,5411,311
+P1015,Performance X,Apparel,T-Shirts,BrandA,5151,110
+P1016,Knowledge Max,Home & Kitchen,Cookware,BrandD,6520,414
+P1017,Almost X,Apparel,T-Shirts,BrandA,1284,355
+P1018,All Max,Sports,Outdoor,BrandB,4655,119
+P1019,Better Lite,Electronics,Laptops,BrandB,3485,429
+P1020,Discover Pro,Home & Kitchen,Decor,BrandE,6496,191
+P1021,Early X,Apparel,Jeans,BrandC,8766,480
+P1022,Mouth Max,Apparel,T-Shirts,BrandE,9374,322
+P1023,Play Lite,Sports,Cycling,BrandD,2658,10
+P1024,Agreement Lite,Home & Kitchen,Cookware,BrandB,7949,328
+P1025,Option X,Apparel,T-Shirts,BrandE,2147,447
+P1026,Decide X,Electronics,Headphones,BrandB,2847,64
+P1027,Sense Lite,Electronics,Mobiles,BrandB,9267,380
+P1028,Rate Pro,Apparel,Jeans,BrandB,289,433
+P1029,Science Pro,Electronics,Headphones,BrandA,2834,408
+P1030,Offer Max,Home & Kitchen,Furniture,BrandE,3105,158
+P1031,Kind Pro,Apparel,Jeans,BrandC,4758,440
+P1032,Discussion Lite,Sports,Cycling,BrandE,1999,466
+P1033,List Lite,Home & Kitchen,Cookware,BrandC,7834,318
+P1034,Perform Lite,Electronics,Laptops,BrandE,1367,146
+P1035,Fall Pro,Apparel,Jeans,BrandE,1628,211
+P1036,Table Max,Home & Kitchen,Furniture,BrandB,3656,445
+P1037,True Pro,Electronics,Headphones,BrandC,3990,322
+P1038,According Max,Apparel,T-Shirts,BrandC,8938,126
+P1039,Song Pro,Beauty,Skincare,BrandC,5493,163
+P1040,Sure Lite,Sports,Cycling,BrandE,8892,434
+P1041,Collection Lite,Electronics,Headphones,BrandC,8533,300
+P1042,Save X,Electronics,Mobiles,BrandE,7613,72
+P1043,Knowledge Pro,Beauty,Haircare,BrandA,2712,253
+P1044,Grow Pro,Beauty,Haircare,BrandB,7141,34
+P1045,Fall X,Home & Kitchen,Decor,BrandD,9655,99
+P1046,Clearly Lite,Sports,Fitness,BrandA,6335,84
+P1047,Dinner Pro,Sports,Fitness,BrandC,5586,303
+P1048,Source X,Electronics,Laptops,BrandB,7199,395
+P1049,Great Pro,Beauty,Skincare,BrandB,9770,400
+P1050,Blue Max,Sports,Fitness,BrandB,875,219
+P1051,Best Lite,Apparel,Jeans,BrandB,8326,484
+P1052,Husband Max,Sports,Outdoor,BrandC,3252,427
+P1053,Bill Lite,Electronics,Mobiles,BrandB,1685,356
+P1054,Her X,Sports,Cycling,BrandD,4043,26
+P1055,Throw Lite,Home & Kitchen,Furniture,BrandD,7655,137
+P1056,Guy Lite,Beauty,Skincare,BrandB,3173,436
+P1057,Pm X,Electronics,Mobiles,BrandE,1121,452
+P1058,Everything Lite,Electronics,Laptops,BrandC,3943,373
+P1059,Surface Pro,Beauty,Haircare,BrandD,8089,260
+P1060,Animal X,Beauty,Haircare,BrandD,9792,188
+P1061,Show X,Beauty,Skincare,BrandD,6973,191
+P1062,Machine X,Electronics,Laptops,BrandA,5775,161
+P1063,Not Max,Beauty,Makeup,BrandA,261,34
+P1064,Capital Max,Beauty,Makeup,BrandD,4397,464
+P1065,Win Lite,Electronics,Headphones,BrandE,1095,189
+P1066,Human X,Electronics,Headphones,BrandC,7729,207
+P1067,Bar Lite,Home & Kitchen,Decor,BrandC,9567,353
+P1068,Old Pro,Sports,Outdoor,BrandD,1116,170
+P1069,Finally X,Apparel,T-Shirts,BrandD,7969,186
+P1070,Themselves Pro,Electronics,Headphones,BrandC,6539,294
+P1071,Production Lite,Apparel,Jeans,BrandE,7992,72
+P1072,Present Max,Home & Kitchen,Furniture,BrandA,6963,159
+P1073,Value Lite,Sports,Fitness,BrandA,8016,163
+P1074,Training Pro,Sports,Fitness,BrandD,8629,165
+P1075,High X,Sports,Outdoor,BrandC,978,379
+P1076,Participant Lite,Home & Kitchen,Cookware,BrandA,9368,478
+P1077,Dark X,Beauty,Haircare,BrandE,4987,58
+P1078,Sea Max,Sports,Outdoor,BrandD,4959,464
+P1079,Available Max,Sports,Cycling,BrandB,6431,346
+P1080,Answer Max,Home & Kitchen,Furniture,BrandD,8671,93
+P1081,Recently X,Beauty,Haircare,BrandB,8784,370
+P1082,Drive Lite,Sports,Fitness,BrandD,7308,186
+P1083,Spring X,Sports,Fitness,BrandC,5376,157
+P1084,Figure X,Beauty,Haircare,BrandC,2162,127
+P1085,Base Lite,Electronics,Laptops,BrandC,164,351
+P1086,Top Max,Electronics,Laptops,BrandC,8106,485
+P1087,Early Max,Sports,Cycling,BrandE,2668,72
+P1088,Trial Lite,Apparel,Shoes,BrandE,5563,198
+P1089,Blood X,Beauty,Skincare,BrandB,2127,369
+P1090,Husband X,Beauty,Skincare,BrandE,2795,58
+P1091,Fall Max,Apparel,Shoes,BrandD,9787,336
+P1092,Long Pro,Beauty,Haircare,BrandC,5358,266
+P1093,Prove Pro,Home & Kitchen,Furniture,BrandA,5718,233
+P1094,They Pro,Beauty,Makeup,BrandA,6836,150
+P1095,His X,Beauty,Haircare,BrandA,491,487
+P1096,Commercial X,Beauty,Makeup,BrandD,5992,224
+P1097,Hospital Max,Electronics,Mobiles,BrandA,3661,444
+P1098,Hear Pro,Home & Kitchen,Furniture,BrandA,6284,388
+P1099,Determine Max,Beauty,Haircare,BrandB,3199,449
+P1100,Religious Max,Home & Kitchen,Cookware,BrandD,6378,220
+P1101,Example Max,Home & Kitchen,Cookware,BrandD,8492,327
+P1102,Science Lite,Home & Kitchen,Cookware,BrandA,3204,41
+P1103,Write Pro,Apparel,Jeans,BrandD,7315,167
+P1104,Result Pro,Beauty,Makeup,BrandB,2554,294
+P1105,Raise Lite,Electronics,Mobiles,BrandB,9096,314
+P1106,Away Lite,Electronics,Mobiles,BrandC,2831,438
+P1107,Politics Pro,Electronics,Laptops,BrandB,8254,486
+P1108,Prove Lite,Electronics,Laptops,BrandC,9862,295
+P1109,Congress Max,Beauty,Skincare,BrandA,5156,153
+P1110,None X,Electronics,Laptops,BrandC,8210,433
+P1111,Shoulder Max,Home & Kitchen,Furniture,BrandC,3940,28
+P1112,Election Pro,Apparel,Jeans,BrandA,1128,27
+P1113,Common Lite,Sports,Outdoor,BrandC,7485,266
+P1114,Maintain X,Electronics,Headphones,BrandB,602,87
+P1115,Hundred Pro,Sports,Cycling,BrandA,7010,380
+P1116,Expect Lite,Sports,Cycling,BrandD,9162,184
+P1117,Wish X,Sports,Fitness,BrandC,7038,203
+P1118,Push X,Home & Kitchen,Furniture,BrandB,4588,485
+P1119,Rise Lite,Electronics,Headphones,BrandD,306,122
+P1120,Onto X,Beauty,Makeup,BrandA,5234,123
+P1121,Discuss Pro,Home & Kitchen,Decor,BrandA,6077,231
+P1122,Reveal Lite,Beauty,Skincare,BrandA,7821,175
+P1123,Garden Max,Electronics,Mobiles,BrandB,7135,444
+P1124,Threat Pro,Home & Kitchen,Decor,BrandD,1584,328
+P1125,Special Pro,Sports,Fitness,BrandA,7958,141
+P1126,Stand Lite,Home & Kitchen,Furniture,BrandB,963,394
+P1127,Arrive Lite,Home & Kitchen,Furniture,BrandE,2890,273
+P1128,Drop X,Electronics,Mobiles,BrandB,7508,422
+P1129,Term Pro,Sports,Outdoor,BrandE,8855,64
+P1130,Almost X,Sports,Cycling,BrandD,5216,368
+P1131,Support Pro,Apparel,Shoes,BrandA,6119,140
+P1132,Four Pro,Apparel,Shoes,BrandA,1857,297
+P1133,Institution Max,Beauty,Makeup,BrandC,7674,275
+P1134,Executive Pro,Apparel,Shoes,BrandA,6474,467
+P1135,Attorney X,Electronics,Mobiles,BrandD,6992,476
+P1136,Development X,Home & Kitchen,Decor,BrandB,1778,375
+P1137,White Max,Sports,Outdoor,BrandD,3342,171
+P1138,Yes X,Home & Kitchen,Furniture,BrandA,4736,389
+P1139,Our Lite,Electronics,Headphones,BrandB,1159,490
+P1140,Under Max,Home & Kitchen,Cookware,BrandD,6768,96
+P1141,Serious X,Sports,Fitness,BrandA,3257,64
+P1142,Forward X,Apparel,T-Shirts,BrandA,6015,485
+P1143,Difference Lite,Beauty,Makeup,BrandA,9889,297
+P1144,Reality Max,Sports,Fitness,BrandC,2793,187
+P1145,Money Lite,Sports,Outdoor,BrandC,3727,400
+P1146,Individual Max,Sports,Cycling,BrandC,9655,358
+P1147,Usually Max,Sports,Cycling,BrandB,5550,17
+P1148,Who Pro,Electronics,Laptops,BrandD,1763,330
+P1149,Question X,Sports,Outdoor,BrandB,9821,322
+P1150,Low X,Home & Kitchen,Decor,BrandB,5692,256
+P1151,Character Pro,Electronics,Headphones,BrandA,7492,332
+P1152,Evidence Lite,Apparel,Jeans,BrandE,1406,481
+P1153,Chair Pro,Home & Kitchen,Decor,BrandE,6876,480
+P1154,Employee X,Home & Kitchen,Decor,BrandA,5964,452
+P1155,Size X,Home & Kitchen,Cookware,BrandE,9574,264
+P1156,Option Pro,Home & Kitchen,Cookware,BrandB,7626,337
+P1157,Nothing Pro,Electronics,Headphones,BrandD,9001,63
+P1158,Everyone Pro,Apparel,Shoes,BrandC,5675,258
+P1159,Skin X,Apparel,T-Shirts,BrandB,5630,248
+P1160,Pattern Pro,Sports,Cycling,BrandB,4513,238
+P1161,Later Pro,Beauty,Makeup,BrandD,3848,76
+P1162,Water Lite,Electronics,Headphones,BrandE,763,60
+P1163,Past Pro,Apparel,Shoes,BrandD,2098,106
+P1164,Inside X,Electronics,Laptops,BrandB,8094,101
+P1165,High Lite,Electronics,Mobiles,BrandA,1595,273
+P1166,Discuss Max,Sports,Cycling,BrandA,3404,427
+P1167,Certainly X,Apparel,T-Shirts,BrandB,3863,300
+P1168,Mr X,Beauty,Skincare,BrandA,5332,105
+P1169,Minute Max,Beauty,Haircare,BrandE,1953,97
+P1170,Benefit X,Beauty,Haircare,BrandD,6685,87
+P1171,Someone Max,Home & Kitchen,Cookware,BrandC,1391,297
+P1172,Anyone Max,Apparel,Shoes,BrandD,3681,129
+P1173,Traditional X,Home & Kitchen,Decor,BrandC,7654,311
+P1174,Break Pro,Home & Kitchen,Cookware,BrandB,7380,409
+P1175,Claim Pro,Home & Kitchen,Cookware,BrandB,1736,461
+P1176,Product Max,Sports,Outdoor,BrandC,3796,174
+P1177,Collection Lite,Sports,Cycling,BrandA,798,191
+P1178,Structure Max,Electronics,Laptops,BrandB,4837,478
+P1179,Response Max,Electronics,Mobiles,BrandE,954,407
+P1180,Knowledge Max,Apparel,Shoes,BrandE,8264,232
+P1181,Pick Pro,Apparel,T-Shirts,BrandE,5955,320
+P1182,Attack Pro,Sports,Cycling,BrandE,7492,441
+P1183,Image Pro,Electronics,Headphones,BrandC,6628,475
+P1184,I Max,Electronics,Laptops,BrandA,5349,16
+P1185,Pick Lite,Home & Kitchen,Cookware,BrandC,5272,339
+P1186,Management Pro,Beauty,Haircare,BrandB,1807,272
+P1187,Newspaper X,Beauty,Makeup,BrandE,5891,170
+P1188,Enter X,Beauty,Skincare,BrandE,5635,160
+P1189,On X,Sports,Outdoor,BrandE,5031,94
+P1190,Traditional Max,Beauty,Skincare,BrandB,3610,156
+P1191,Yes X,Beauty,Haircare,BrandD,302,121
+P1192,Activity Max,Home & Kitchen,Furniture,BrandC,4318,390
+P1193,Response X,Apparel,Jeans,BrandA,9058,412
+P1194,Set Lite,Sports,Cycling,BrandB,4489,45
+P1195,Building Max,Electronics,Mobiles,BrandD,2427,294
+P1196,Rest X,Home & Kitchen,Decor,BrandD,8104,197
+P1197,Value Pro,Beauty,Makeup,BrandA,3031,91
+P1198,Not Max,Electronics,Headphones,BrandB,7877,11
+P1199,Social Pro,Home & Kitchen,Furniture,BrandD,297,394
+P1200,Example Pro,Sports,Cycling,BrandE,7225,312
+P1201,Specific Pro,Beauty,Skincare,BrandA,2030,206
+P1202,Put Pro,Sports,Outdoor,BrandE,6387,413
+P1203,Grow X,Home & Kitchen,Furniture,BrandA,8900,20
+P1204,Brother X,Electronics,Mobiles,BrandC,9439,243
+P1205,Finally Max,Apparel,Shoes,BrandC,4382,395
+P1206,Learn Max,Beauty,Skincare,BrandB,2611,204
+P1207,Coach Max,Sports,Cycling,BrandD,759,480
+P1208,Long X,Electronics,Mobiles,BrandE,2911,128
+P1209,About Max,Electronics,Mobiles,BrandD,7198,405
+P1210,Seven Pro,Apparel,Jeans,BrandC,6646,29
+P1211,Type X,Home & Kitchen,Furniture,BrandE,9661,270
+P1212,Serve Max,Apparel,Shoes,BrandB,2086,302
+P1213,Everyone Pro,Apparel,T-Shirts,BrandD,8438,431
+P1214,Month Max,Home & Kitchen,Decor,BrandA,3011,265
+P1215,Sound Lite,Home & Kitchen,Cookware,BrandA,1834,231
+P1216,Could Max,Home & Kitchen,Cookware,BrandE,1943,402
+P1217,Movement Lite,Electronics,Laptops,BrandA,8780,235
+P1218,While Max,Electronics,Mobiles,BrandA,3076,62
+P1219,Born Max,Beauty,Makeup,BrandC,2059,437
+P1220,Truth X,Beauty,Makeup,BrandB,5859,364
+P1221,Process X,Apparel,T-Shirts,BrandA,6794,351
+P1222,Fire Lite,Apparel,T-Shirts,BrandA,2485,373
+P1223,Thought X,Beauty,Haircare,BrandD,4836,289
+P1224,Purpose Pro,Sports,Cycling,BrandE,1902,90
+P1225,Movement Pro,Apparel,Shoes,BrandC,8255,211
+P1226,Politics Lite,Sports,Outdoor,BrandE,8220,167
+P1227,Decide Pro,Sports,Outdoor,BrandD,6716,129
+P1228,Claim Pro,Home & Kitchen,Furniture,BrandD,5634,68
+P1229,Hour Max,Electronics,Laptops,BrandD,4161,224
+P1230,Sound X,Beauty,Makeup,BrandA,362,137
+P1231,Color Pro,Electronics,Laptops,BrandE,6387,233
+P1232,Notice Pro,Beauty,Skincare,BrandE,8915,218
+P1233,Start X,Electronics,Headphones,BrandE,9308,379
+P1234,Win Pro,Beauty,Haircare,BrandB,2149,124
+P1235,Nice Pro,Electronics,Headphones,BrandC,5523,218
+P1236,Why X,Home & Kitchen,Cookware,BrandA,4648,23
+P1237,A Max,Sports,Cycling,BrandC,3208,18
+P1238,Place Pro,Beauty,Makeup,BrandA,7258,49
+P1239,Game X,Sports,Fitness,BrandE,7500,459
+P1240,Middle Pro,Beauty,Skincare,BrandB,3270,246
+P1241,After Pro,Beauty,Haircare,BrandB,9974,290
+P1242,Brother Max,Home & Kitchen,Furniture,BrandE,2355,368
+P1243,Woman Lite,Electronics,Headphones,BrandC,1254,210
+P1244,Him Lite,Beauty,Skincare,BrandD,4599,255
+P1245,Unit X,Electronics,Headphones,BrandE,6395,287
+P1246,Theory Lite,Home & Kitchen,Cookware,BrandA,6297,244
+P1247,Surface X,Apparel,T-Shirts,BrandC,9988,13
+P1248,Food Lite,Sports,Fitness,BrandD,1748,163
+P1249,Education Max,Beauty,Makeup,BrandB,5639,451
+P1250,Article X,Home & Kitchen,Furniture,BrandA,9737,38
+P1251,Effect Lite,Electronics,Headphones,BrandB,4299,118
+P1252,Unit Max,Beauty,Haircare,BrandA,8545,107
+P1253,Our Lite,Electronics,Headphones,BrandD,2657,224
+P1254,Your Pro,Apparel,Jeans,BrandA,5692,302
+P1255,Bar Pro,Beauty,Haircare,BrandD,198,84
+P1256,Bed Max,Sports,Outdoor,BrandE,2300,335
+P1257,Sign Pro,Beauty,Skincare,BrandE,3061,155
+P1258,Mention Pro,Sports,Fitness,BrandA,5073,137
+P1259,Team X,Electronics,Laptops,BrandC,4533,350
+P1260,Authority Lite,Beauty,Makeup,BrandB,2969,51
+P1261,Soon X,Home & Kitchen,Cookware,BrandA,1056,365
+P1262,No Lite,Home & Kitchen,Furniture,BrandA,8452,50
+P1263,Space Pro,Apparel,T-Shirts,BrandB,5799,431
+P1264,Car X,Home & Kitchen,Decor,BrandA,7044,43
+P1265,Career Lite,Apparel,T-Shirts,BrandB,4593,26
+P1266,Receive Lite,Electronics,Mobiles,BrandD,9592,174
+P1267,May X,Sports,Cycling,BrandC,5011,162
+P1268,Your Max,Electronics,Laptops,BrandE,4087,495
+P1269,Often Lite,Sports,Cycling,BrandE,9819,387
+P1270,Company Pro,Sports,Fitness,BrandC,6115,85
+P1271,Evidence Lite,Apparel,T-Shirts,BrandB,1318,96
+P1272,News Pro,Home & Kitchen,Cookware,BrandC,4596,126
+P1273,Turn X,Home & Kitchen,Cookware,BrandB,4835,371
+P1274,Policy Lite,Apparel,T-Shirts,BrandC,4655,351
+P1275,Land Pro,Apparel,Shoes,BrandA,9246,478
+P1276,Development Pro,Electronics,Mobiles,BrandA,8150,36
+P1277,Woman X,Apparel,Jeans,BrandC,3546,322
+P1278,Notice Lite,Home & Kitchen,Decor,BrandD,1145,296
+P1279,Someone Lite,Apparel,Shoes,BrandC,6993,143
+P1280,Show X,Apparel,Shoes,BrandE,1793,228
+P1281,Road Lite,Sports,Fitness,BrandA,3536,177
+P1282,Deep X,Apparel,T-Shirts,BrandC,8854,107
+P1283,Sell Lite,Electronics,Headphones,BrandE,5995,277
+P1284,Forget Max,Apparel,T-Shirts,BrandA,3454,246
+P1285,Inside Lite,Beauty,Makeup,BrandD,325,318
+P1286,Remain Pro,Beauty,Makeup,BrandD,4993,464
+P1287,Rate Pro,Sports,Fitness,BrandE,7122,403
+P1288,Hour Max,Sports,Cycling,BrandC,9251,182
+P1289,Left Lite,Beauty,Skincare,BrandA,5700,410
+P1290,We Pro,Sports,Fitness,BrandD,8096,419
+P1291,Nation Pro,Sports,Fitness,BrandE,9107,478
+P1292,Live Lite,Home & Kitchen,Decor,BrandB,7783,485
+P1293,Camera X,Home & Kitchen,Furniture,BrandC,4742,199
+P1294,End Lite,Apparel,T-Shirts,BrandB,7779,131
+P1295,Down X,Beauty,Haircare,BrandC,8308,55
+P1296,Attack Max,Electronics,Headphones,BrandA,7439,73
+P1297,Ground Max,Beauty,Makeup,BrandE,9535,139
+P1298,Against Pro,Beauty,Haircare,BrandA,2305,319
+P1299,Per Pro,Home & Kitchen,Decor,BrandB,1169,372
+P1300,Once Pro,Home & Kitchen,Decor,BrandE,3544,202
+P1301,Drug X,Sports,Outdoor,BrandA,1160,316
+P1302,Per Pro,Electronics,Mobiles,BrandA,2427,190
+P1303,Discussion Lite,Home & Kitchen,Furniture,BrandA,3520,301
+P1304,Account X,Sports,Fitness,BrandB,401,380
+P1305,Avoid Max,Electronics,Headphones,BrandA,706,291
+P1306,Second X,Home & Kitchen,Decor,BrandD,3270,38
+P1307,Program Pro,Beauty,Skincare,BrandC,799,158
+P1308,Artist Lite,Beauty,Makeup,BrandD,5188,276
+P1309,Drop Lite,Electronics,Laptops,BrandB,9431,305
+P1310,Author Pro,Electronics,Laptops,BrandB,290,20
+P1311,Western Lite,Home & Kitchen,Cookware,BrandA,1080,173
+P1312,Almost X,Home & Kitchen,Decor,BrandE,3075,122
+P1313,Trade X,Electronics,Headphones,BrandD,6202,196
+P1314,Give Pro,Electronics,Headphones,BrandB,1284,304
+P1315,Avoid Lite,Sports,Fitness,BrandC,3427,241
+P1316,My Max,Sports,Cycling,BrandB,3494,236
+P1317,Economy X,Sports,Cycling,BrandD,8419,319
+P1318,Family X,Beauty,Makeup,BrandC,1916,107
+P1319,Relationship X,Beauty,Haircare,BrandC,5954,64
+P1320,Mention X,Sports,Outdoor,BrandA,6809,120
+P1321,Difficult Max,Sports,Fitness,BrandE,669,161
+P1322,Notice Pro,Electronics,Laptops,BrandC,5542,255
+P1323,Cause X,Beauty,Haircare,BrandA,1995,415
+P1324,Several Lite,Sports,Cycling,BrandE,2833,78
+P1325,Worry Max,Apparel,Jeans,BrandA,3963,321
+P1326,Us X,Home & Kitchen,Decor,BrandB,7555,298
+P1327,Own Lite,Sports,Outdoor,BrandB,4114,259
+P1328,Part X,Beauty,Haircare,BrandE,1786,45
+P1329,Material Pro,Sports,Outdoor,BrandA,3109,248
+P1330,Eight Max,Apparel,Jeans,BrandD,7906,157
+P1331,Still Pro,Electronics,Mobiles,BrandA,254,476
+P1332,Material Max,Beauty,Makeup,BrandD,1509,236
+P1333,Surface X,Electronics,Laptops,BrandC,884,253
+P1334,Investment X,Home & Kitchen,Cookware,BrandC,8196,346
+P1335,Customer Max,Electronics,Headphones,BrandC,7660,455
+P1336,Between Lite,Sports,Outdoor,BrandA,7443,374
+P1337,Bill Lite,Apparel,T-Shirts,BrandE,7306,491
+P1338,Reason X,Electronics,Mobiles,BrandD,5696,210
+P1339,Lawyer X,Apparel,Jeans,BrandA,5901,163
+P1340,Health Pro,Beauty,Haircare,BrandC,2906,459
+P1341,Land X,Beauty,Skincare,BrandB,637,82
+P1342,Item Max,Sports,Outdoor,BrandC,6086,210
+P1343,Manage Lite,Sports,Fitness,BrandE,1941,305
+P1344,Treat Lite,Sports,Cycling,BrandC,8816,26
+P1345,Shoulder Pro,Apparel,Jeans,BrandE,7071,138
+P1346,Arm Lite,Home & Kitchen,Furniture,BrandB,5725,226
+P1347,Report Lite,Home & Kitchen,Decor,BrandD,3050,70
+P1348,Ready Max,Home & Kitchen,Decor,BrandC,8092,436
+P1349,Race Lite,Beauty,Skincare,BrandE,4880,113
+P1350,Billion Pro,Beauty,Makeup,BrandD,2468,51
+P1351,Ask Pro,Home & Kitchen,Cookware,BrandB,6755,34
+P1352,Interesting Lite,Sports,Outdoor,BrandE,8273,48
+P1353,Should X,Electronics,Mobiles,BrandB,4595,300
+P1354,Group Lite,Home & Kitchen,Furniture,BrandB,9263,140
+P1355,Such Pro,Electronics,Headphones,BrandA,6102,238
+P1356,Training Pro,Home & Kitchen,Cookware,BrandD,6714,117
+P1357,Boy Max,Electronics,Laptops,BrandA,9458,181
+P1358,Energy Lite,Sports,Outdoor,BrandB,6019,444
+P1359,Dark Lite,Beauty,Skincare,BrandE,953,487
+P1360,Customer Max,Home & Kitchen,Decor,BrandC,4246,111
+P1361,Not Pro,Home & Kitchen,Decor,BrandA,3869,363
+P1362,List Max,Sports,Fitness,BrandC,674,21
+P1363,Challenge X,Apparel,T-Shirts,BrandA,1248,284
+P1364,Knowledge Lite,Home & Kitchen,Furniture,BrandD,6393,110
+P1365,Cover Pro,Electronics,Laptops,BrandC,6557,53
+P1366,Family Max,Sports,Cycling,BrandA,7609,452
+P1367,Maintain Pro,Apparel,Shoes,BrandB,4877,314
+P1368,Enjoy X,Home & Kitchen,Decor,BrandE,3954,454
+P1369,Two Lite,Home & Kitchen,Cookware,BrandB,2591,26
+P1370,Wind Max,Beauty,Skincare,BrandD,3224,339
+P1371,Bag Pro,Apparel,T-Shirts,BrandD,5791,66
+P1372,Level Lite,Sports,Cycling,BrandA,3151,320
+P1373,System Lite,Electronics,Headphones,BrandB,104,312
+P1374,Training Pro,Home & Kitchen,Decor,BrandC,5322,21
+P1375,Total Lite,Sports,Cycling,BrandA,5415,327
+P1376,Oil Lite,Beauty,Skincare,BrandA,4969,89
+P1377,Billion Max,Home & Kitchen,Furniture,BrandB,976,225
+P1378,Apply Lite,Apparel,T-Shirts,BrandE,9283,348
+P1379,Reach Max,Sports,Outdoor,BrandD,7127,273
+P1380,Now Lite,Electronics,Laptops,BrandC,4242,488
+P1381,Think X,Beauty,Skincare,BrandD,7066,158
+P1382,Administration X,Sports,Fitness,BrandA,7179,90
+P1383,Better Max,Home & Kitchen,Cookware,BrandE,8087,224
+P1384,With Max,Electronics,Headphones,BrandA,6899,494
+P1385,Some X,Home & Kitchen,Cookware,BrandE,4565,383
+P1386,Time Lite,Home & Kitchen,Decor,BrandB,735,473
+P1387,Economic Max,Apparel,Jeans,BrandD,1793,207
+P1388,Compare Pro,Apparel,T-Shirts,BrandA,9974,209
+P1389,Investment Lite,Home & Kitchen,Decor,BrandE,4852,34
+P1390,Mention Lite,Beauty,Haircare,BrandE,8411,475
+P1391,Medical X,Apparel,Shoes,BrandA,930,98
+P1392,Different Max,Apparel,T-Shirts,BrandD,5277,277
+P1393,Treatment Lite,Apparel,Jeans,BrandB,9661,152
+P1394,Institution Max,Apparel,T-Shirts,BrandB,9032,68
+P1395,Weight Max,Electronics,Headphones,BrandC,8408,419
+P1396,Artist Max,Home & Kitchen,Furniture,BrandC,6049,498
+P1397,Community X,Electronics,Laptops,BrandC,2938,374
+P1398,Hundred Max,Sports,Outdoor,BrandD,1250,35
+P1399,Able X,Sports,Outdoor,BrandC,7660,56
+P1400,In Pro,Sports,Cycling,BrandC,2031,297
+P1401,Evidence Lite,Electronics,Headphones,BrandD,9304,275
+P1402,With Lite,Home & Kitchen,Furniture,BrandC,1764,25
+P1403,Step Pro,Sports,Outdoor,BrandB,1181,208
+P1404,Still X,Apparel,Jeans,BrandA,612,410
+P1405,Look Lite,Sports,Outdoor,BrandB,7905,416
+P1406,Feeling X,Beauty,Haircare,BrandB,5337,291
+P1407,Land X,Apparel,Jeans,BrandE,659,478
+P1408,Same X,Apparel,Jeans,BrandA,3772,95
+P1409,Side Pro,Apparel,T-Shirts,BrandB,7504,259
+P1410,Step Pro,Sports,Cycling,BrandA,3443,400
+P1411,Only X,Apparel,Jeans,BrandB,4170,279
+P1412,Recently Max,Beauty,Makeup,BrandD,9762,344
+P1413,Serious Pro,Electronics,Mobiles,BrandD,680,126
+P1414,Message Max,Beauty,Makeup,BrandC,7104,16
+P1415,Clear Max,Home & Kitchen,Furniture,BrandD,8230,146
+P1416,Customer X,Apparel,Jeans,BrandA,3247,380
+P1417,Fine Max,Beauty,Skincare,BrandE,4349,185
+P1418,Director Max,Sports,Cycling,BrandC,1779,337
+P1419,Article Max,Home & Kitchen,Cookware,BrandB,3606,324
+P1420,Particularly X,Beauty,Haircare,BrandD,7353,224
+P1421,Simply X,Apparel,T-Shirts,BrandC,2844,486
+P1422,Occur Pro,Sports,Fitness,BrandD,9535,91
+P1423,Ask Pro,Apparel,Jeans,BrandC,5288,232
+P1424,Small Max,Home & Kitchen,Decor,BrandA,2241,487
+P1425,Former X,Beauty,Haircare,BrandA,6717,381
+P1426,Art X,Apparel,Shoes,BrandB,2579,432
+P1427,Apply Max,Home & Kitchen,Decor,BrandC,6584,492
+P1428,Pattern Pro,Sports,Outdoor,BrandE,9927,411
+P1429,Me X,Beauty,Makeup,BrandA,7521,452
+P1430,Morning Pro,Beauty,Skincare,BrandB,4552,499
+P1431,Wide Max,Home & Kitchen,Cookware,BrandC,5981,112
+P1432,Tonight X,Beauty,Makeup,BrandB,6765,282
+P1433,Nice Max,Sports,Fitness,BrandA,2949,23
+P1434,Coach Lite,Sports,Outdoor,BrandB,7490,168
+P1435,Art Max,Beauty,Haircare,BrandC,7005,161
+P1436,Movie Max,Apparel,T-Shirts,BrandD,2589,492
+P1437,Be Max,Apparel,Jeans,BrandE,9923,117
+P1438,Today X,Sports,Cycling,BrandA,9307,197
+P1439,Cultural Max,Apparel,Shoes,BrandC,9640,310
+P1440,Authority Max,Home & Kitchen,Decor,BrandC,4711,107
+P1441,Physical Lite,Electronics,Laptops,BrandB,2939,140
+P1442,Author X,Beauty,Makeup,BrandA,8627,302
+P1443,Republican Lite,Home & Kitchen,Furniture,BrandD,5978,180
+P1444,Training Max,Sports,Cycling,BrandD,9187,433
+P1445,Easy X,Electronics,Headphones,BrandE,6403,483
+P1446,International Lite,Sports,Cycling,BrandE,951,192
+P1447,Call Max,Electronics,Laptops,BrandB,1787,480
+P1448,Year Pro,Home & Kitchen,Furniture,BrandA,6933,373
+P1449,Voice Lite,Electronics,Mobiles,BrandD,2527,48
+P1450,Over X,Apparel,Shoes,BrandA,9860,24
+P1451,Employee Lite,Home & Kitchen,Furniture,BrandB,4100,385
+P1452,Particular Lite,Beauty,Skincare,BrandA,5152,13
+P1453,Phone Lite,Sports,Fitness,BrandA,2838,358
+P1454,Among Pro,Apparel,Shoes,BrandA,5832,479
+P1455,President X,Beauty,Haircare,BrandB,5487,418
+P1456,Beat X,Electronics,Laptops,BrandB,8102,406
+P1457,Kind X,Apparel,T-Shirts,BrandB,5636,219
+P1458,Really Max,Beauty,Haircare,BrandD,4013,170
+P1459,Past X,Home & Kitchen,Decor,BrandC,1166,25
+P1460,Other X,Electronics,Mobiles,BrandA,7823,435
+P1461,Necessary Pro,Beauty,Haircare,BrandE,4480,117
+P1462,Four Max,Electronics,Mobiles,BrandE,4207,391
+P1463,Worry Max,Beauty,Skincare,BrandC,5826,459
+P1464,Every Lite,Sports,Cycling,BrandA,3473,320
+P1465,Democratic Max,Home & Kitchen,Cookware,BrandA,9045,236
+P1466,Relationship Max,Apparel,T-Shirts,BrandA,2182,179
+P1467,Sense Pro,Beauty,Makeup,BrandB,9067,43
+P1468,Former X,Electronics,Mobiles,BrandD,6848,423
+P1469,Edge Max,Home & Kitchen,Decor,BrandB,9917,260
+P1470,Evidence Max,Apparel,T-Shirts,BrandA,517,256
+P1471,Individual Pro,Electronics,Mobiles,BrandC,8406,278
+P1472,Catch Max,Home & Kitchen,Decor,BrandA,8908,150
+P1473,Remain Max,Electronics,Mobiles,BrandA,4074,283
+P1474,Quite Pro,Home & Kitchen,Cookware,BrandD,3367,425
+P1475,First Lite,Apparel,T-Shirts,BrandA,925,105
+P1476,Lot Lite,Apparel,Shoes,BrandB,7768,236
+P1477,Four Max,Electronics,Laptops,BrandE,5845,388
+P1478,Woman Max,Home & Kitchen,Furniture,BrandD,9808,48
+P1479,Society X,Beauty,Skincare,BrandD,512,311
+P1480,Would Max,Apparel,Shoes,BrandD,7643,38
+P1481,Baby X,Beauty,Haircare,BrandA,7687,455
+P1482,Act Lite,Beauty,Haircare,BrandD,828,486
+P1483,Low Max,Sports,Cycling,BrandD,7264,327
+P1484,Pretty Max,Electronics,Laptops,BrandB,8967,254
+P1485,Order Pro,Electronics,Headphones,BrandC,6088,245
+P1486,Black Max,Electronics,Laptops,BrandB,2604,194
+P1487,Back Lite,Home & Kitchen,Cookware,BrandB,3067,281
+P1488,Note Max,Apparel,T-Shirts,BrandC,2886,449
+P1489,Different X,Apparel,Shoes,BrandC,1222,245
+P1490,Move Max,Sports,Cycling,BrandD,4179,248
+P1491,Evidence X,Sports,Outdoor,BrandB,1671,386
+P1492,Cause Pro,Sports,Fitness,BrandA,5173,275
+P1493,Worker Max,Beauty,Skincare,BrandE,5204,423
+P1494,Happy Pro,Electronics,Headphones,BrandE,2243,418
+P1495,Upon Pro,Home & Kitchen,Decor,BrandE,9979,368
+P1496,Authority Max,Apparel,Jeans,BrandB,6906,349
+P1497,Until X,Home & Kitchen,Decor,BrandC,7457,398
+P1498,Election Max,Electronics,Laptops,BrandD,3540,74
+P1499,Hope X,Electronics,Mobiles,BrandD,3866,487
+P1500,Feel Pro,Apparel,Shoes,BrandE,5744,186
+P1501,Coach Lite,Beauty,Haircare,BrandD,3014,12
+P1502,Left Max,Sports,Cycling,BrandA,5068,438
+P1503,These Lite,Beauty,Makeup,BrandA,6017,151
+P1504,Of X,Electronics,Mobiles,BrandC,8887,385
+P1505,Score Max,Electronics,Mobiles,BrandD,828,167
+P1506,Five Lite,Beauty,Skincare,BrandB,1465,333
+P1507,Population Lite,Sports,Cycling,BrandD,4592,155
+P1508,Surface Max,Sports,Fitness,BrandB,798,455
+P1509,Ready Lite,Electronics,Mobiles,BrandE,7286,302
+P1510,Newspaper Max,Sports,Fitness,BrandB,495,162
+P1511,Across Lite,Sports,Cycling,BrandE,7500,441
+P1512,Region Pro,Apparel,Shoes,BrandA,8182,202
+P1513,Technology Max,Apparel,Jeans,BrandD,4271,446
+P1514,Once Pro,Home & Kitchen,Furniture,BrandC,4460,472
+P1515,Firm Pro,Beauty,Makeup,BrandD,2602,82
+P1516,Work Lite,Electronics,Laptops,BrandE,817,408
+P1517,Record X,Sports,Fitness,BrandD,2882,314
+P1518,Body Pro,Home & Kitchen,Furniture,BrandC,5046,386
+P1519,Wrong Pro,Apparel,Jeans,BrandE,5586,353
+P1520,Unit Pro,Sports,Outdoor,BrandE,8435,461
+P1521,Center X,Beauty,Haircare,BrandC,5080,149
+P1522,Everything X,Apparel,T-Shirts,BrandD,7366,196
+P1523,Business Pro,Electronics,Headphones,BrandC,4591,302
+P1524,Voice X,Sports,Fitness,BrandB,7292,70
+P1525,Both X,Home & Kitchen,Furniture,BrandA,5688,494
+P1526,Situation X,Electronics,Headphones,BrandC,7751,436
+P1527,On Max,Sports,Fitness,BrandE,3736,389
+P1528,Clearly Pro,Sports,Cycling,BrandB,1267,207
+P1529,Expert X,Sports,Cycling,BrandA,1162,304
+P1530,Father Max,Sports,Fitness,BrandC,2256,449
+P1531,Point Lite,Sports,Fitness,BrandA,7960,328
+P1532,Develop Lite,Electronics,Laptops,BrandD,5261,311
+P1533,Series X,Beauty,Makeup,BrandE,5405,353
+P1534,Gun Pro,Beauty,Makeup,BrandC,6641,20
+P1535,Democrat X,Electronics,Headphones,BrandE,4829,71
+P1536,Right Lite,Beauty,Makeup,BrandB,9448,342
+P1537,Protect Pro,Home & Kitchen,Cookware,BrandB,7430,235
+P1538,Tonight Pro,Home & Kitchen,Decor,BrandA,5434,162
+P1539,Everything Lite,Electronics,Mobiles,BrandB,9024,208
+P1540,Mouth Max,Home & Kitchen,Decor,BrandB,4430,61
+P1541,Middle Max,Electronics,Mobiles,BrandC,8110,269
+P1542,Enter X,Home & Kitchen,Cookware,BrandE,6901,68
+P1543,Western Pro,Apparel,Jeans,BrandA,4946,81
+P1544,Whatever X,Electronics,Laptops,BrandB,6831,157
+P1545,Throughout Pro,Sports,Cycling,BrandE,7341,358
+P1546,Approach Lite,Home & Kitchen,Furniture,BrandD,1053,72
+P1547,Best Pro,Apparel,Shoes,BrandC,2639,319
+P1548,Protect Pro,Electronics,Mobiles,BrandB,7156,382
+P1549,Land Lite,Home & Kitchen,Decor,BrandB,1642,252
+P1550,Themselves Max,Sports,Fitness,BrandB,5393,375
+P1551,Factor Lite,Home & Kitchen,Cookware,BrandE,1291,339
+P1552,Another Pro,Apparel,T-Shirts,BrandC,6413,116
+P1553,About Lite,Beauty,Haircare,BrandC,7038,235
+P1554,Goal Pro,Beauty,Haircare,BrandE,2781,322
+P1555,Spend Max,Apparel,Jeans,BrandA,9509,227
+P1556,Case Max,Apparel,Jeans,BrandC,1640,434
+P1557,Public Pro,Electronics,Mobiles,BrandE,6272,250
+P1558,Everybody Max,Beauty,Skincare,BrandE,5641,268
+P1559,Color Lite,Electronics,Headphones,BrandB,9680,385
+P1560,Site Max,Home & Kitchen,Furniture,BrandE,1465,271
+P1561,Letter X,Apparel,Shoes,BrandB,8791,14
+P1562,Ok Max,Electronics,Headphones,BrandD,9972,270
+P1563,Season X,Apparel,Shoes,BrandE,8802,63
+P1564,Late Lite,Electronics,Mobiles,BrandC,7594,56
+P1565,Option Max,Home & Kitchen,Cookware,BrandB,4412,224
+P1566,Act Max,Home & Kitchen,Furniture,BrandD,1424,186
+P1567,Brother Max,Sports,Fitness,BrandA,9447,18
+P1568,Bag Lite,Beauty,Skincare,BrandA,3241,108
+P1569,You Lite,Sports,Cycling,BrandA,7519,29
+P1570,Use X,Beauty,Skincare,BrandB,3586,387
+P1571,Rock Pro,Home & Kitchen,Decor,BrandE,1910,250
+P1572,Well Lite,Electronics,Laptops,BrandB,6688,70
+P1573,Church Max,Apparel,T-Shirts,BrandA,3023,388
+P1574,Offer X,Home & Kitchen,Furniture,BrandE,5401,499
+P1575,Also Max,Home & Kitchen,Cookware,BrandD,4286,428
+P1576,They Max,Electronics,Headphones,BrandA,9005,187
+P1577,Hope Lite,Home & Kitchen,Cookware,BrandC,6077,347
+P1578,Pass Pro,Home & Kitchen,Decor,BrandE,4368,71
+P1579,Old Max,Electronics,Laptops,BrandB,4848,154
+P1580,Choose Lite,Home & Kitchen,Decor,BrandB,4949,225
+P1581,Law X,Beauty,Haircare,BrandC,9535,12
+P1582,Care Max,Beauty,Makeup,BrandB,3809,169
+P1583,Analysis X,Beauty,Makeup,BrandC,9373,236
+P1584,Foot Lite,Beauty,Haircare,BrandA,6719,495
+P1585,His Lite,Home & Kitchen,Cookware,BrandA,8747,278
+P1586,Way Lite,Apparel,Shoes,BrandB,9186,129
+P1587,Worker Lite,Beauty,Haircare,BrandE,9676,390
+P1588,Style Lite,Beauty,Skincare,BrandB,3172,98
+P1589,Traditional Pro,Home & Kitchen,Decor,BrandA,6630,338
+P1590,Among X,Sports,Cycling,BrandE,604,77
+P1591,Way Pro,Home & Kitchen,Furniture,BrandC,1314,407
+P1592,Help X,Electronics,Mobiles,BrandA,1631,366
+P1593,Develop Max,Beauty,Skincare,BrandC,7676,107
+P1594,Rest Max,Electronics,Laptops,BrandD,923,276
+P1595,Enjoy X,Beauty,Skincare,BrandE,1028,114
+P1596,Reflect Max,Sports,Fitness,BrandA,5129,449
+P1597,Board Max,Apparel,Jeans,BrandC,233,332
+P1598,Health Max,Sports,Cycling,BrandC,2205,132
+P1599,State Pro,Home & Kitchen,Decor,BrandC,3727,485
+P1600,Opportunity Pro,Home & Kitchen,Decor,BrandB,6416,38
+P1601,Usually Lite,Electronics,Laptops,BrandB,1952,146
+P1602,Two X,Electronics,Laptops,BrandD,5010,204
+P1603,Investment Max,Home & Kitchen,Cookware,BrandD,4275,418
+P1604,Pressure X,Home & Kitchen,Decor,BrandC,5448,235
+P1605,So Lite,Home & Kitchen,Furniture,BrandB,9542,341
+P1606,Clear Lite,Beauty,Makeup,BrandE,6290,179
+P1607,Wish Max,Sports,Outdoor,BrandE,1356,18
+P1608,Wonder Lite,Beauty,Skincare,BrandC,3476,472
+P1609,Economic Max,Apparel,Jeans,BrandB,5745,49
+P1610,Treatment Lite,Beauty,Haircare,BrandE,3586,34
+P1611,Commercial Lite,Home & Kitchen,Furniture,BrandB,3684,270
+P1612,Such Max,Beauty,Makeup,BrandD,9688,404
+P1613,Talk Lite,Electronics,Mobiles,BrandC,8153,452
+P1614,Cost Lite,Home & Kitchen,Decor,BrandC,3430,235
+P1615,Upon Lite,Sports,Cycling,BrandB,2803,481
+P1616,Itself X,Beauty,Haircare,BrandB,8762,133
+P1617,Ago Pro,Home & Kitchen,Furniture,BrandA,8220,472
+P1618,Country X,Electronics,Mobiles,BrandE,7214,47
+P1619,Since Lite,Electronics,Headphones,BrandD,1453,337
+P1620,Window Pro,Beauty,Makeup,BrandE,5163,260
+P1621,Go X,Home & Kitchen,Cookware,BrandA,8649,398
+P1622,Stay X,Sports,Cycling,BrandB,7675,185
+P1623,Word X,Apparel,T-Shirts,BrandE,767,99
+P1624,Its Max,Electronics,Mobiles,BrandC,4568,411
+P1625,Suffer Lite,Apparel,Jeans,BrandE,9437,463
+P1626,Relationship Lite,Sports,Fitness,BrandB,6919,46
+P1627,Treat Pro,Beauty,Makeup,BrandE,3819,325
+P1628,Simple X,Electronics,Headphones,BrandA,2845,185
+P1629,Talk Lite,Apparel,Shoes,BrandD,7583,470
+P1630,Energy X,Electronics,Mobiles,BrandB,639,293
+P1631,Example Lite,Apparel,Shoes,BrandC,5064,462
+P1632,Collection X,Home & Kitchen,Furniture,BrandA,4935,470
+P1633,Store Lite,Home & Kitchen,Furniture,BrandB,3875,90
+P1634,Science Pro,Beauty,Makeup,BrandC,6142,123
+P1635,Box X,Sports,Fitness,BrandC,7202,49
+P1636,Idea Lite,Electronics,Mobiles,BrandB,7412,310
+P1637,Turn Pro,Sports,Fitness,BrandA,5420,233
+P1638,American Pro,Apparel,Jeans,BrandC,6232,327
+P1639,Town Lite,Beauty,Makeup,BrandD,7991,358
+P1640,Many X,Home & Kitchen,Furniture,BrandA,2879,124
+P1641,Doctor Max,Home & Kitchen,Furniture,BrandC,1024,195
+P1642,Decision Pro,Beauty,Skincare,BrandB,1681,332
+P1643,Technology Pro,Electronics,Mobiles,BrandB,7814,65
+P1644,Why Lite,Sports,Fitness,BrandA,3424,49
+P1645,Magazine Max,Apparel,T-Shirts,BrandC,5813,363
+P1646,Hard Max,Sports,Outdoor,BrandC,7126,49
+P1647,Focus Max,Home & Kitchen,Furniture,BrandA,355,356
+P1648,Tend Lite,Beauty,Haircare,BrandA,4904,470
+P1649,Stuff X,Home & Kitchen,Decor,BrandA,1938,246
+P1650,Try Pro,Home & Kitchen,Decor,BrandD,109,298
+P1651,Drive Lite,Apparel,Jeans,BrandD,2971,271
+P1652,Dog Max,Electronics,Mobiles,BrandD,9089,225
+P1653,Agent Pro,Electronics,Mobiles,BrandB,7509,156
+P1654,Receive Pro,Apparel,T-Shirts,BrandD,7518,345
+P1655,Data Max,Beauty,Makeup,BrandD,5224,177
+P1656,Inside Max,Sports,Cycling,BrandD,1115,101
+P1657,Get Pro,Beauty,Skincare,BrandC,2293,362
+P1658,Family Pro,Sports,Cycling,BrandE,8515,68
+P1659,Treatment X,Electronics,Headphones,BrandD,7549,68
+P1660,Available X,Home & Kitchen,Furniture,BrandA,4258,313
+P1661,Spring Lite,Home & Kitchen,Furniture,BrandD,4025,178
+P1662,Family Pro,Beauty,Skincare,BrandE,7070,278
+P1663,Have X,Apparel,Jeans,BrandB,7038,372
+P1664,Put Pro,Sports,Outdoor,BrandB,4884,54
+P1665,Mr Max,Home & Kitchen,Furniture,BrandD,4100,354
+P1666,Instead X,Beauty,Skincare,BrandA,1733,190
+P1667,Respond Max,Apparel,Shoes,BrandA,7366,179
+P1668,Threat Max,Electronics,Headphones,BrandC,8802,365
+P1669,Not Max,Apparel,T-Shirts,BrandA,484,200
+P1670,Glass Lite,Electronics,Headphones,BrandC,504,164
+P1671,Wrong Max,Beauty,Haircare,BrandC,8275,431
+P1672,Ahead Lite,Apparel,T-Shirts,BrandA,2100,197
+P1673,Business Pro,Beauty,Haircare,BrandA,9960,16
+P1674,Understand Pro,Electronics,Laptops,BrandC,6089,142
+P1675,Every X,Home & Kitchen,Cookware,BrandB,1560,244
+P1676,Could X,Home & Kitchen,Cookware,BrandD,7290,54
+P1677,Partner Lite,Electronics,Laptops,BrandB,7240,323
+P1678,Evidence Pro,Sports,Outdoor,BrandA,3736,258
+P1679,American X,Sports,Outdoor,BrandE,4909,40
+P1680,Boy X,Home & Kitchen,Furniture,BrandA,4278,32
+P1681,Pick X,Home & Kitchen,Cookware,BrandC,7345,435
+P1682,Leader Pro,Apparel,T-Shirts,BrandE,6700,403
+P1683,Hair X,Apparel,T-Shirts,BrandE,6097,169
+P1684,Shoulder Pro,Home & Kitchen,Furniture,BrandD,2148,372
+P1685,Stop Max,Sports,Outdoor,BrandA,4880,446
+P1686,Former Max,Apparel,Jeans,BrandD,816,167
+P1687,Least Max,Electronics,Laptops,BrandB,8039,48
+P1688,Police Lite,Apparel,Jeans,BrandE,5665,424
+P1689,Much Pro,Apparel,T-Shirts,BrandD,4644,91
+P1690,Business X,Apparel,Jeans,BrandB,5076,365
+P1691,Image Lite,Beauty,Makeup,BrandA,3519,267
+P1692,We Lite,Electronics,Mobiles,BrandA,7339,215
+P1693,Part Max,Home & Kitchen,Decor,BrandC,9866,86
+P1694,Customer Pro,Sports,Cycling,BrandB,349,486
+P1695,Environmental X,Sports,Outdoor,BrandB,8965,21
+P1696,Another Lite,Home & Kitchen,Decor,BrandD,870,304
+P1697,Section X,Beauty,Haircare,BrandE,4463,459
+P1698,Least Max,Sports,Fitness,BrandE,1177,233
+P1699,Ability Pro,Apparel,Jeans,BrandC,8527,22
+P1700,Nature X,Sports,Fitness,BrandC,8680,55
+P1701,Wish X,Electronics,Mobiles,BrandC,8001,164
+P1702,Sure Lite,Electronics,Laptops,BrandB,4958,122
+P1703,Nothing X,Home & Kitchen,Cookware,BrandA,6644,242
+P1704,Right Pro,Beauty,Makeup,BrandA,4819,26
+P1705,Serve Pro,Beauty,Makeup,BrandD,2914,369
+P1706,Yard X,Sports,Cycling,BrandE,3474,232
+P1707,Site Lite,Beauty,Makeup,BrandE,1352,363
+P1708,Since Lite,Beauty,Makeup,BrandD,7096,197
+P1709,Religious Max,Sports,Outdoor,BrandB,4773,457
+P1710,Debate Pro,Electronics,Laptops,BrandA,4630,353
+P1711,Himself Max,Apparel,Jeans,BrandC,6981,374
+P1712,Lawyer Lite,Home & Kitchen,Decor,BrandA,7049,172
+P1713,Available Max,Electronics,Headphones,BrandD,9621,335
+P1714,Red Lite,Beauty,Skincare,BrandA,6341,476
+P1715,Wife Max,Beauty,Makeup,BrandC,8117,423
+P1716,Give Max,Sports,Outdoor,BrandE,7041,464
+P1717,Price Pro,Home & Kitchen,Decor,BrandD,9650,83
+P1718,Former Pro,Apparel,Shoes,BrandB,7102,242
+P1719,Record Max,Sports,Fitness,BrandA,1431,233
+P1720,Thus Lite,Sports,Outdoor,BrandA,4361,491
+P1721,Capital Lite,Apparel,Jeans,BrandB,7748,328
+P1722,Service Pro,Apparel,T-Shirts,BrandB,9650,421
+P1723,We Pro,Beauty,Makeup,BrandC,5215,69
+P1724,First X,Sports,Outdoor,BrandA,4737,344
+P1725,Movement Pro,Electronics,Laptops,BrandD,4954,231
+P1726,For Lite,Electronics,Headphones,BrandA,3277,46
+P1727,Reflect Pro,Sports,Cycling,BrandC,7830,486
+P1728,Issue X,Apparel,Shoes,BrandD,2280,287
+P1729,General Max,Home & Kitchen,Furniture,BrandD,4992,205
+P1730,Interesting Max,Apparel,Shoes,BrandD,7143,413
+P1731,Same Lite,Apparel,T-Shirts,BrandC,237,361
+P1732,Find X,Home & Kitchen,Furniture,BrandA,6427,493
+P1733,Once Max,Apparel,Jeans,BrandE,3572,251
+P1734,Care Max,Home & Kitchen,Furniture,BrandD,5549,333
+P1735,Dark Pro,Sports,Outdoor,BrandB,2932,228
+P1736,Kitchen Max,Home & Kitchen,Furniture,BrandC,3679,201
+P1737,Red Lite,Electronics,Mobiles,BrandD,6071,26
+P1738,Yard Max,Home & Kitchen,Decor,BrandC,4264,21
+P1739,Hundred Lite,Apparel,T-Shirts,BrandB,8041,415
+P1740,Research Lite,Sports,Cycling,BrandD,5669,410
+P1741,Smile Pro,Home & Kitchen,Decor,BrandA,4400,403
+P1742,Weight X,Apparel,T-Shirts,BrandC,6369,383
+P1743,Contain Lite,Home & Kitchen,Decor,BrandD,3918,202
+P1744,Power Max,Sports,Cycling,BrandD,2006,31
+P1745,Outside Max,Sports,Fitness,BrandC,6354,483
+P1746,Fish Lite,Electronics,Headphones,BrandB,860,129
+P1747,Into Max,Sports,Outdoor,BrandC,7930,219
+P1748,Official Pro,Apparel,Shoes,BrandE,7450,315
+P1749,These Max,Sports,Fitness,BrandA,6338,279
+P1750,A Pro,Sports,Outdoor,BrandB,6190,201
+P1751,Fly Lite,Apparel,Jeans,BrandA,6131,184
+P1752,Few Lite,Apparel,Shoes,BrandA,7787,294
+P1753,Develop Lite,Sports,Fitness,BrandC,9191,213
+P1754,Law Pro,Sports,Outdoor,BrandE,8572,173
+P1755,Stock Max,Home & Kitchen,Decor,BrandD,1987,260
+P1756,Particularly Pro,Sports,Outdoor,BrandE,3366,236
+P1757,Policy Max,Electronics,Mobiles,BrandB,766,445
+P1758,Real Max,Electronics,Headphones,BrandE,4288,390
+P1759,Fund Pro,Electronics,Laptops,BrandA,771,469
+P1760,Make X,Electronics,Mobiles,BrandD,6877,16
+P1761,Letter Lite,Sports,Outdoor,BrandE,7670,38
+P1762,Letter Max,Home & Kitchen,Decor,BrandD,8056,404
+P1763,Republican Max,Apparel,T-Shirts,BrandE,5224,42
+P1764,Different Pro,Sports,Cycling,BrandD,5685,143
+P1765,Much X,Beauty,Makeup,BrandE,4877,376
+P1766,Material Lite,Sports,Outdoor,BrandB,4000,88
+P1767,Student X,Electronics,Mobiles,BrandD,6777,425
+P1768,Wear Lite,Beauty,Makeup,BrandC,7081,444
+P1769,Style Max,Sports,Cycling,BrandA,6476,468
+P1770,Simply Max,Home & Kitchen,Furniture,BrandD,623,67
+P1771,Condition Pro,Home & Kitchen,Decor,BrandA,2493,480
+P1772,Reason Pro,Beauty,Makeup,BrandE,2693,35
+P1773,Become X,Apparel,Shoes,BrandE,7340,491
+P1774,Federal X,Beauty,Haircare,BrandE,7037,439
+P1775,Myself Lite,Home & Kitchen,Decor,BrandE,6290,235
+P1776,Record Pro,Beauty,Makeup,BrandE,5340,294
+P1777,Property Max,Electronics,Headphones,BrandB,6593,13
+P1778,President Pro,Electronics,Mobiles,BrandA,2978,474
+P1779,Government X,Apparel,Jeans,BrandD,4243,108
+P1780,Better Pro,Beauty,Haircare,BrandB,3744,406
+P1781,Tell Max,Beauty,Haircare,BrandB,4532,498
+P1782,Society Pro,Beauty,Haircare,BrandB,1376,48
+P1783,Easy X,Beauty,Haircare,BrandB,5911,280
+P1784,Remember Max,Apparel,T-Shirts,BrandB,402,384
+P1785,Force Lite,Home & Kitchen,Cookware,BrandA,738,294
+P1786,Down Lite,Sports,Fitness,BrandD,155,166
+P1787,Sure Max,Apparel,Shoes,BrandA,8817,84
+P1788,Decide Max,Home & Kitchen,Decor,BrandD,8250,381
+P1789,Choice Max,Home & Kitchen,Furniture,BrandB,2225,297
+P1790,Ago X,Home & Kitchen,Cookware,BrandB,464,139
+P1791,Any Max,Beauty,Haircare,BrandE,6909,184
+P1792,Election X,Apparel,Shoes,BrandC,4721,471
+P1793,May Max,Home & Kitchen,Cookware,BrandC,5226,93
+P1794,Popular X,Sports,Cycling,BrandA,5222,31
+P1795,To X,Sports,Cycling,BrandA,1746,468
+P1796,Special Pro,Electronics,Headphones,BrandD,1018,36
+P1797,Baby Lite,Home & Kitchen,Decor,BrandE,2897,204
+P1798,Lose Max,Apparel,Jeans,BrandD,6606,346
+P1799,Join Lite,Beauty,Makeup,BrandE,5970,391
+P1800,Various Lite,Electronics,Laptops,BrandC,1631,245
+P1801,Professional Pro,Home & Kitchen,Cookware,BrandC,8272,449
+P1802,Parent Lite,Beauty,Skincare,BrandE,3445,101
+P1803,Day Lite,Apparel,T-Shirts,BrandD,7773,486
+P1804,Serious Max,Apparel,Jeans,BrandA,7049,30
+P1805,Same X,Electronics,Mobiles,BrandE,6982,312
+P1806,If Max,Electronics,Headphones,BrandE,2006,473
+P1807,Miss Max,Home & Kitchen,Decor,BrandE,3186,366
+P1808,Instead Lite,Beauty,Haircare,BrandD,8252,452
+P1809,Either Lite,Sports,Cycling,BrandA,5850,93
+P1810,Choose Max,Beauty,Haircare,BrandD,9005,271
+P1811,Reality Max,Apparel,Shoes,BrandB,1162,156
+P1812,Rise Lite,Apparel,Shoes,BrandB,2076,450
+P1813,Accept X,Home & Kitchen,Cookware,BrandE,1396,462
+P1814,Walk X,Sports,Outdoor,BrandE,6329,396
+P1815,Social Max,Home & Kitchen,Furniture,BrandE,7741,266
+P1816,Traditional X,Apparel,Jeans,BrandA,225,67
+P1817,Speech Max,Apparel,Jeans,BrandA,4732,389
+P1818,Value Pro,Beauty,Haircare,BrandE,6388,431
+P1819,Both Lite,Sports,Cycling,BrandA,3696,24
+P1820,Start Max,Beauty,Haircare,BrandC,6268,171
+P1821,Large Max,Beauty,Haircare,BrandE,9895,454
+P1822,Discuss Max,Home & Kitchen,Cookware,BrandC,7661,172
+P1823,Control X,Beauty,Makeup,BrandD,8358,329
+P1824,Summer Max,Electronics,Mobiles,BrandC,332,290
+P1825,Safe Pro,Electronics,Laptops,BrandD,9461,289
+P1826,National X,Beauty,Skincare,BrandD,6471,21
+P1827,Majority Lite,Sports,Outdoor,BrandE,4306,283
+P1828,Apply Pro,Beauty,Makeup,BrandE,9785,280
+P1829,Onto Max,Apparel,T-Shirts,BrandD,8043,217
+P1830,Enjoy Pro,Apparel,T-Shirts,BrandA,6991,36
+P1831,Whose Max,Sports,Cycling,BrandB,6838,81
+P1832,Thus Pro,Home & Kitchen,Cookware,BrandC,2572,69
+P1833,Campaign X,Electronics,Laptops,BrandD,2839,439
+P1834,Loss Max,Electronics,Laptops,BrandB,5501,482
+P1835,Cell X,Home & Kitchen,Furniture,BrandE,1861,154
+P1836,Suddenly Pro,Beauty,Makeup,BrandE,976,102
+P1837,Majority Max,Sports,Fitness,BrandD,3912,318
+P1838,Region Lite,Beauty,Haircare,BrandA,9604,17
+P1839,Nice Lite,Home & Kitchen,Furniture,BrandD,1560,88
+P1840,Operation Max,Sports,Outdoor,BrandC,1833,36
+P1841,Physical Pro,Electronics,Laptops,BrandB,1705,183
+P1842,Free Lite,Electronics,Mobiles,BrandA,5722,59
+P1843,Someone Max,Beauty,Makeup,BrandD,6867,208
+P1844,Vote Lite,Apparel,Shoes,BrandC,7086,396
+P1845,Level Max,Home & Kitchen,Decor,BrandC,3617,358
+P1846,Position Pro,Home & Kitchen,Furniture,BrandA,3835,457
+P1847,Teacher Pro,Beauty,Makeup,BrandC,9452,437
+P1848,Serve X,Home & Kitchen,Cookware,BrandC,8534,190
+P1849,Wait Lite,Electronics,Laptops,BrandC,2690,33
+P1850,Mother X,Beauty,Skincare,BrandC,1163,325
+P1851,Last Pro,Electronics,Headphones,BrandD,4424,387
+P1852,Then Max,Sports,Fitness,BrandA,9211,396
+P1853,What Pro,Sports,Fitness,BrandB,5442,413
+P1854,Official Pro,Apparel,Jeans,BrandB,105,55
+P1855,Like Max,Home & Kitchen,Decor,BrandC,7589,24
+P1856,Watch X,Sports,Fitness,BrandD,8759,162
+P1857,Cold Lite,Home & Kitchen,Decor,BrandC,8295,231
+P1858,Six Pro,Electronics,Mobiles,BrandC,6066,215
+P1859,Training Pro,Beauty,Haircare,BrandD,8937,464
+P1860,May Lite,Sports,Fitness,BrandE,217,282
+P1861,Listen Pro,Beauty,Haircare,BrandA,2651,391
+P1862,Event Lite,Sports,Fitness,BrandB,5660,245
+P1863,Society Lite,Home & Kitchen,Decor,BrandD,4389,349
+P1864,End Lite,Sports,Fitness,BrandB,946,237
+P1865,Though Max,Sports,Outdoor,BrandD,6416,18
+P1866,Public X,Electronics,Headphones,BrandD,6569,175
+P1867,Factor X,Apparel,Jeans,BrandE,9433,441
+P1868,Space Max,Electronics,Laptops,BrandC,9015,453
+P1869,Star X,Beauty,Skincare,BrandA,324,328
+P1870,Near X,Home & Kitchen,Furniture,BrandE,4308,223
+P1871,Memory X,Home & Kitchen,Decor,BrandB,6383,126
+P1872,Produce Pro,Sports,Fitness,BrandA,2148,395
+P1873,Edge Max,Home & Kitchen,Cookware,BrandC,6333,353
+P1874,Face X,Apparel,Shoes,BrandE,9865,81
+P1875,Less Max,Apparel,Shoes,BrandD,1928,404
+P1876,Bank X,Sports,Outdoor,BrandB,2017,73
+P1877,Sell X,Sports,Outdoor,BrandE,4334,214
+P1878,Feeling Max,Beauty,Skincare,BrandE,7088,218
+P1879,Easy Lite,Sports,Cycling,BrandA,2126,81
+P1880,Expert Max,Electronics,Headphones,BrandB,3844,286
+P1881,Government Lite,Electronics,Mobiles,BrandB,9193,283
+P1882,Front Pro,Electronics,Laptops,BrandB,109,487
+P1883,Walk Max,Apparel,Shoes,BrandA,360,329
+P1884,Now Lite,Home & Kitchen,Furniture,BrandB,6138,347
+P1885,Be X,Beauty,Makeup,BrandA,9965,375
+P1886,Certainly Pro,Sports,Fitness,BrandD,2319,104
+P1887,City Max,Beauty,Haircare,BrandA,7141,175
+P1888,During Lite,Apparel,T-Shirts,BrandC,2160,41
+P1889,Identify Lite,Sports,Fitness,BrandB,5387,20
+P1890,Rule Max,Sports,Outdoor,BrandC,1719,310
+P1891,Claim Lite,Apparel,Shoes,BrandC,8612,226
+P1892,Seat Max,Home & Kitchen,Cookware,BrandD,1442,298
+P1893,Difficult Lite,Sports,Cycling,BrandE,2932,111
+P1894,Attack X,Home & Kitchen,Cookware,BrandD,2924,434
+P1895,Join Max,Apparel,Shoes,BrandA,2094,401
+P1896,Involve Max,Beauty,Skincare,BrandA,3590,276
+P1897,Give Pro,Sports,Outdoor,BrandB,9410,223
+P1898,Occur X,Home & Kitchen,Furniture,BrandC,8084,188
+P1899,Man Max,Sports,Fitness,BrandD,1704,97
+P1900,Just Lite,Home & Kitchen,Furniture,BrandE,335,50
+P1901,Assume Lite,Sports,Fitness,BrandD,2008,410
+P1902,Design Lite,Sports,Outdoor,BrandB,8667,85
+P1903,There Pro,Sports,Cycling,BrandD,3630,386
+P1904,Kitchen Max,Beauty,Makeup,BrandE,5356,55
+P1905,Improve Lite,Sports,Cycling,BrandE,2735,169
+P1906,West Pro,Home & Kitchen,Decor,BrandC,8262,472
+P1907,Speech Pro,Beauty,Makeup,BrandC,9862,89
+P1908,Pattern Max,Electronics,Headphones,BrandB,2660,319
+P1909,Young Lite,Home & Kitchen,Furniture,BrandC,5515,95
+P1910,Safe X,Home & Kitchen,Decor,BrandA,3491,101
+P1911,Again Lite,Electronics,Laptops,BrandC,6051,157
+P1912,Tough X,Beauty,Haircare,BrandA,5568,170
+P1913,Up X,Sports,Fitness,BrandD,8107,211
+P1914,Southern Lite,Home & Kitchen,Furniture,BrandA,9164,433
+P1915,Parent X,Electronics,Laptops,BrandB,9544,425
+P1916,Husband Pro,Sports,Outdoor,BrandE,6513,251
+P1917,Me Pro,Beauty,Haircare,BrandB,7041,362
+P1918,According Lite,Home & Kitchen,Cookware,BrandB,9606,11
+P1919,Yes Max,Sports,Cycling,BrandB,4920,234
+P1920,He Pro,Sports,Cycling,BrandB,2998,298
+P1921,Fire Lite,Apparel,Jeans,BrandC,7646,242
+P1922,Some X,Electronics,Headphones,BrandD,177,470
+P1923,In Pro,Sports,Cycling,BrandE,7677,423
+P1924,Tonight Lite,Beauty,Skincare,BrandA,4327,426
+P1925,Wait Lite,Apparel,Shoes,BrandA,700,86
+P1926,Thing Max,Sports,Fitness,BrandD,1165,125
+P1927,Kind X,Sports,Outdoor,BrandB,2236,163
+P1928,Nothing X,Beauty,Skincare,BrandB,9610,415
+P1929,Small X,Apparel,T-Shirts,BrandE,7043,112
+P1930,Simple Lite,Apparel,Jeans,BrandA,7904,203
+P1931,Office Lite,Electronics,Mobiles,BrandB,6665,175
+P1932,Such X,Sports,Fitness,BrandC,6084,368
+P1933,Player Lite,Electronics,Laptops,BrandE,5242,99
+P1934,Water Max,Apparel,Shoes,BrandC,4770,183
+P1935,Discussion Lite,Electronics,Mobiles,BrandC,2290,131
+P1936,Method Lite,Beauty,Haircare,BrandD,9284,152
+P1937,Discuss Pro,Home & Kitchen,Furniture,BrandD,2812,491
+P1938,Explain Max,Beauty,Makeup,BrandC,2292,115
+P1939,Least Pro,Apparel,Shoes,BrandD,1348,384
+P1940,Mention X,Beauty,Skincare,BrandC,4133,437
+P1941,Air X,Apparel,Shoes,BrandB,2097,314
+P1942,Improve Max,Beauty,Makeup,BrandD,3787,369
+P1943,Great Lite,Sports,Outdoor,BrandC,4118,468
+P1944,Relate Pro,Sports,Fitness,BrandE,2070,326
+P1945,Respond Max,Beauty,Makeup,BrandE,8489,460
+P1946,Success Pro,Electronics,Headphones,BrandD,5865,132
+P1947,Interview Lite,Apparel,Shoes,BrandE,1302,399
+P1948,Shake Pro,Sports,Cycling,BrandA,8235,18
+P1949,Company Max,Apparel,Shoes,BrandA,5667,271
+P1950,Though Lite,Sports,Fitness,BrandE,7767,82
+P1951,Manage Lite,Home & Kitchen,Decor,BrandC,5842,368
+P1952,Wide Max,Beauty,Skincare,BrandE,5888,232
+P1953,Care Lite,Sports,Outdoor,BrandE,5508,425
+P1954,Prevent Pro,Beauty,Makeup,BrandE,8769,50
+P1955,None X,Home & Kitchen,Cookware,BrandC,9546,379
+P1956,Agreement Max,Apparel,T-Shirts,BrandC,1022,213
+P1957,What Pro,Beauty,Makeup,BrandA,519,273
+P1958,Indeed Lite,Sports,Outdoor,BrandD,2304,337
+P1959,Person X,Home & Kitchen,Decor,BrandA,1220,187
+P1960,Organization Pro,Sports,Fitness,BrandC,1050,357
+P1961,Recognize Max,Home & Kitchen,Furniture,BrandC,2436,327
+P1962,Agreement Lite,Home & Kitchen,Cookware,BrandC,5473,93
+P1963,Because Max,Sports,Outdoor,BrandC,2343,327
+P1964,Question Pro,Beauty,Skincare,BrandC,2745,120
+P1965,Later X,Apparel,T-Shirts,BrandC,4712,260
+P1966,Central Pro,Apparel,Jeans,BrandB,1965,392
+P1967,Trial Pro,Home & Kitchen,Decor,BrandB,6128,16
+P1968,Main Lite,Sports,Cycling,BrandE,7426,468
+P1969,Court Max,Home & Kitchen,Decor,BrandB,6471,93
+P1970,Apply Pro,Apparel,Jeans,BrandA,6459,217
+P1971,Ever Pro,Home & Kitchen,Furniture,BrandE,7963,397
+P1972,Hundred X,Home & Kitchen,Decor,BrandD,3328,399
+P1973,Generation X,Apparel,Jeans,BrandC,3819,323
+P1974,Development Max,Beauty,Makeup,BrandB,2471,31
+P1975,Look Max,Home & Kitchen,Decor,BrandA,2991,419
+P1976,General Lite,Beauty,Makeup,BrandD,3856,392
+P1977,Green Max,Home & Kitchen,Furniture,BrandC,4325,12
+P1978,Sort X,Sports,Fitness,BrandC,194,136
+P1979,Until Max,Home & Kitchen,Cookware,BrandD,2774,306
+P1980,Hundred Pro,Home & Kitchen,Decor,BrandD,6998,197
+P1981,Fall Max,Electronics,Mobiles,BrandD,893,371
+P1982,Soldier Max,Sports,Fitness,BrandA,2216,23
+P1983,Theory Lite,Sports,Outdoor,BrandE,5879,468
+P1984,Know Pro,Beauty,Skincare,BrandE,6266,475
+P1985,Entire Lite,Beauty,Makeup,BrandB,914,21
+P1986,They X,Home & Kitchen,Cookware,BrandC,445,96
+P1987,Beat Max,Apparel,Shoes,BrandB,8654,21
+P1988,Many Max,Home & Kitchen,Furniture,BrandE,2543,406
+P1989,After X,Electronics,Mobiles,BrandD,7883,34
+P1990,So Lite,Home & Kitchen,Furniture,BrandC,1084,310
+P1991,Notice Pro,Electronics,Headphones,BrandE,7890,252
+P1992,Area Lite,Home & Kitchen,Decor,BrandC,9931,131
+P1993,Hard Lite,Beauty,Makeup,BrandB,927,156
+P1994,Door Pro,Home & Kitchen,Decor,BrandE,3631,64
+P1995,Rate Max,Beauty,Haircare,BrandB,7247,247
+P1996,Authority Lite,Apparel,T-Shirts,BrandC,4551,365
+P1997,Statement X,Apparel,Shoes,BrandA,3976,182
+P1998,Reach Pro,Sports,Fitness,BrandD,6059,401
+P1999,Amount Max,Home & Kitchen,Furniture,BrandB,226,230
