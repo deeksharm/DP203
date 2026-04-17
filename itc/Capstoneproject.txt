@@ -1,0 +1,14 @@
+create and adf which follow below:
+1. load data from source blob to adls where if file size is greater then 30b
+2. file arrived in last 24 hours
+3. no cred static value used
+4. if any pipeline fails you will get notify via email
+5. make pipeline reusable with parameter, varible & global parameter
+
+blob -> adf -> adls  --> databricks using access key
+
+create ADB notebook:
+
+1. bronze table will be created based all csv, data quality checks no null entries, header is in lowercase, remove spaces from header
+2. silver : 
+3. Gold : for 2026 due payment & total sale
