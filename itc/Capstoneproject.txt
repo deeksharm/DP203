@@ -10,5 +10,6 @@ blob -> adf -> adls  --> databricks using access key
 create ADB notebook:
 
 1. bronze table will be created based all csv, data quality checks no null entries, header is in lowercase, remove spaces from header
-2. silver : 
-3. Gold : for 2026 due payment & total sale
+2. silver :  Type cast, date parse, trim/upper, dedup by PK, derived columns, filter expr, partition delta write in table
+3. Gold : for 2026 total payment & total sale Filter, join, group by, aggregate (sum/count/avg), order, config-defined metrics views
+
