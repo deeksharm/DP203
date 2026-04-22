@@ -1,5 +1,5 @@
 create and adf which follow below:
-1. load data from source blob to adls where if file size is greater then 30b
+1. load data from source blob to adls with incremental data load
 2. file arrived in last 24 hours
 3. no cred static value used
 4. if any pipeline fails you will get notify via email
