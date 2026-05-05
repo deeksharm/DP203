@@ -1,0 +1,9 @@
+Post class assignment:
+5/5/2026
+1. Diffrence between Datalake vs Database vs datawarehouse vs datamart?
+2. CRUD operation in sql
+3. install ssms in the system
+4. Write sql query to identify on which date mostly ordered has been placed.
+5. Write sql query to identify which customer has done max sale.
+6. Write sql query to identify which category product has been sold mostly.
+7. diffrence between view, table & stored procedure.
