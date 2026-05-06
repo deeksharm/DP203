@@ -4,3 +4,4 @@ to list file in linux vm : ls   (some sample file there)
 to list file in hdfs : hdfs dfs -ls
 to create folder in hdfs : hdfs dfs -mkdir /tmp/yourname
 to put file from linux vm to hdfs : hdfs dfs -put sample.csv /tmp/yourname
+to list file in hdfs your folder : hdfs dfs -ls /tmp/yourname
