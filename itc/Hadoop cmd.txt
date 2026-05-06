@@ -1,0 +1,4 @@
+connect with vm : ssh -i "test_key.pem" ec2-user@13.41.167.97
+
+to list file in linux vm : ls   (some sample file there)
+to list file in hdfs : hdfs dfs -ls
