@@ -7,3 +7,5 @@ to put file from linux vm to hdfs : hdfs dfs -put sample.csv /tmp/yourname
 to list file in hdfs your folder : hdfs dfs -ls /tmp/yourname
 to copy file from hdfs to hdfs : hdfs dfs -cp /currentpath/sample.csv /targetpath/tmp/yourname
 to move file from hdfs to hdfs : hdfs dfs -mv /currentpath/sample.csv /targetpath/tmp/yourname
+to read file from hdfs : hdfs dfs -cat /tmp/deeksha/sample.csv
+To set permission : sudo -u hdfs hdfs dfs -chmod -R 777 /tmp/deeksha/sample.csv
