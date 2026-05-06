@@ -10,6 +10,8 @@ Post class assignment:
 
 6/5/2026
 1. diffrence between view & materialised view
+2. Normalization & SCD
+3. CTE
 
 
 useful link:
