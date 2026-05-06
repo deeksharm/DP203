@@ -8,6 +8,9 @@ Post class assignment:
 6. Write sql query to identify which category product has been sold mostly.
 7. diffrence between view, table & stored procedure.
 
+6/5/2026
+1. diffrence between view & materialised view
+
 
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
