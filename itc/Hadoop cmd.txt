@@ -5,3 +5,5 @@ to list file in hdfs : hdfs dfs -ls
 to create folder in hdfs : hdfs dfs -mkdir /tmp/yourname
 to put file from linux vm to hdfs : hdfs dfs -put sample.csv /tmp/yourname
 to list file in hdfs your folder : hdfs dfs -ls /tmp/yourname
+to copy file from hdfs to hdfs : hdfs dfs -cp /currentpath/sample.csv /targetpath/tmp/yourname
+to move file from hdfs to hdfs : hdfs dfs -mv /currentpath/sample.csv /targetpath/tmp/yourname
