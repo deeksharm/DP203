@@ -9,7 +9,7 @@ to copy file from hdfs to hdfs : hdfs dfs -cp /currentpath/sample.csv /targetpat
 to move file from hdfs to hdfs : hdfs dfs -mv /currentpath/sample.csv /targetpath/tmp/yourname
 to read file from hdfs : hdfs dfs -cat /tmp/deeksha/sample.csv
 To set permission : sudo -u hdfs hdfs dfs -chmod -R 777 /tmp/deeksha/sample.csv
-to load data from windows to linux :  scp /c/Users/SSLTP11687/Downloads/ITC/Project_AzureDE/hospital_admissions.csv ec2-user@13.41.167.97:/hom
+to load data from windows to linux :  scp -i /c/Users/SSLTP11687/Downloads/ITC/test_key.pem  /c/Users/SSLTP11687/Downloads/ITC/Project_AzureDE/hospital_admissions.csv ec2-user@13.41.167.97:/home/ec2-user/datacp /c/Users/SSLTP11687/Downloads/ITC/Project_AzureDE/hospital_admissions.csv ec2-user@13.41.167.97:/hom
 e/hadoop
 
 # Download back to local filesystem
