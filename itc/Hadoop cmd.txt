@@ -60,3 +60,48 @@ hdfs dfs -getmerge /dir/ local	Merge multiple files to local
 hdfs dfsadmin -report	Cluster health report
 hdfs dfsadmin -safemode get	Check safe mode
 hdfs fsck /path -files -blocks	Check block health
+
+############################################################################ map reduce ################################################
+
+Step 1 — Create Mapper Script
+1.Command to create file using vim editor 
+    vi mapper.py
+2. Press i
+3. Add code:
+#!/usr/bin/env python3
+
+import sys
+
+for line in sys.stdin:
+    line = line.strip()
+    fields = line.split(',')
+
+    # Skip header row
+    if len(fields) == 5 and fields[3] != 'city':
+        city = fields[3]
+        print(f'{city}\t1')
+4) press Esc then :wq to save file 
+-------------------------------------
+Step 2 — Create Reducer Script
+1.create file using vim editor - reducer.py 
+2.Press i
+3. vi reducer.py (already crated)
+Add code:
+#!/usr/bin/env python3
+
+import sys
+from collections import defaultdict
+
+counts = defaultdict(int)
+
+for line in sys.stdin:
+    city, count = line.strip().split('\t')
+    counts[city] += int(count)
+
+for city, count in sorted(counts.items()):
+    print(f'{city}\t{count}')
+
+4) press Esc then :wq to save file 
+---------------------------------------
+Step 3 — Give Execute Permission
+chmod +x mapper.py reducer.py
