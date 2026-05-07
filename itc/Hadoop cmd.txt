@@ -105,3 +105,15 @@ for city, count in sorted(counts.items()):
 ---------------------------------------
 Step 3 — Give Execute Permission
 chmod +x mapper.py reducer.py
+
+##############################################################
+Run MapReduce Job on Hadoop Cluster
+
+yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
+-D mapreduce.job.reduces=1 \
+-input /tmp/uttam/sample.csv \
+-output /tmp/uttam/city_count_output \
+-mapper mapper.py \
+-reducer reducer.py \
+-file mapper.py \
+-file reducer.py
