@@ -11,3 +11,52 @@ to read file from hdfs : hdfs dfs -cat /tmp/deeksha/sample.csv
 To set permission : sudo -u hdfs hdfs dfs -chmod -R 777 /tmp/deeksha/sample.csv
 to load data from windows to linux :  scp /c/Users/SSLTP11687/Downloads/ITC/Project_AzureDE/hospital_admissions.csv ec2-user@13.41.167.97:/hom
 e/hadoop
+
+# Download back to local filesystem
+hdfs dfs -get /tmp/itc_runbook/employees.csv /tmp/employees_copy.csv
+
+# Copy within HDFS
+hdfs dfs -cp /tmp/itc_runbook/employees.csv /tmp/itc_runbook/employees_backup.csv
+
+# Move/rename within HDFS
+hdfs dfs -mv /tmp/itc_runbook/employees_backup.csv /tmp/itc_runbook/archive/employees_backup.csv
+
+# Delete a single file
+hdfs dfs -rm /tmp/itc_runbook/archive/employees_backup.csv
+
+# Delete directory recursively
+hdfs dfs -rm -r /tmp/itc_runbook/archive
+
+# Last 1KB of a file
+hdfs dfs -tail /tmp/itc_runbook/employees.csv
+
+# Free space on entire cluster
+hdfs dfs -df -h /
+
+HDFS CLI Quick Reference
+Command	What it does
+hdfs dfs -ls /path	List directory
+hdfs dfs -ls -R /path	List recursively
+hdfs dfs -mkdir -p /path	Create directory (with parents)
+hdfs dfs -put local hdfs	Upload local file to HDFS
+hdfs dfs -put -f local hdfs	Upload and overwrite
+hdfs dfs -get hdfs local	Download HDFS file to local
+hdfs dfs -cat /path	Print file contents
+hdfs dfs -tail /path	Last 1KB of file
+hdfs dfs -mv /src /dst	Move or rename
+hdfs dfs -cp /src /dst	Copy within HDFS
+hdfs dfs -rm /path	Delete file
+hdfs dfs -rm -r /path	Delete directory
+hdfs dfs -rm -skipTrash /path	Delete, bypass trash
+hdfs dfs -du -s -h /path	Size of directory
+hdfs dfs -df -h /	Free space on cluster
+hdfs dfs -count /path	Count files/dirs/bytes
+hdfs dfs -chmod 777 /path	Change permissions
+hdfs dfs -chown user:grp /path	Change owner
+hdfs dfs -setrep 2 /path	Change replication factor
+hdfs dfs -stat /path	File stats
+hdfs dfs -test -e /path	Check if path exists
+hdfs dfs -getmerge /dir/ local	Merge multiple files to local
+hdfs dfsadmin -report	Cluster health report
+hdfs dfsadmin -safemode get	Check safe mode
+hdfs fsck /path -files -blocks	Check block health
