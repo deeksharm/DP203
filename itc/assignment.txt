@@ -13,6 +13,20 @@ Post class assignment:
 2. Normalization & SCD
 3. CTE
 
+7/5/2026
+Exercise for hdfs & map reduce:
+Create /tmp/<yourname> in HDFS
+Upload employees.csv to it
+Print it with -cat — verify all 10 rows
+Confirm replication = 3 in the -ls output
+Check size with -du -s -h
+Change replication to 2 with -setrep and verify
+Write a city counter MapReduce job using Python streaming
+Input: employees.csv in HDFS
+Mapper: skip the header, emit city\t1 for each row
+Reducer: count employees per city
+Expected output: London\t1, Leeds\t1, Manchester\t1, etc.
+
 
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
