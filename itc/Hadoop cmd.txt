@@ -118,7 +118,7 @@ yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
 -file mapper.py \
 -file reducer.py
 
-########################################################################
+##############################Null record validation##########################################
 
 Null record validation :
 ----------------->Vim null mapper.py
@@ -149,8 +149,6 @@ for line in sys.stdin:
     print("VALID\t1")
 
 -------------------> Vim null_reducer.py
-
-
 #!/usr/bin/env python3
 
 import sys
@@ -223,3 +221,103 @@ step 5. cat sample.csv | python3 lowercase_mapper.py | python3 lowercase_reducer
 -file lowercase_reducer.py.py
 
 step 7. hdfs dfs -cat /tmp/uttam/lowercase_output /part-* 
+
+#########################################Print salary band range#####################################
+
+Step 1 — Create Salary Mapper Script(Validate data,Remove NULL records,Transform salary band,Add timestamp)
+---------------->>>>>>>>>>>>>>>>>>>>vi salary_mapper.py
+Add below code:
+#!/usr/bin/env python3
+
+import sys
+from datetime import datetime
+
+for line in sys.stdin:
+
+    line = line.strip()
+
+    # Skip empty lines
+    if not line:
+        continue
+
+    # Convert header to lowercase
+    line = line.lower()
+
+    fields = line.split(',')
+
+    # Skip invalid records
+    if len(fields) != 5:
+        continue
+
+    # Skip header row
+    if fields[4] == 'salary':
+        continue
+
+    # Remove null/empty records
+    if '' in fields or 'null' in fields:
+        continue
+
+    try:
+        salary = int(fields[4])
+
+        # Salary Band Logic
+        if salary < 45000:
+            band = 'LOW'
+
+        elif salary < 55000:
+            band = 'MID'
+
+        else:
+            band = 'HIGH'
+
+        # Current timestamp
+        insert_date = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+        # Output
+        print(f'{band}\t1\t{insert_date}')
+
+    except:
+        continue________________________________________
+
+----------------------------->>>>>vi salary_reducer.py
+Add below code:
+#!/usr/bin/env python3
+
+import sys
+from collections import defaultdict
+
+counts = defaultdict(int)
+timestamps = {}
+
+for line in sys.stdin:
+
+    fields = line.strip().split('\t')
+
+    band = fields[0]
+    count = int(fields[1])
+    insert_date = fields[2]
+
+    counts[band] += count
+    timestamps[band] = insert_date
+
+for band, count in sorted(counts.items()):
+    print(f'{band}\t{count}\t{timestamps[band]}')
+________________________________________
+Step 3 — Give Execute Permission
+chmod +x salary_mapper.py salary_reducer.py
+________________________________________
+Step 4 — Test Locally
+hdfs dfs -cat /tmp/uttam/sample.csv | python3 salary_mapper.py | sort | python3 salary_reducer.py________________________________________
+
+Step 5 — Run MapReduce Job on Hadoop Cluster
+yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
+-D mapreduce.job.reduces=1 \
+-input /tmp/uttam/sample.csv \
+-output /tmp/uttam/salary_band_output \
+-mapper salary_mapper.py \
+-reducer salary_reducer.py \
+-file salary_mapper.py \
+-file salary_reducer.py
+
+
+
