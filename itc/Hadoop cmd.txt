@@ -117,3 +117,63 @@ yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
 -reducer reducer.py \
 -file mapper.py \
 -file reducer.py
+
+########################################################################
+
+Null record validation :
+----------------->Vim null mapper.py
+#!/usr/bin/env python3
+
+import sys
+
+for line in sys.stdin:
+    line = line.strip()
+
+    # Skip empty lines
+    if not line:
+        continue
+    fields = line.split(',')
+
+    # Skip header
+    if fields[0] == 'id':
+        continue
+
+    # Salary column
+    salary = fields[4]
+
+    # Ignore NULL salaries
+    if salary == 'NULL':
+        continue
+
+    # Send valid records to reducer
+    print("VALID\t1")
+
+-------------------> Vim null_reducer.py
+
+
+#!/usr/bin/env python3
+
+import sys
+count = 0
+
+for line in sys.stdin:
+    line = line.strip()
+    key, value = line.split('\t')
+    count += int(value)
+
+print("Total Non-NULL Salary Records:", count)
+
+step 4.  chmod +x null mapper.py null_reducer.py
+
+step 5. cat sample.csv | python3 mapper.py | sort | python3 reducer.py
+
+ step 6. yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
+-D mapreduce.job.reduces=1 \
+-input /tmp/uttam/sample.csv \
+-output /tmp/uttam/not_null_output \
+-mapper "python3 null mapper.py" \
+-reducer "python3 null_reducer.py" \
+-file null mapper.py \
+-file null_reducer.py
+
+step 7. hdfs dfs -cat /tmp/uttam/not_null_output/part-*
