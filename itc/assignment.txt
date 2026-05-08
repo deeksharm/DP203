@@ -21,12 +21,15 @@ Print it with -cat — verify all 10 rows
 Confirm replication = 3 in the -ls output
 Check size with -du -s -h
 Change replication to 2 with -setrep and verify
+
+8/5/2026
 Write a city counter MapReduce job using Python streaming
 Input: employees.csv in HDFS
 Mapper: skip the header, emit city\t1 for each row
 Reducer: count employees per city
 Expected output: London\t1, Leeds\t1, Manchester\t1, etc.
-
+Tak 2 : print non null records from null_mapper & null_reducer file
+Task3: 
 
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
