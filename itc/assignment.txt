@@ -29,7 +29,7 @@ Mapper: skip the header, emit city\t1 for each row
 Reducer: count employees per city
 Expected output: London\t1, Leeds\t1, Manchester\t1, etc.
 Tak 2 : print non null records from null_mapper & null_reducer file
-Task3: 
+Task3: print output of employee with band column.
 
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
