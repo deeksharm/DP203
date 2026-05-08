@@ -177,3 +177,49 @@ step 5. cat sample.csv | python3 mapper.py | sort | python3 reducer.py
 -file null_reducer.py
 
 step 7. hdfs dfs -cat /tmp/uttam/not_null_output/part-*
+
+########################################################lower case header #############################
+
+step 1. Vim lowercase_mapper.py
+
+#!/usr/bin/env python3
+import sys
+first_line = True
+
+for line in sys.stdin:
+
+    line = line.strip()
+
+    if not line:
+        continue
+
+    # Convert only header row to lowercase
+    if first_line:
+        print(line.lower())
+        first_line = False
+    else:
+        print(line)
+
+step 2.vim  lowercase_reducer.py
+
+#!/usr/bin/env python3
+
+import sys
+
+for line in sys.stdin:
+    print(line.strip())
+
+step 3.  chmod +x lowercase_mapper.py lowercase_reducer.py
+
+step 5. cat sample.csv | python3 lowercase_mapper.py | python3 lowercase_reducer.py
+
+ step 6. yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
+-D mapreduce.job.reduces=1 \
+-input /tmp/uttam/sample.csv \
+-output /tmp/uttam/lowercase_output \
+-mapper "python3 lowercase_mapper.py " \
+-reducer " lowercase_reducer.py " \
+-file lowercase_mapper.py \
+-file lowercase_reducer.py.py
+
+step 7. hdfs dfs -cat /tmp/uttam/lowercase_output /part-* 
