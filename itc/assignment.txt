@@ -33,6 +33,12 @@ Task3: print output of employee with band column.
 
 11/5/2026
 column oriented storage or file format & parquet file format
+Create itc_runbook.<yourname>_emp table
+Load employees data into it
+Query: find all employees aged over 30
+Query: highest-paid employee in each city
+Create a partitioned version and inspect the HDFS structure under /warehouse
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
