@@ -31,6 +31,8 @@ Expected output: London\t1, Leeds\t1, Manchester\t1, etc.
 Tak 2 : print non null records from null_mapper & null_reducer file
 Task3: print output of employee with band column.
 
+11/5/2026
+column oriented storage or file format & parquet file format
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
