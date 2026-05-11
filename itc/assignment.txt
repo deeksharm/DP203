@@ -33,7 +33,7 @@ Task3: print output of employee with band column.
 
 11/5/2026
 column oriented storage or file format & parquet file format
-Create itc_runbook.<yourname>_emp table
+Create external table itc_runbook.<yourname>_emp table
 Load employees data into it
 Query: find all employees aged over 30
 Query: highest-paid employee in each city
