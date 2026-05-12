@@ -39,6 +39,15 @@ Query: find all employees aged over 30
 Query: highest-paid employee in each city
 Create a partitioned version and inspect the HDFS structure under /warehouse
 
+12/5/2026
+Run sqoop list-tables — verify you see cc_fraud_trans
+Import the table to HDFS /tmp/<yourname>/sqoop_out
+Use hdfs dfs -cat to preview the first 5 rows
+Count the records: hdfs dfs -cat /tmp/<yourname>/sqoop_out/part-m-00000 | wc -l
+Expected: ~7,400 rows (37,000 / 4 mappers)
+Import Directly into Hive instant of HDFS 
+Save a Sqoop Job (reuse across runs
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
