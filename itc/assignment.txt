@@ -48,6 +48,15 @@ Expected: ~7,400 rows (37,000 / 4 mappers)
 Import Directly into Hive instant of HDFS 
 Save a Sqoop Job (reuse across runs
 
+13/5/2026
+In Beeline (Hive), create itc_runbook.<yourname>_orders: order_id, product, amount, region
+Insert 5 rows using INSERT INTO ... VALUES (...)
+Switch to Impala shell, run INVALIDATE METADATA
+Query the table — note the speed difference
+Run COMPUTE STATS then EXPLAIN SELECT ... to see the query plan
+read customersourcedemo.csv using spark
+load into dataframe & take count of record & add one id column which has incrmenetal value.
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
