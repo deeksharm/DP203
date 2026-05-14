@@ -57,6 +57,17 @@ Run COMPUTE STATS then EXPLAIN SELECT ... to see the query plan
 read customersourcedemo.csv using spark
 load into dataframe & take count of record & add one id column which has incrmenetal value.
 
+14/5/2026
+read customersourcedemo.csv using spark
+load into dataframe & conver Header as lowercase
+FirstName+MiddleName+LastName = fullname
+Phone col to be cast int & remove additional character then keep last 10 digit
+Timestamp col to be casted as timestamp
+update gender col M=Male, F=Female
+remove Suffix col
+add one id column which has incrmenetal value.
+
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
