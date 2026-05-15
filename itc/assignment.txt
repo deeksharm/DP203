@@ -67,6 +67,19 @@ update gender col M=Male, F=Female
 remove Suffix col
 add one id column which has incrmenetal value.
 
+15/5/2026
+Open a PySpark shell on the cluster
+Read employees.csv from HDFS into a DataFrame
+Add a senior column: True if age >= 35, else False
+Calculate average salary for senior vs junior employees
+Write the result as Hive table itc_runbook.<yourname>_analysis
+Verify with beeline: SELECT * FROM itc_runbook.<yourname>_analysis
+--------------
+Create a Kafka topic: <yourname>_test with 3 partitions
+Write a Python producer that sends 10 employee records as JSON
+Write a Python consumer that reads them and prints only salary > 50000
+Check consumer lag with kafka-consumer-groups --describe
+Delete the topic when done
 
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
