@@ -319,5 +319,36 @@ yarn jar /opt/cloudera/parcels/CDH/lib/hadoop-mapreduce/hadoop-streaming.jar \
 -file salary_mapper.py \
 -file salary_reducer.py
 
+----------------------------------------------------------------18/5/2026------------------------
+from pyspark.sql import SparkSession
+from pyspark.sql.functions import from_json, col
+from pyspark.sql.types import StructType, StructField, StringType, DoubleType, IntegerType
 
+spark = SparkSession.builder.appName("KafkaToHDFS").master("yarn").getOrCreate()
+
+schema = StructType([
+    StructField("Transaction_ID",     StringType()),
+    StructField("User_ID",            StringType()),
+    StructField("Transaction_Amount", DoubleType()),
+    StructField("Fraud_Label",        IntegerType())
+])
+
+BROKERS = "ip-172-31-3-251.eu-west-2.compute.internal:9092,ip-172-31-6-42.eu-west-2.compute.internal:9092"
+
+df_stream = spark.readStream \
+    .format("kafka") \
+    .option("kafka.bootstrap.servers", BROKERS) \
+    .option("subscribe", "cc_fraud_stream") \
+    .option("startingOffsets", "latest") \
+    .load() \
+    .select(from_json(col("value").cast("string"), schema).alias("data")) \
+    .select("data.*")
+
+query = df_stream.writeStream \
+    .format("csv") \
+    .option("path", "hdfs://ip-172-31-3-251.eu-west-2.compute.internal:8020/tmp/itc_runbook/kafka_out/") \
+    .option("checkpointLocation", "/tmp/kafka_checkpoint/") \
+    .start()
+
+query.awaitTermination()
 
