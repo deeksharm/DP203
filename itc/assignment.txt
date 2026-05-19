@@ -89,6 +89,11 @@ Delete the topic when done
 5. connect with your both storage using storage explorer locally & upload file from local then validate in portal
 6. explore doffrent authentication menthod & diffrence between both storages
 
+in class -->
+1. create adf
+2. load raw/2026/may/customersourcedemo.csv from adls to blob as customersourcedemo.json.
+
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
