@@ -81,6 +81,14 @@ Write a Python consumer that reads them and prints only salary > 50000
 Check consumer lag with kafka-consumer-groups --describe
 Delete the topic when done
 
+--------------------------19/5/2026---------------
+1. create blob storage
+2. create ADLS
+3. in blob & adls create container = raw, refined, proccessed 
+4. create folders raw/2026/may then upload file customersourcedemo.csv (any file)
+5. connect with your both storage using storage explorer locally & upload file from local then validate in portal
+6. explore doffrent authentication menthod & diffrence between both storages
+
 useful link:
 https://data-flair.training/blogs/hadoop-tutorial/
 https://www.databricks.com/blog/what-is-hadoop
