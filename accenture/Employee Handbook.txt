@@ -1,0 +1,67 @@
+Employee Handbook
+
+Company Name: ABC Technologies
+
+Welcome Message
+Welcome to ABC Technologies. This handbook provides important company policies, employee guidelines, workplace expectations, and benefits information.
+
+1. Office Working Hours
+- Monday to Friday
+- 9:00 AM to 6:00 PM
+- Saturday and Sunday are weekly offs.
+
+2. Dress Code
+- Employees should maintain professional appearance.
+- Smart casuals are allowed on Fridays.
+
+3. Employee Benefits
+- Health insurance
+- Paid leave
+- Performance bonuses
+- Learning and development programs
+- Employee wellness initiatives
+
+4. Code of Conduct
+Employees are expected to:
+- Maintain professionalism
+- Respect colleagues
+- Protect confidential company data
+- Follow organizational policies
+- Maintain ethical behavior
+
+5. Information Security
+- Sharing confidential company information is prohibited.
+- Employees must use company-approved systems only.
+
+6. Work From Home Guidelines
+- Employees must maintain internet connectivity during work hours.
+- Availability during meetings is mandatory.
+
+7. IT Support
+For technical support contact:
+itsupport@abctech.com
+
+8. HR Support
+For HR-related queries contact:
+hrsupport@abctech.com
+
+9. Learning and Development
+Employees are encouraged to participate in:
+- Technical trainings
+- Certification programs
+- Leadership workshops
+
+10. Workplace Safety
+Employees must follow:
+- Emergency evacuation procedures
+- Workplace safety guidelines
+- Security compliance rules
+
+11. Performance Management
+Performance reviews are conducted every 6 months.
+
+12. Anti-Harassment Policy
+ABC Technologies maintains a zero-tolerance policy toward workplace harassment and discrimination.
+
+13. Employee ID Card
+Employees must carry ID cards inside office premises at all times.

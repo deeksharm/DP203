@@ -1,0 +1,54 @@
+Attendance Policy Document
+
+Company Name: ABC Technologies
+Department: Human Resources
+
+Introduction
+This attendance policy defines employee attendance expectations, login procedures, work hours, and disciplinary rules.
+
+1. Daily Attendance
+- Employees must mark attendance daily using company-approved systems.
+
+2. Working Hours
+- Standard working hours are 9:00 AM to 6:00 PM.
+- Employees are expected to complete minimum 9 working hours daily.
+
+3. Late Attendance
+- Login beyond 15 minutes from shift start time is considered late attendance.
+- Repeated late attendance may lead to HR warning.
+
+4. Break Policy
+- Employees are allowed one lunch break and short refreshment breaks.
+
+5. Work From Home Attendance
+- Remote employees must update attendance through HR portal.
+- Availability during working hours is mandatory.
+
+6. Unauthorized Absence
+- Absence without manager approval is considered unauthorized.
+- Unauthorized absence may result in salary deduction or disciplinary action.
+
+7. Biometric Attendance
+- Employees working from office must use biometric attendance systems.
+
+8. Overtime
+- Overtime requires manager approval.
+
+9. Attendance Review
+- HR reviews attendance reports monthly.
+
+10. Public Holidays
+- Attendance is not required on company-declared holidays.
+
+11. Leave and Attendance Integration
+- Approved leaves are automatically adjusted in attendance records.
+
+12. Employee Responsibilities
+Employees must:
+- Maintain punctuality
+- Inform managers in case of emergencies
+- Follow attendance procedures
+
+Contact HR
+For attendance-related issues contact:
+attendance.support@abctech.com
